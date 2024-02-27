@@ -1,0 +1,11 @@
+2021 B.V.Hurricanes are the major flood generating mechanism dominating the upper tail of the peak discharge distribution over the Cape Fear River Basin (CFRB).
+In 2018, Hurricane Florence swamped CFRB as the ninth-most-destructive hurricane ever hit the United States and set new records of peak discharges over the main river channel and three out of five of its major tributaries.
+In this study, we examined the hydrometeorology and hydrology of this flood via combined observation and numerical experiment analyses.
+Our results suggest that the slow-motion in combination to the L-shaped path was the most distinctive feature of the hurricane that incurred catastrophic and widespread rainfall and flooding over CFRB.
+The total rainfall from the storm played a controlling role in the magnitude and spatial distribution of the flood peaks at basin scale.
+Above that, the spatial heterogeneities of rainfall distribution and hydrologic characteristics was responsible for the distinctive flood responses within the basin.
+The bi-peak shape of the flood hydrograph for the Deep River was due to the combined effects of rainfall distribution, land cover, and topographic gradient.
+The exceptional unit peak discharge over the Black River basin was associated with its drainage network structure, topographic gradient and rainfall distribution.
+The floodplain downstream of the Cape Fear River temporarily stored flood water and attenuated both the riverine floods from upstream and the compound flood over the coastal area.
+Furthermore, numerical analyses found that re-infiltration accounted for 76% of the total infiltration on average.
+Re-infiltration was superior to local infiltration over CFRB during Hurricane Florence.

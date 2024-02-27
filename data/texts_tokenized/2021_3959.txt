@@ -1,0 +1,7 @@
+Copyright 2021 Inderscience Enterprises Ltd.Coastal areas have been gradually modified by humans to face emerging social needs.
+This phenomenon can be traced in the Amalfi Coast (Southern Italy) through the presence of terraces, constructed to make its steep slope habitable and arable.
+The current research is aimed to investigate the anthropisation process in Minori, and to identify the most vulnerable areas where debris flows.
+Two photogrammetric datasets, acquired in 1956 and 2017, respectively, were processed to generate two fine resolution digital elevation models and orthophotos, applied to calculate the normalised remaining vegetation index, the digital elevation model of differences, the new vulnerability expeditious index.
+The two orthophotos were also classified by applying the OBIA approach for extracting terraced areas.
+An increment of 800% of man-made infrastructures was detected, while the extension and the location of terraces was not subjected to any transformation.
+This implies a strong increment of vulnerability in the Minori municipality.

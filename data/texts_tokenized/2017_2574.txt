@@ -1,0 +1,6 @@
+2017 Taylor & Francis Group, London.With the rapid development of urbanization in coastal areas, many municipal solidwaste landfills tend to be built near shorelines.
+Complex hydrodynamic conditions like tidal fluctuations may affect the heavy metal transport of landfill leachate in sedimentation beach groundwater system.
+In order for making an analysis of tidal effects on groundwater movement and heavy metal transport, regular field observations were conducted and a field data calibrated numerical model of groundwater flow field in a seaside landfill site based on the SEAWAT model was presented to simulate heavy metal transport.
+It is concluded that both the groundwater table and the concentration of heavy metal pollutants fluctuations induced by the tide possess the characteristics of phase lag and amplitude attenuation.
+Pollutants travel about 34m farther and 20% more towards the sea when tidal effects are taken into account.
+The results can provide a theoretical basis for controlling the heavy metal pollution and protecting the coastal resources and environment.

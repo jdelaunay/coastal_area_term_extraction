@@ -1,0 +1,10 @@
+Stable isotopes (d15N) have been used to determine trophic levels in marine food webs.
+This study assessed if Marine Protected Areas (MPAs) affect the trophic levels of fishes based on stable isotopes in the western Mediterranean.
+A total of 22 studies including 600 observations were found and the final dataset consisted of 11 fish species and 146 observations comparing trophic levels inside and outside MPAs.
+The database was analysed by meta-analysis and the covariate selected was the level of protection (inside vs.
+outside MPAs).
+The results indicate significant differences between trophic levels inside and outside the MPAs; however, results differ from expectations since the trophic level was lower inside than outside MPAs.
+Three habitats were analysed (coastal lagoons, demersal, and littoral) and significant statistical differences were found among them: trophic level was higher in demersal habitats than in coastal lagoons and littoral areas.
+No significant differences were found in species classified by trophic functional groups.
+Several hypotheses are considered as possible explanations linked to protection level, time since protection, and MPA size.
+We debate the suitability of using the stable isotope d15N as a direct indicator of trophic level in evaluating MPA effects on food webs.

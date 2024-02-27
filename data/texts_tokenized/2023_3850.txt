@@ -1,0 +1,8 @@
+The geological and geophysical data in the coastal area of Shantou, eastern Guangdong were interpreted and analyzed for geohazard assessment.
+Results show that there are mainly active faults, buried ancient rivers, shallow gas, and irregular shallow bedrock in this area.
+The geohazard was quantitatively assessed by using the analytic hierarchy process and fuzzy mathematics method.
+A risk assessment system was built, in which faults, buried ancient rivers, shallow gas, and shallow bedrock were used as assessment indicators, and different weights of them were assigned.
+According to the principle of maximum membership degree, risk levels of different blocks of the study area were calculated from which five risk levels were divided: very low, low, medium, high, and very high.
+More than 70% of the study area was in low risk, and the high-risk area was distributed in the Rongjiang River outer estuary and the southern part of Haimen Bay, affected mainly by buried ancient rivers and faults.
+The engineering geological conditions in the high, and very-high risk areas are poor due to unstable geological setting that should be avoided for site selection.
+The assessment results are consistent with known distribution of geohazards in the coastal waters of Shantou, indicating that the assessment method is reasonable and feasible, and shall have reference values for future development and disaster prevention in sea areas.

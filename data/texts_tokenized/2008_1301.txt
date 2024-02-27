@@ -1,0 +1,6 @@
+Springer Science + Business Media B.V.
+2008.The impact of benzo(a)pyrene (BaP) ship emissions on concentration and deposition distributions over Europe and in particular over North Sea coastal areas in comparison to land-based emissions is subject of this study.
+The carcinogenic BaP belongs to the group of polycyclic aromatic hydrocarbons (PAHs) and is here used as lead substance.
+A dataset with the ship emissions obtained from a bottom-up approach using ship movement data for the year 2000 derived from Lloyds Marine Intelligence Unit and average engine loads together with BaP emission factors is generated to serve as input for the chemistry transport model.
+Model runs with datasets including and excluding ship emissions are performed with the Community Multiscale Air Quality modelling system (CMAQ) which is set up on a 54 54 km2 grid for Europe.
+Provisional results show little influence of the BaP ship emissions on deposition and concentration distributions over sea and coastal areas.

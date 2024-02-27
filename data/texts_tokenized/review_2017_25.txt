@@ -1,0 +1,14 @@
+2017 The Author(s).Background: Shoreline works include any unnatural alteration or human intervention to coastal areas such as infilling, armouring, aquatic vegetation removal or planting, actions altering coastal processes, embayment creation, etc.
+The Fisheries Act requires that projects avoid causing serious harm to fish unless authorized by the Minister of Fisheries and Oceans Canada.
+This currently applies to work in or near water bodies that support or are part of a commercial, recreational or Aboriginal fishery.
+The Fisheries Protection Program, a decision-making body regulating the sustainability and ongoing productivity of these fisheries, utilizes various metrics of fish productivity to determine serious harm.
+The goal of this systematic review is to assess the type of shoreline alteration and their reported effects on fish productivity outcomes relevant to the temperate regions of Canada.
+The primary goal is to answer the question "how do the characteristics of shoreline works/alteration activities affect temperate fish productivity?
+"This review will assist Fisheries and Oceans Canada in determining future information needs, developing standards for evaluating serious harm, and providing an evidence base for decision making.
+Furthermore, this review will also result in a database that will provide access to information relevant for determining the impacts of shoreline alteration on fish communities.
+Methods: We will conduct a systematic search using multiple online scientific and government databases as well as specialist sites to gather literature relevant to the temperate region of Canada that examines the impacts of shoreline alteration and development on fish productivity.
+We will consider studies globally, but will focus our research on those that include freshwater, or estuarine environments that have a coastal impact.
+Study data will be extracted and appraised for quality and compiled for a meta-analysis to be completed should the available data be adequate to do so.
+Relevant research outcomes will be evaluated by a range of measures used by authors to define productivity and its surrogates, including but not limited to fish yield, abundance, recruitment, body size, community index, species richness or diversity, and species density.
+Effect size and magnitude, frequency and duration data from the relevant studies will be extracted and assessed through a meta-analysis to quantify or estimate the overall effects of shoreline alteration and development types on fish productivity.
+The impact of habitat alteration magnitude (e.g. project size, project duration) and fish population and community characteristics (e.g. fish taxonomy, thermal or habitat preferences) on effect size will also be assessed using sub-group analyses.

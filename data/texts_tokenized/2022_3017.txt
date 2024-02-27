@@ -1,0 +1,10 @@
+Copyright 2022 American Society of Agricultural and Biological Engineer.Agricultural drainage ditches tend to be clogged due to the sedimentation in the coastal area of Lake Sainte-Pierre in Quebec, Canada, where water flows at a low velocity and snowmelt-originated seasonal inundation occurs.
+Frequent dredging is required to ensure drainage performance, posing a significant economic burden on agricultural producers.
+This research aims to discover the possibility of using vegetative filter strips to reduce the ditch sedimentation rate and evaluate Unmanned Aerial Vehicle (UAV)-based LiDAR's ditch sedimentation monitoring ability in the densely vegetated drainage ditch condition.
+These sites were established in the coastal area of Lake Sainte Pierre near St. Cuthbert, Yamachiche and Baie-du-Febvre.
+Starting from Nov. 2019, three ditches in all three sites are treated with 0, 2-m, and 4-m vegetative filter strips.
+Four rounds of cross-section measurements were conducted at a 20-m interval of all ditches using an electronic total station in 2019-2021 to calculate sediment accumulation in drainage ditches.
+In addition to the total station survey, the ditches were scanned using a LiDAR-equipped Unmanned Aerial Vehicle (UAV) once per year for comparison with the acquired total station data.
+The results generally suggest no significant difference in sediment deposition during the monitoring period.
+However, the result showed a reverse effect where most drainage ditches experienced a volume increase across the experiment, indicating soil erosion, not sedimentation, might happen in the Lac Sainte-Pierre's drainage ditch.
+Also, a decimeter level of difference has been found between the LiDAR data and the total station data showing the limited capability of UAV-LiDAR in agricultural drainage ditch sedimentation monitoring.

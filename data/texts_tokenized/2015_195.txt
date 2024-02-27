@@ -1,0 +1,16 @@
+2014, Springer International Publishing Switzerland.The south west coast of Kanyakumari district in Tamil Nadu, India, is significantly affected by seawater intrusion and diffusion of pollutants into the aquifers due to unregulated beach placer mining and other anthropogenic activities.
+The present study investigates the vulnerability of the coastal aquifers using Geographic Information System (GIS)-based DRASTIC model.
+The seven DRASTIC parameters have been analyzed using the statistical equation of this model to demarcate the vulnerable zones for aquifer contamination.
+The vulnerability index map is prepared from the weighted spatial parameters, and an accounting of total index value ranged from 85 to 213.
+Based on the categorization of vulnerability classes, the high vulnerable zones are found near the beach placer mining areas between Manavalakurichi and Kodimanal coastal stretches.
+The aquifers associated with settlements and agricultural lands in the middleeastern part have experienced high vulnerability due to contaminated water bodies.
+Similarly, the coastal areas of Thengapattinam and Manakudi estuary and around the South Tamaraikulam have also been falling under high vulnerability condition due to backwater and saltpan.
+In general, the nearshore region except the placer mining zone and the backwater has a moderately vulnerable condition, and the vulnerability index values range from 149 to180.
+Significantly, the northern and northeastern uplands and some parts of deposition zones in the middlesouth coast have been identified as low to no vulnerable conditions.
+They are structurally controlled by various geological features such as charnockite, garnet biotite gneiss and granites, and sand dunes, respectively.
+The aquifer vulnerability assessment has been cross-verified by geochemical indicators such as total dissolved solids (TDS), Cl, HCO3, and Cl/HCO3 ratio.
+The high ranges of TDS (1,8423,736 mg/l) and Cl (1,4122,112 mg/l) values are well correlated with the observed high vulnerable zones in the study area.
+The Cl/HCO3 ratio (7.13 to 12.18) of the high vulnerable zone obviously indicates deterioration of the aquifer contamination.
+Sensitivity analysis has also been performed to evaluate sensitivity of the individual DRASTIC parameters to aquifer vulnerability.
+This reveals the net recharge rate and groundwater table depth are becoming more sensitive to aquifer contamination.
+It is realized that the GIS is an effective platform for aquifer vulnerability mapping with reliable accuracy, and hence, the study is more useful for sustainable water resource management and the aquifer conservation.

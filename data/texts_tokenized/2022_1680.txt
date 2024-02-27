@@ -1,0 +1,11 @@
+2022, Chinese Society for Oceanography and Springer-Verlag GmbH Germany, part of Springer Nature.Eutrophication in coastal area has become more and more serious and mariculture potential is a main cause.
+Although there are some quantitative research on nutrient loads in national and global perspective, the calculation method problems make the results controversial.
+In this paper, the farming activities are divided into fed culture types (include cage culture and pond culture) and extractive culture types (e.g. seaweed, filter-feeding shellfish culture).
+Based on the annual yield of China in 2019 and feed coefficient of fed culture types and carbon (C), nitrogen (N), and phosphorus (P) content of extractive culture types, the annual nutrient loads was estimated.
+The results showed that to coastal region of China (1) annual nutrient released by fed culture types were about 58 451 t of N, 9 081 t of P, and annual nutrient removed by harvest of extractive culture types were 109 245 t of N, 11 980 t of P and 1.86106 t of C. Overall, the net amount of nutrient removed annually by mariculture industry were 50 794 t of N and 2 901 t of P.
+(2) The nutrient released from mariculture industry influenced nutrient stoichiometry.
+Pond farming and seaweed farming had the potential of increasing the molar concentration ratio of N and P (N:P), while cage farming and bivalve farming decreased the N:P.
+(3) Due to different mariculture types and layouts in the coastal regions in China, N and P loading were regional different.
+Among the coastal regions in China, net release of nutrient from mariculture occurred only in Hainan and Guangxi regions, while in the other regions, N and P were completely removed by harvest.
+We suggest decrease the amount of fed culture types and increase the amount of integrated culture with extractive culture types.
+This study will help to adjust mariculture structure and layout at the national level to reduce the environmental impact.

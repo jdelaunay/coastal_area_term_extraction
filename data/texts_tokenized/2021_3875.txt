@@ -1,0 +1,9 @@
+2021, Springer Nature Singapore Pte Ltd.Constructions in the coastal region have been a huge challenge in the civil engineering world for long years, and so, a solutions for the same have to be devised.
+To study this problem, this paper deals with the soil properties of some coastal belt places of Gujarat region and the soil properties of the non-coastal region of Gujarat.
+Gujarats soil type has a wide range of classification, and so, the different properties like the N-value, type of sample, the depth at which the sample are obtained, type of soil in that region, depth of water table, moisture content, field dry density, the Atterberg limits are studied.
+After studying these properties from the soil reports obtained from various laboratories, a comparison is made between the soil at coastal belt region and non-coastal belt region of Gujarat and the variation is observed in the various properties.
+Considering, a school building at Hathab, which a coastal belt location, the N-value varies from 10 to 20 blows in a 6 m considered depth.
+While considering a building at Bhavnagar district, which is away from the coastal area, the N-value varies from 12 to 23 blows in a 6 m, considered depth.
+While considering the dry density at Hathab, it varies from 1.48 to 1.62 g/cm3, and the dry density at Bhavnagar district varies from 1.47 to 1.49 g/cm3, considering 6 m depth.
+These differences need to be studied, and it will helpful in designing suitable design solutions.
+Thus, this paper may contribute in future research studies to improve and strengthen soil properties of the coastal region.
