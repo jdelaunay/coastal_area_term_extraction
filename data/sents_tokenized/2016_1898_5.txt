@@ -1,1 +1,1 @@
-The analysis of tracks uses Kernel Density Estimation ( KDE ) and Linear Direction Mean ( LDM ) methods to better identify the spatio - temporal distribution of TC landfall in Oman .
+The analysis of tracks uses Kernel Density Estimation (KDE) and Linear Direction Mean (LDM) methods to better identify the spatio-temporal distribution of TC landfall in Oman.

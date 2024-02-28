@@ -1,1 +1,1 @@
-The damping force characteristic of switchable fluid damper , combining viscous damper and hydraulic valve , was experimentally studied .
+The damping force characteristic of switchable fluid damper, combining viscous damper and hydraulic valve, was experimentally studied.

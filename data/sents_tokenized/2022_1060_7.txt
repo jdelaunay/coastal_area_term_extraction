@@ -1,1 +1,1 @@
-This study proposes a methodology for developing and integrating spatial pressure datasets in a Geographical Information Systems ( GIS ) environment .
+This study proposes a methodology for developing and integrating spatial pressure datasets in a Geographical Information Systems (GIS) environment.

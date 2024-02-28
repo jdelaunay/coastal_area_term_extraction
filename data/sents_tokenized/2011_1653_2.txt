@@ -1,1 +1,1 @@
-In this study , the daily rainfall data of Global Summary Of The Day ( GSOD ) from the National Climatic Data Center ( NCDC ) were used with careful consideration of data availability .
+In this study, the daily rainfall data of Global Summary Of The Day (GSOD) from the National Climatic Data Center (NCDC) were used with careful consideration of data availability.

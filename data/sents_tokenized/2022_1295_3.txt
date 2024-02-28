@@ -1,1 +1,1 @@
-The evaluation system of TD and resource environment carrying capacity ( RECC ) is constructed in this paper , the situation of TD , RECC , and coupling coordination degree ( CCD ) in the Yangtze River Economic Belt ( YREB ) is analyzed based on the CCD model and dynamic DM model .
+The evaluation system of TD and resource environment carrying capacity (RECC) is constructed in this paper, the situation of TD, RECC, and coupling coordination degree (CCD) in the Yangtze River Economic Belt (YREB) is analyzed based on the CCD model and dynamic DM model.

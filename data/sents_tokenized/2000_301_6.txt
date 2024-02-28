@@ -1,1 +1,1 @@
-The scoping and auditing stage , implemented via a ' pressure - state - impact - response ' framework , details , among other thing , problems , system boundaries and value conflicts .
+The scoping and auditing stage, implemented via a 'pressure-state-impact-response' framework, details, among other thing, problems, system boundaries and value conflicts.

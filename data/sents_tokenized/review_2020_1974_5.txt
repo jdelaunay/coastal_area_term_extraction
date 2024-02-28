@@ -1,1 +1,1 @@
-Pollution status was evaluated using the contamination factor , pollution load index , and geo - accumulation index , as well as statistical methods , such as Pearson correlation coefficient ( r ) and cluster analysis ( CA ) .
+Pollution status was evaluated using the contamination factor, pollution load index, and geo-accumulation index, as well as statistical methods, such as Pearson correlation coefficient (r) and cluster analysis (CA).

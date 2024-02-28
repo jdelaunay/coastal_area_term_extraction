@@ -1,1 +1,1 @@
-During deployment , which is possible down to 6000 m depth , the UVP5 images a volume of about 1 L at a frequency of 6 to 20 Hz .
+During deployment, which is possible down to 6000 m depth, the UVP5 images a volume of about 1 L at a frequency of 6 to 20 Hz.

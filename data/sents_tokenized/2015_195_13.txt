@@ -1,1 +1,1 @@
-Sensitivity analysis has also been performed to evaluate sensitivity of the individual DRASTIC parameters to aquifer vulnerability .
+Sensitivity analysis has also been performed to evaluate sensitivity of the individual DRASTIC parameters to aquifer vulnerability.

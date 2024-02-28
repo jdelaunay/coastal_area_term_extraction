@@ -1,1 +1,1 @@
-Also , a decimeter level of difference has been found between the LiDAR data and the total station data showing the limited capability of UAV - LiDAR in agricultural drainage ditch sedimentation monitoring .
+Also, a decimeter level of difference has been found between the LiDAR data and the total station data showing the limited capability of UAV-LiDAR in agricultural drainage ditch sedimentation monitoring.

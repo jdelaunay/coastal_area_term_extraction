@@ -1,1 +1,1 @@
-Here , a two - dimensional ( 2D ) semi - analytical solution for land - derived solute transport was developed with variable boundary conditions at the seaward boundary under tidal fluctuations .
+Here, a two-dimensional (2D) semi-analytical solution for land-derived solute transport was developed with variable boundary conditions at the seaward boundary under tidal fluctuations.

@@ -1,1 +1,1 @@
-In addition to the total station survey , the ditches were scanned using a LiDAR - equipped Unmanned Aerial Vehicle ( UAV ) once per year for comparison with the acquired total station data .
+In addition to the total station survey, the ditches were scanned using a LiDAR-equipped Unmanned Aerial Vehicle (UAV) once per year for comparison with the acquired total station data.

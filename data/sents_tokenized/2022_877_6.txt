@@ -1,1 +1,1 @@
-All UVP5 units used to generate the dataset presented here were inter - calibrated using a UVP5 high - definition unit as reference .
+All UVP5 units used to generate the dataset presented here were inter-calibrated using a UVP5 high-definition unit as reference.
