@@ -1,0 +1,1 @@
+The study area was divided into 47 units to calculate the erosion / accretion / stability ( or evolution ) rates by using the DSAS extension of ArcGIS software .

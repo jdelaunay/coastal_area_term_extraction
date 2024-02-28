@@ -1,0 +1,1 @@
+The switchable damper achieves velocity - dependent damping force and displacement - dependent damping force .

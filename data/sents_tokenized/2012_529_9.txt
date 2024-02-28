@@ -1,0 +1,1 @@
+All known earthquakes from 1615 to 2003 , based on historical documents and instrumental recordings are collected in a data catalogue and compiled in a computer readable format .

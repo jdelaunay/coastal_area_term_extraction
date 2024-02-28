@@ -1,0 +1,1 @@
+Using NUTS II of mainland Portugal as spatial reference units and CORINE Land Cover databases as main source data , GIS - based spatial analysis is employed to analyze regional differences in the distribution of artificial surfaces relative to the distance from the coastline and investigate the degrees of urban pressure along coastal areas .

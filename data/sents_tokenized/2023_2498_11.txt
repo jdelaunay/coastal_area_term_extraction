@@ -1,0 +1,1 @@
+( c ) Compared with the classifications using single images , the classifications using PTSXGB were more stable for different periods , with the mean absolute difference in the overall accuracy less than 3 . 90 % .

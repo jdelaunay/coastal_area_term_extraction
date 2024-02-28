@@ -1,0 +1,1 @@
+Each image is segmented in real time , and size measurements of particles are automatically stored .

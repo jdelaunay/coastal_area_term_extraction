@@ -1,0 +1,1 @@
+A dataset with the ship emissions obtained from a bottom - up approach using ship movement data for the year 2000 derived from Lloyds Marine Intelligence Unit and average engine loads together with BaP emission factors is generated to serve as input for the chemistry transport model .

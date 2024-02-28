@@ -1,0 +1,1 @@
+This paper provides a simple methodology for developing a time series of dynamic coastal tailwater levels for a range of different coastal environments , with proper consideration of time - varying wave setup throughout a synthetic design storm .

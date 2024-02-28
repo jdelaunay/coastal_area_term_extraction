@@ -1,0 +1,1 @@
+This investigation utilized Google Earth Engine and MODIS NDVI products to examine the spatiotemporal heterogeneity of regional vegetation coverage based on the multi - year average NDVI in China .

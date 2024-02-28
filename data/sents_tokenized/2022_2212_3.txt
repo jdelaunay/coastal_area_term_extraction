@@ -1,0 +1,1 @@
+A numerical inundation model based on hydrodynamic equations was applied to investigate the behavior of coastal flooding in the temporal and spatial domain under a variety of model settings with different hydrologic conditions and it was utilized to generate the target inundation depths for the training of the RNN model .

@@ -1,0 +1,1 @@
+The Spearman correlation test revealed that phytoplankton biomass was significantly and positively correlated with the mt - 16S rDNA abundance of A . coerulea ( R = 0 . 37 , P < 0 . 01 ) and negatively with the mt - 16S rDNA of N nomurai ( R = - 0 . 36 , P < 0 . 01 ) .

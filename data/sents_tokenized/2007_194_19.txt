@@ -1,0 +1,1 @@
+Location and elevation / depth ( x , y , z ) data with sufficient metadata is the basic dataset necessary for determining and monitoring changes in the shore and seafloor surface .

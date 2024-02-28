@@ -1,0 +1,1 @@
+The aim of this article is to review the concept of VLFS , showing how they are deployed for both coastal and offshore areas .

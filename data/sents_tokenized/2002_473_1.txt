@@ -1,0 +1,1 @@
+The model was based on the Princeton Ocean Model code of Mellor ( 1993 ) , known as POM .
