@@ -2,12 +2,12 @@ This	O
 study	O
 assessed	O
 if	O
-Marine	O
-Protected	B
+Marine	B
+Protected	I
 Areas	I
-(	O
-MPAs	O
-)	O
+(	I
+MPAs	I
+)	I
 affect	O
 the	O
 trophic	B

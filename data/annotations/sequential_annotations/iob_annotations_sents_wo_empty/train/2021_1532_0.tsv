@@ -9,11 +9,11 @@ and	O
 Janssen	O
 .	O
 Submarine	B
-groundwater	B
-discharge	B
-(	O
-SGD	O
-)	O
+groundwater	I
+discharge	I
+(	I
+SGD	I
+)	I
 is	O
 an	O
 important	O

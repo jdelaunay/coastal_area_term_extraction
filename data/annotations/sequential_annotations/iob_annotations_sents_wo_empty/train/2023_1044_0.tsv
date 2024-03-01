@@ -1,10 +1,10 @@
-Tetrodotoxin	O
-(	O
-TTX	O
-)	O
--	O
-bearing	O
-fish	B
+Tetrodotoxin	B
+(	I
+TTX	I
+)	I
+-	I
+bearing	I
+fish	I
 are	O
 thought	O
 to	O

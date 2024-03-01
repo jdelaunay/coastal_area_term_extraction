@@ -23,10 +23,10 @@ CES	O
 ,	O
 in	O
 a	O
-National	O
-Park	O
-(	O
-NP	O
-)	O
-context	O
+National	B
+Park	I
+(	I
+NP	I
+)	I
+context	I
 .	O

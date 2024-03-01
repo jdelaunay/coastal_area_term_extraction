@@ -1,11 +1,11 @@
 We	O
 studied	O
-fatty	O
-acid	B
-(	O
-FA	O
-)	O
-composition	O
+fatty	B
+acid	I
+(	I
+FA	I
+)	I
+composition	I
 in	O
 samples	O
 from	O

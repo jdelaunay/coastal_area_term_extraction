@@ -22,10 +22,10 @@ a	O
 different	O
 location	O
 off	O
-eastern	O
-Hainan	O
-Island	B
-(	O
-HEU	O
-)	O
+eastern	B
+Hainan	I
+Island	I
+(	I
+HEU	I
+)	I
 .	O

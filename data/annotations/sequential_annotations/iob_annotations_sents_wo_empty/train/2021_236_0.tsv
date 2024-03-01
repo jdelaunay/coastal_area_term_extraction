@@ -21,11 +21,11 @@ discharge	O
 distribution	O
 over	O
 the	O
-Cape	O
-Fear	O
-River	B
+Cape	B
+Fear	I
+River	I
 Basin	I
-(	O
-CFRB	O
-)	O
+(	I
+CFRB	I
+)	I
 .	O

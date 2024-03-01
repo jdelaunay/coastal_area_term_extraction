@@ -1,10 +1,10 @@
-Alkyl	O
-polycyclic	B
+Alkyl	B
+polycyclic	I
 aromatic	I
 hydrocarbons	I
-(	O
-APAHs	O
-)	O
+(	I
+APAHs	I
+)	I
 are	O
 a	O
 group	O

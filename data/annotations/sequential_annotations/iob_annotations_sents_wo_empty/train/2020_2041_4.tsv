@@ -15,12 +15,12 @@ monitoring	O
 program	O
 based	O
 on	O
-daily	O
-growth	B
+daily	B
+growth	I
 rate	I
-(	O
-DGR	O
-)	O
+(	I
+DGR	I
+)	I
 and	O
 ratio	O
 of	O

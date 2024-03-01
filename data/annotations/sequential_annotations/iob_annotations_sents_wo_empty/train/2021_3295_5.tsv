@@ -8,11 +8,11 @@ to	O
 assess	O
 land	B
 use	I
-cover	O
-change	O
-(	O
-LUCC	O
-)	O
+cover	I
+change	I
+(	I
+LUCC	I
+)	I
 ,	O
 climate	B
 change	I

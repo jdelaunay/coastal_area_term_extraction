@@ -11,8 +11,8 @@ removing	O
 reactive	O
 nitrogen	B
 through	O
-denitrification	O
-(	O
-DNF	O
-)	O
+denitrification	B
+(	I
+DNF	I
+)	I
 .	O

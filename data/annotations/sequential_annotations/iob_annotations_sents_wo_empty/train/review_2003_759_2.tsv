@@ -6,10 +6,10 @@ achieve	O
 a	O
 decision	B
 support	I
-system	O
-(	O
-DSS	O
-)	O
+system	I
+(	I
+DSS	I
+)	I
 to	O
 assist	O
 the	O

@@ -15,11 +15,11 @@ causing	O
 damage	O
 to	O
 the	O
-gastrointestinal	O
-(	O
-GI	O
-)	O
-tracts	O
+gastrointestinal	B
+(	I
+GI	I
+)	I
+tracts	I
 and	O
 stomachs	O
 of	O

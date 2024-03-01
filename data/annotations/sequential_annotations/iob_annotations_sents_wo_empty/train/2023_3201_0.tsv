@@ -1,9 +1,9 @@
 Rare	B
 earth	I
-elements	O
-(	O
-REE	O
-)	O
+elements	I
+(	I
+REE	I
+)	I
 and	O
 grain	B
 size	I

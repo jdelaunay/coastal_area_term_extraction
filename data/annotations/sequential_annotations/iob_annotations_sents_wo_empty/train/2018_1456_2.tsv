@@ -8,12 +8,12 @@ Ireland	I
 the	O
 use	O
 of	O
-mobile	O
-fishing	B
+mobile	B
+fishing	I
 gear	I
-(	O
-MFG	O
-)	O
+(	I
+MFG	I
+)	I
 has	O
 caused	O
 extensive	O

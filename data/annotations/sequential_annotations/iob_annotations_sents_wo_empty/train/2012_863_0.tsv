@@ -1,10 +1,10 @@
-Polycyclic	O
-aromatic	B
+Polycyclic	B
+aromatic	I
 hydrocarbon	I
-(	O
-PAH	O
-)	O
-concentrations	O
+(	I
+PAH	I
+)	I
+concentrations	I
 and	O
 their	O
 risks	B

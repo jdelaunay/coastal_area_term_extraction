@@ -16,12 +16,12 @@ affect	O
 the	O
 thousands	O
 of	O
-small	O
-tidal	B
+small	B
+tidal	I
 inlets	I
-(	O
-STIs	O
-)	O
+(	I
+STIs	I
+)	I
 dotting	O
 the	O
 global	O
