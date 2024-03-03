@@ -37,7 +37,7 @@ processes	O
 ii	O
 )	O
 the	O
-fault	O
+fault	B
 geometric	O
 and	O
 stress	O
@@ -57,10 +57,10 @@ and	O
 asymmetric	O
 distribution	O
 of	O
-earthquakes	O
+earthquakes	B
 and	O
-submarine	O
-canyons	O
+submarine	B
+canyons	I
 of	O
 the	O
 northern	O
@@ -73,8 +73,8 @@ ENE	O
 -	O
 striking	O
 preexisting	O
-Littoral	O
-Fault	O
+Littoral	B
+Fault	B
 Zone	O
 is	O
 the	O

@@ -22,13 +22,13 @@ kinetics	O
 explanation	O
 in	O
 the	O
-northern	B
-South	I
+northern	O
+South	B
 China	I
 Sea	I
 (	I
 SCS	I
 )	I
-continental	I
-margin	I
+continental	O
+margin	O
 .	O

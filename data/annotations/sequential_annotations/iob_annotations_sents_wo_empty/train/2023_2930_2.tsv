@@ -30,7 +30,7 @@ rainfall	B
 events	O
 and	O
 wind	B
-speeds	O
+speeds	I
 on	O
 days	O
 before	O

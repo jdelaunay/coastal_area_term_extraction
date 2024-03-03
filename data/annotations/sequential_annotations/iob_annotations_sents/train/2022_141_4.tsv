@@ -5,7 +5,7 @@ the	O
 majority	O
 of	O
 the	O
-wetlands	O
+wetlands	B
 have	O
 a	O
 considerable	O
@@ -13,7 +13,7 @@ potential	O
 to	O
 reduce	O
 algal	O
-growth	O
+growth	B
 potential	O
 ,	O
 with	O
@@ -22,11 +22,11 @@ to	O
 89	O
 %	O
 for	O
-cyanobacteria	O
+cyanobacteria	B
 and	O
 73	O
 %	O
 for	O
-green	O
-algae	O
+green	B
+algae	I
 .	O

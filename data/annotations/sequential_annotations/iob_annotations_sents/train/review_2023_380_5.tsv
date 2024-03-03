@@ -26,9 +26,9 @@ Change	I
 Adaptation	I
 ;	O
 National	O
-Climate	O
-Change	O
-Adaptation	O
+Climate	B
+Change	I
+Adaptation	I
 Plan	O
 ;	O
 National	O
@@ -45,9 +45,9 @@ in	O
 updating	O
 knowledge	O
 about	O
-climate	O
-change	O
-risks	O
+climate	B
+change	I
+risks	B
 and	O
 in	O
 supporting	O

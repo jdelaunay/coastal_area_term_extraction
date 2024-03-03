@@ -4,7 +4,7 @@ hydrocarbon	I
 (	I
 PAH	I
 )	I
-concentrations	I
+concentrations	O
 and	O
 their	O
 risks	B
@@ -27,8 +27,8 @@ the	O
 northern	O
 Bohai	O
 and	O
-Yellow	O
-Seas	B
+Yellow	B
+Seas	I
 ,	O
 China	B
 ,	O

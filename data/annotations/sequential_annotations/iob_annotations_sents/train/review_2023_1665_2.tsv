@@ -1,5 +1,5 @@
 Its	O
-water	O
+water	B
 demand	O
 is	O
 expected	O
@@ -17,15 +17,15 @@ decades	O
 due	O
 to	O
 fast	O
-population	O
-growth	O
+population	B
+growth	I
 and	O
 expansion	O
 of	O
 irrigated	O
-agriculture	O
+agriculture	B
 ,	O
 industrialisation	O
 and	O
-urbanisation	O
+urbanisation	B
 .	O

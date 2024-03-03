@@ -3,8 +3,8 @@ rights	O
 reserved	O
 .	O
 Coastal	O
-aquatic	O
-environments	O
+aquatic	B
+environments	I
 often	O
 suffer	O
 from	O
@@ -23,5 +23,5 @@ presence	O
 of	O
 pollutants	B
 in	O
-seawaters	O
+seawaters	B
 .	O

@@ -24,6 +24,6 @@ genes	I
 ARGs	I
 )	I
 in	O
-aquatic	O
-environments	O
+aquatic	B
+environments	I
 .	O

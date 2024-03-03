@@ -34,8 +34,8 @@ events	O
 ,	O
 and	O
 prevent	O
-human	O
-health	O
+human	B
+health	I
 risks	O
 related	O
 to	O
@@ -43,5 +43,5 @@ the	O
 use	O
 of	O
 polluted	O
-waters	O
+waters	B
 .	O

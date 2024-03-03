@@ -45,11 +45,11 @@ drainage	O
 or	O
 critical	O
 (	O
-river	O
-floods	O
+river	B
+floods	B
 and	O
-sea	O
-storms	O
+sea	B
+storms	B
 )	O
 situation	O
 .	O

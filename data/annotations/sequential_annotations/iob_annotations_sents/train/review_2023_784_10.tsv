@@ -19,7 +19,7 @@ identification	O
 of	O
 potential	O
 local	O
-subsidence	O
+subsidence	B
 drivers	O
 ;	O
 a	O
@@ -28,7 +28,7 @@ non	O
 availability	O
 of	O
 a	O
-subsidence	O
+subsidence	B
 -	O
 infused	O
 coastal	O
@@ -44,10 +44,10 @@ the	O
 combined	O
 effects	O
 of	O
-climate	O
-change	O
+climate	B
+change	I
 and	O
-subsidence	O
+subsidence	B
 ;	O
 and	O
 huge	O

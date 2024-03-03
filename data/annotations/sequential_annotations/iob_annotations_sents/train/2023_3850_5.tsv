@@ -9,13 +9,13 @@ area	O
 was	O
 in	O
 low	O
-risk	O
+risk	B
 ,	O
 and	O
 the	O
 high	O
 -	O
-risk	O
+risk	B
 area	O
 was	O
 distributed	O
@@ -24,7 +24,7 @@ the	O
 Rongjiang	O
 River	O
 outer	O
-estuary	O
+estuary	B
 and	O
 the	O
 southern	O
@@ -38,7 +38,7 @@ mainly	O
 by	O
 buried	O
 ancient	O
-rivers	O
+rivers	B
 and	O
-faults	O
+faults	B
 .	O

@@ -1,6 +1,6 @@
 In	O
 unexposed	O
-rock	O
+rock	B
 ,	O
 79	O
 %	O
@@ -15,13 +15,13 @@ III	I
 ,	O
 but	O
 the	O
-proportion	B
-of	I
-As	I
+proportion	O
+of	O
+As	B
 (	I
 V	I
 )	I
-increased	I
+increased	O
 with	O
 atmospheric	O
 exposure	O

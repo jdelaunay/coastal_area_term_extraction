@@ -7,7 +7,7 @@ Group	O
 London	O
 .	O
 The	O
-chloride	O
+chloride	B
 induced	O
 rebar	O
 corrosion	O
@@ -21,13 +21,13 @@ concrete	I
 (	I
 RC	I
 )	I
-structures	I
+structures	O
 in	O
 the	O
-ocean	O
+ocean	B
 ,	O
-coastal	O
-area	O
+coastal	B
+area	I
 ,	O
 and	O
 where	O

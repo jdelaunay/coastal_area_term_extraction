@@ -11,8 +11,8 @@ difficult	O
 to	O
 flocculate	O
 at	O
-low	O
-temperatures	O
+low	B
+temperatures	I
 due	O
 to	O
 the	O
@@ -22,8 +22,8 @@ frequency	O
 ,	O
 while	O
 at	O
-high	O
-temperatures	O
+high	B
+temperatures	I
 ,	O
 some	O
 large	O

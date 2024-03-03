@@ -22,14 +22,14 @@ matching	O
 ,	O
 which	O
 includes	O
-temperature	O
+temperature	B
 ,	O
 substrates	O
 and	O
 hydrological	O
 factors	O
 of	O
-afforestation	O
+afforestation	B
 sites	O
 ;	O
 (	O
@@ -39,7 +39,7 @@ selection	O
 and	O
 introduction	O
 of	O
-mangrove	O
+mangrove	B
 species	O
 ,	O
 that	O
@@ -66,7 +66,7 @@ silviculture	O
 techniques	O
 ,	O
 including	O
-planting	O
+planting	B
 ,	O
 seedling	O
 and	O
@@ -75,7 +75,7 @@ nursing	O
 techniques	O
 ,	O
 and	O
-afforestation	O
+afforestation	B
 cost	O
 '	O
 s	O
@@ -88,9 +88,9 @@ and	O
 post	O
 -	O
 cultivated	O
-management	O
+management	B
 and	O
-monitoring	O
+monitoring	B
 ,	O
 including	O
 the	O

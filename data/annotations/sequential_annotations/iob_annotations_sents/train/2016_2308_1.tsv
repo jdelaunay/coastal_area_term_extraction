@@ -26,7 +26,7 @@ in	O
 South	O
 -	O
 Western	O
-Europe	O
+Europe	B
 it	O
 aims	O
 at	O
@@ -37,9 +37,9 @@ a	O
 specific	O
 kind	O
 of	O
-real	O
-estate	O
+real	B
+estate	I
 in	O
-coastal	O
-areas	O
+coastal	B
+areas	I
 .	O

@@ -34,7 +34,7 @@ mangrove	B
 rehabilitation	B
 in	O
 the	O
-abandonedaquaculture	O
+abandonedaquaculture	B
 ponds	B
 ;	O
 (	O
@@ -45,11 +45,11 @@ on	O
 the	O
 restoration	O
 of	O
-biodiversity	O
+biodiversity	B
 in	O
 the	O
-mangrove	O
-ecosystem	O
+mangrove	B
+ecosystem	B
 ;	O
 (	O
 3	O
@@ -58,8 +58,8 @@ researching	O
 on	O
 allelopathy	O
 in	O
-mangrove	O
-ecosystem	O
+mangrove	B
+ecosystem	B
 more	O
 elaborately	O
 ;	O
@@ -71,7 +71,7 @@ mixed	O
 stands	O
 with	O
 different	O
-mangrove	O
+mangrove	B
 species	O
 ;	O
 and	O
@@ -85,9 +85,9 @@ least	O
 5	O
 )	O
 implementing	O
-ecological	O
-restoration	O
+ecological	B
+restoration	I
 of	O
-mangrove	O
-wetlands	O
+mangrove	B
+wetlands	B
 .	O

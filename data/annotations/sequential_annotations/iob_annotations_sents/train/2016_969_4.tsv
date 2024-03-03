@@ -8,7 +8,7 @@ as	O
 10	O
 %	O
 in	O
-invertebrate	O
+invertebrate	B
 soft	O
 tissue	O
 from	O
@@ -32,8 +32,8 @@ with	O
 the	O
 hypothesis	O
 that	O
-organic	O
-matter	O
+organic	B
+matter	I
 from	O
 petrochemical	O
 reservoirs	O
