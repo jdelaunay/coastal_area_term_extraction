@@ -1,6 +1,0 @@
-2020 Institute of Physics Publishing.
-All rights reserved.The shoreline mapping and analysis are extensive for numerous coastal studies such as advancement of regression planning, geo-hazard recognition, decomposition-enhancing studies and theoretical or predictive modelling or coastal characterization.
-The occurrence of erosion in coastal areas is caused by a combination of factors nature and human action.
-Therefore, a study was conducted at Regency Beach, Port Dickson to find out the shoreline changes in the area.
-Eight remote sensing data from 1988 to 2019 were used in this study using ArcGIS 10.3 and DSAS v4.2 software to obtain shoreline changes.
-It can be concluded that the pattern of shoreline changed from 1988 to 2019 in the study area and much erosion occurred between 2005 and 2010.

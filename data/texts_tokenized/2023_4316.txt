@@ -1,7 +1,0 @@
-Understanding the relative roles of local environmental effects and spatial effects on phytoplankton community is of essential importance to study the biogeography of them at regional scale.
-However, the determinants that driving the biogeography of phytoplankton communities in the coastal area of northern Zhejiang still remained unclear.
-We surveyed phytoplankton community compositions in water columns associated with environmental and spatial influences across five subzones that geographically covering this region over four seasons.
-Diatoms and dinoflagellates were recorded as the main dominant groups and Coscinodiscus oculs-iridis, Coscinodiscus jonesianus, and Skeletonema costatum, were identified as the major abundant species existing in all seasons.
-Spatially structured environmental conditions, rather than pure spatial or environmental factors, substantially shaped the biogeography of phytoplankton community, with the former mainly comprised of water temperature, dissolved oxygen, phosphate, pH, and salinity, and the latter referring to a non-negligible factor.
-This study was the first integrated research that combining environmental filtering with spatial factors in structuring phytoplankton communities at a complete tempo-spatial scale.
-Our results may facilitate to the further study of harmful algal blooms early-warning in this region.

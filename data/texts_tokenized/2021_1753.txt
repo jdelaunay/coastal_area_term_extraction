@@ -1,9 +1,0 @@
-2021, Chinese Society for Oceanology and Limnology, Science Press and Springer-Verlag GmbH Germany, part of Springer Nature.Over the past decades, jellyfish occurred increasingly and abundantly in coastal areas worldwide.
-Usually, biomass of jellyfish, especially when they bloom, can be determined by visual counting.
-However, tiny individuals of jellyfish (e.g., planulae, polyps, and ephyrae) are difficult to detect in the field.
-In this study, species-specific quantitative real-time PCR assays (qPCR) (SYBR Green I) targeting the mitochondrial 16S rDNA (mt-16S rDNA) of jellyfish were developed and were used to estimate the distribution and seasonal fluctuations of four jellyfish species (Nemopilema nomurai, Cyanea nozakii, Rhopilema esculentum, and Aurelia coerulea) in Jiaozhou Bay (JZB), China in 2013.
-The mt-16S rDNA of A. coerulea and N. nomurai was detected in most of the survey months and it peaked in July (1.03104 copies/L) and September (1.08106 copies/L), respectively.
-The mt-16S rDNA of C. nozakii occurred from August to October only with monthly mean values of 7.1846.17 copies/L and was mainly located from the middle part to the outer part of the bay.
-The mt-16S rDNA of R. esculentum was the least abundant among the four species and was detected in only one sample (B2 station in March), with a value of 88.49 copies/L.
-The Spearman correlation test revealed that phytoplankton biomass was significantly and positively correlated with the mt-16S rDNA abundance of A. coerulea (R=0.37, P<0.01) and negatively with the mt-16S rDNA of N nomurai (R=-0.36, P<0.01).
-The qPCR assay will enable the identification and quantification of jellyfish species in their whole life history and can be used as an approach in combination of the traditional jellyfish survey.

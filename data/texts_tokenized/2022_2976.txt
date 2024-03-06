@@ -1,9 +1,0 @@
-2022 NISC (Pty) Ltd.Compared with the open ocean, knowledge of pH variability in coastal waters is rudimentary, especially in Africa.
-This is concerning as quantifying local pH conditions is critical when assessing the response of coastal species to future ocean acidification scenarios.
-The objective of this study was to capture some of the variability in pH at scales and sites relevant to coastal marine organisms in a South African temperate embayment (Algoa Bay, Indian Ocean).
-We used a sampling approach that captured spatial (at a resolution of 10 km), monthly and diel (24-hour) variability in pH and associated physical and biological parameters at offshore and shallow inshore sites in Algoa Bay.
-We found that pH and associated parameters (temperature, calculated pCO2, chlorophyll a) varied over space and time in Algoa Bay.
-The range in pH was 0.30 units at offshore sites and 0.46 at inshore sites, and the average pH was 8.10 (SD 0.06) and 8.10 (SD 0.13) at these sites, respectively, which is typical for coastal environments.
-Our results showed that both biological factors (at the offshore sites) and salinity (at the inshore sites) may influence temporal and spatial variability in pH.
-We also identified a shallow inshore site with high levels of macroalgal growth that had consistently higher average daytime pH levels (8.33 [SD 0.07]), which may serve as an ocean acidification refuge for coastal marine species.
-This is the first comprehensive pH-monitoring study to be implemented in a nearshore coastal area in Africa and provides recommendations for monitoring in other understudied regions.

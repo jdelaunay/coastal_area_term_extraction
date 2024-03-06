@@ -1,9 +1,0 @@
-2019 by the authors.This paper shows coastal evolution along the Andalusia Region (Spain) and the impacts on it of coastal structures.
-The study area was divided into 47 units to calculate the erosion/accretion/stability (or evolution) rates by using the DSAS extension of ArcGIS software.
-Evolution rates were divided into different classes from "Very high accretion" to "Very high erosion".
-As a result, 9 units recorded accretion, 19 stability and 19 erosion.
-Further, 17 units presented a positive balance and 28 units a negative one, showing a negative net balance of 29,738.4 m2/year corresponding to the loss of 1784.30 km2 of beach surface in the 1956-2016 period.
-The distribution of evolution areas along the studied coast was carried out by means of the "R" project for statistical computing.
-The analysis evidenced the impact of rigid structures: accretion was essentially observed up-drift of ports and groins and in correspondence of protection structures, especially of breakwaters.
-Erosion classes were observed down-drift of ports and groins and in correspondence of revetments/seawalls, and at largest river deltas, and "stability" was observed at pocket beaches and coastal areas locally stabilized by protection structures.
-Last, results were used to determine the distribution of swash- and drift-aligned coastal sectors and main direction of sedimentary transport.

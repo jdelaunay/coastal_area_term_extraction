@@ -1,12 +1,16 @@
 ARs	Specific_Term
 Acidification	Specific_Term
+Adaptation	Specific_Term
 Adult	Specific_Term
 Adults	Specific_Term
 Africa	Specific_Term
 Agencies	Specific_Term
 Alabama	Specific_Term
+Algal Blooms	Specific_Term
 Alkyl polycyclic aromatic hydrocarbons (APAHs)	Specific_Term
+America	Specific_Term
 Andes	Specific_Term
+Anguilla	Specific_Term
 Anguilla anguilla	Specific_Term
 Anhui	Specific_Term
 Anisotropy	Specific_Term
@@ -24,13 +28,16 @@ As(III)	Specific_Term
 As(V)	Specific_Term
 Asellus	Specific_Term
 Asi	Specific_Term
+Asia	Specific_Term
 Atlantic Meridional Overturning Circulation (AMOC)	Specific_Term
 Atlantic Multidecadal Oscillation (AMO)	Specific_Term
 Atlantic Ocean	Specific_Term
 Atlantic salmon	Specific_Term
+Aurelia	Specific_Term
 Aurelia coerulea	Specific_Term
 Australia	Specific_Term
 Avicennia	Specific_Term
+Aythya	Specific_Term
 Aythya marila	Specific_Term
 Azov Sea	Specific_Term
 Bacteroidetes	Specific_Term
@@ -40,11 +47,13 @@ Bay	Specific_Term
 Beach	Specific_Term
 Beaufort Sea	Specific_Term
 Bee Jay Bakau Resort (BJBR)	Specific_Term
+Biology	Specific_Term
 Biomass	Specific_Term
 Biotope	Specific_Term
 Birds	Specific_Term
 Black Sea	Specific_Term
 Brazil	Specific_Term
+Breeding	Specific_Term
 Breeding sites	Specific_Term
 Brown trout	Specific_Term
 Bryopsidophyceae	Specific_Term
@@ -53,29 +62,37 @@ CO2	Specific_Term
 COVID-19	Specific_Term
 Campania	Specific_Term
 Canada	Specific_Term
+Canal	Specific_Term
 Canyon	Specific_Term
 Cape Fear River Basin (CFRB)	Specific_Term
 Captive breeding	Specific_Term
+Carassius	Specific_Term
 Carassius carassius	Specific_Term
 Caribbean	Specific_Term
+Cell Biology	Specific_Term
 Cell Biology in Environmental Toxicology (CBET)	Specific_Term
 Chaetomorpha	Specific_Term
+Chelonodon	Specific_Term
 Chelonodon patoca	Specific_Term
 Chile	Specific_Term
 China	Specific_Term
 Chlorophyceae	Specific_Term
 Chlorophyta	Specific_Term
 Chondracanthus	Specific_Term
+Chromis	Specific_Term
 Chromis chromis	Specific_Term
 Citizen science	Specific_Term
 Citizens	Specific_Term
+Clangula	Specific_Term
 Clangula hyemalis	Specific_Term
+Climate Change	Specific_Term
 Climate Change Adaptation	Specific_Term
 Climate change	Specific_Term
 Clypeaster	Specific_Term
 Coastal Regulation Zone (CRZ)	Specific_Term
 Coastal Spatial Planning (CSP)	Specific_Term
 Coastal Vulnerability Index (CVI)	Specific_Term
+Coastal Zone Management	Specific_Term
 Coastal areas	Specific_Term
 Coastal flooding	Specific_Term
 Comoros	Specific_Term
@@ -86,19 +103,24 @@ Cortaderia	Specific_Term
 Coscinodiscus	Specific_Term
 Cretaceous	Specific_Term
 Crustacea	Specific_Term
+Ctenopharyngodon	Specific_Term
 Ctenopharyngodon idella	Specific_Term
 Cyanea	Specific_Term
+Cygnus	Specific_Term
 Cygnus olor	Specific_Term
+Cyprinus	Specific_Term
 Cyprinus carpio	Specific_Term
 DEM	Specific_Term
 Delta	Specific_Term
 Department of Irrigation and Drainage (DID)	Specific_Term
 Desertification	Specific_Term
 Diatoms	Specific_Term
+Dicentrarchus	Specific_Term
 Dicentrarchus labrax	Specific_Term
 Diploneis	Specific_Term
 Directives	Specific_Term
 Dolphins	Specific_Term
+Drainage	Specific_Term
 Dutch	Specific_Term
 Eastern Mediterranean Sea	Specific_Term
 Echinocyamus	Specific_Term
@@ -109,11 +131,17 @@ Ecotourism	Specific_Term
 Ecuador	Specific_Term
 Egypt	Specific_Term
 El Nino	Specific_Term
+Elodea	Specific_Term
 Elodea canadensis	Specific_Term
+Environmental Indicators	Specific_Term
+Environmental Protection	Specific_Term
 Environmental Protection and Management (UUPPLH)	Specific_Term
+Epinephelus	Specific_Term
 Epinephelus marginatus	Specific_Term
+Erignathus	Specific_Term
 Erignathus barbatus	Specific_Term
 Erosion	Specific_Term
+Escherichia	Specific_Term
 Escherichia coli	Specific_Term
 Estuaries	Specific_Term
 Estuary	Specific_Term
@@ -130,19 +158,25 @@ Fisheries	Specific_Term
 Fishing	Specific_Term
 Fishing effort	Specific_Term
 Fissurella	Specific_Term
+Flamingolepis	Specific_Term
 Flamingolepis liguloides	Specific_Term
+Floating	Specific_Term
+Floating Structures	Specific_Term
 Flocculation	Specific_Term
 Flooding	Specific_Term
 Florida	Specific_Term
+Food	Specific_Term
 Food habits	Specific_Term
 Forest	Specific_Term
 French	Specific_Term
 Fujian	Specific_Term
+Gambusia	Specific_Term
 Gambusia affinis	Specific_Term
 Gammaproteobacteria	Specific_Term
 Gammarus	Specific_Term
 Gammarus lacustris	Specific_Term
 Garra rufa	Specific_Term
+Gavia	Specific_Term
 Gavia stellata	Specific_Term
 Genocidaris	Specific_Term
 Ghana	Specific_Term
@@ -165,12 +199,14 @@ Human health	Specific_Term
 Hurricane	Specific_Term
 Hurricanes	Specific_Term
 Hypnea	Specific_Term
+Hypophthalmichthys	Specific_Term
 Hypophthalmichthys molitrix	Specific_Term
 Hyridella menziesi (Gray)	Specific_Term
 IUCN	Specific_Term
 Ibuprofen	Specific_Term
 Ice	Specific_Term
 Iceland	Specific_Term
+Ictalurus	Specific_Term
 Ictalurus punctatus	Specific_Term
 Index	Specific_Term
 India	Specific_Term
@@ -180,6 +216,7 @@ Indonesia	Specific_Term
 Integrated Coastal Zone Management	Specific_Term
 Integrated Coastal Zone Management (ICZM)	Specific_Term
 Invasive species	Specific_Term
+Irrigation	Specific_Term
 Island	Specific_Term
 Islands	Specific_Term
 Italy	Specific_Term
@@ -190,10 +227,13 @@ Jurassic	Specific_Term
 Juveniles	Specific_Term
 Kara Sea	Specific_Term
 Kerala	Specific_Term
+Key Environmental Indicators (KEIs)	Specific_Term
 LUCC detection (LUCCD)	Specific_Term
 Lac	Specific_Term
 Lake	Specific_Term
 Lake Eber	Specific_Term
+Land	Specific_Term
+Land use	Specific_Term
 Land use and land cover (LULC)	Specific_Term
 Landscape	Specific_Term
 Last Glacial Maximum (LGM)	Specific_Term
@@ -201,6 +241,7 @@ LiDAR	Specific_Term
 Libya	Specific_Term
 Litter	Specific_Term
 Littoral	Specific_Term
+Liza	Specific_Term
 Liza ramada	Specific_Term
 Loess	Specific_Term
 Loligo	Specific_Term
@@ -222,6 +263,7 @@ Marine Strategy Framework Directive	Specific_Term
 Mayotte	Specific_Term
 Mediterranean Sea	Specific_Term
 Mediterranean area	Specific_Term
+Mesembryanthemum	Specific_Term
 Mesembryanthemum crystallinum	Specific_Term
 Mexico	Specific_Term
 Microorganisms	Specific_Term
@@ -234,10 +276,13 @@ Mollusks	Specific_Term
 Monitoring	Specific_Term
 Monoporeia affinis	Specific_Term
 Mortality	Specific_Term
+Mugil	Specific_Term
 Mugil cephalus	Specific_Term
+Mullus	Specific_Term
 Mullus surmuletus	Specific_Term
 Mute Swan	Specific_Term
 Myanmar	Specific_Term
+Mylopharyngodon	Specific_Term
 Mylopharyngodon piceus	Specific_Term
 Mysis	Specific_Term
 NDVI	Specific_Term
@@ -250,21 +295,29 @@ New Zealand	Specific_Term
 Ningxia	Specific_Term
 North America	Specific_Term
 North Atlantic	Specific_Term
+North Pacific	Specific_Term
 North Pacific Ocean	Specific_Term
 North Sea	Specific_Term
 Northern Ireland	Specific_Term
 Northern Wheatear	Specific_Term
 Northwest Pacific	Specific_Term
+Ocean	Specific_Term
 Oceans	Specific_Term
 Ochrophyta	Specific_Term
+Oenanthe	Specific_Term
 Oenanthe oenanthe	Specific_Term
+Oil	Specific_Term
 Oil pollution	Specific_Term
 Oman	Specific_Term
+Oncorhynchus	Specific_Term
 Oncorhynchus mykiss	Specific_Term
 Onyx	Specific_Term
+Oryza	Specific_Term
 Oryza sativa	Specific_Term
+Osmerus	Specific_Term
 Osmerus mordax	Specific_Term
 Otter	Specific_Term
+Oxidation	Specific_Term
 Oxidation-reduction	Specific_Term
 PAH	Specific_Term
 PUA	Specific_Term
@@ -272,17 +325,22 @@ Pacific Ocean	Specific_Term
 Parasitism	Specific_Term
 Particle	Specific_Term
 Peninsular Malaysia	Specific_Term
+Perca	Specific_Term
 Perca fluviatilis	Specific_Term
+Perna	Specific_Term
 Perna perna	Specific_Term
 Pesticides	Specific_Term
 Phaeophyceae	Specific_Term
 Pharmaceuticals (PhACs)	Specific_Term
 Philippines	Specific_Term
+Phoenicopterus	Specific_Term
 Phoenicopterus ruber	Specific_Term
 Photoinhibition	Specific_Term
+Phytoplankton	Specific_Term
 Phytoplankton of estuaries and coastal areas (FITEAC)	Specific_Term
 Plaice	Specific_Term
 Planners	Specific_Term
+Plants	Specific_Term
 Plastic	Specific_Term
 Pleistocene	Specific_Term
 Polish	Specific_Term
@@ -295,11 +353,14 @@ Potential Environmental Indicators (PEIs)	Specific_Term
 Prasinophyceae	Specific_Term
 Preservation	Specific_Term
 Prionocidaris	Specific_Term
+Protected Areas	Specific_Term
+Protection	Specific_Term
 Psammechinus	Specific_Term
 Quaternary	Specific_Term
 Quebec	Specific_Term
 Radioactive waste	Specific_Term
 Rainfall	Specific_Term
+Rare earth	Specific_Term
 Rare earth elements (REE)	Specific_Term
 Red Sea	Specific_Term
 Red algae	Specific_Term
@@ -310,24 +371,31 @@ Rhodobacteraceae	Specific_Term
 Rhodophyta	Specific_Term
 Rhopilema	Specific_Term
 Rio de Janeiro	Specific_Term
+Risk	Specific_Term
 Risk management	Specific_Term
 River	Specific_Term
+River Basin	Specific_Term
 River basin	Specific_Term
 Rivers	Specific_Term
 Romania	Specific_Term
 Russian Federation	Specific_Term
+Rutilus	Specific_Term
 Rutilus rutilus	Specific_Term
 SAR	Specific_Term
 SOD	Specific_Term
+Sabella	Specific_Term
 Sabella spallanzanii	Specific_Term
 Salinity	Specific_Term
+Salmo	Specific_Term
 Salmo trutta	Specific_Term
 Salt	Specific_Term
 Sao Paulo	Specific_Term
 Sardinia	Specific_Term
+Sargassum	Specific_Term
 Sargassum polycystum	Specific_Term
 Saudi Arabia	Specific_Term
 Schizaster	Specific_Term
+Scomber	Specific_Term
 Scomber scombrus	Specific_Term
 Sea	Specific_Term
 Sea level	Specific_Term
@@ -339,6 +407,7 @@ Seaweeds	Specific_Term
 Sediment	Specific_Term
 Sediment samples	Specific_Term
 Senegal	Specific_Term
+Sepia	Specific_Term
 Sepia officinalis	Specific_Term
 Seston	Specific_Term
 Shanghai	Specific_Term
@@ -346,6 +415,7 @@ Sharks	Specific_Term
 Shoreline	Specific_Term
 Siberian	Specific_Term
 Singapore	Specific_Term
+Skeletonema	Specific_Term
 Skeletonema costatum	Specific_Term
 Soil	Specific_Term
 Soil salinity	Specific_Term
@@ -353,6 +423,7 @@ South Africa	Specific_Term
 South Asia	Specific_Term
 South Atlantic Ocean	Specific_Term
 South Australia	Specific_Term
+South China Sea	Specific_Term
 South China Sea (SCS)	Specific_Term
 South Dakota	Specific_Term
 South Korea	Specific_Term
@@ -360,15 +431,19 @@ Soviet Union	Specific_Term
 Spain	Specific_Term
 Spatangus	Specific_Term
 Sri Lanka	Specific_Term
+Stable	Specific_Term
 Stable isotopes	Specific_Term
+Stizostedion	Specific_Term
 Stizostedion vitreum	Specific_Term
 Strategy	Specific_Term
+Structures	Specific_Term
 Stylocidaris	Specific_Term
 Submarine	Specific_Term
 Submarine groundwater discharge (SGD)	Specific_Term
 Suez Canal	Specific_Term
 Sulawesi	Specific_Term
 Sumatra	Specific_Term
+Sustainable Development	Specific_Term
 Sustainable Development Goals (SDGs)	Specific_Term
 Swans	Specific_Term
 Synechococcus	Specific_Term
@@ -380,8 +455,12 @@ Tasmania	Specific_Term
 Temperature	Specific_Term
 Tetraclita	Specific_Term
 Tetrodotoxin (TTX)	Specific_Term
+Toxicology	Specific_Term
 Transport	Specific_Term
+Treatment	Specific_Term
 Tretocidaris	Specific_Term
+Trichocorixa	Specific_Term
+Trichocorixa verticalis	Specific_Term
 Trichocorixa verticalis verticalis (Tvv)	Specific_Term
 Tripneustes	Specific_Term
 Trophic diatom index for lakes (TDIL)	Specific_Term
@@ -391,6 +470,7 @@ Tuscany	Specific_Term
 Typha	Specific_Term
 USA	Specific_Term
 UV radiation	Specific_Term
+Ulva	Specific_Term
 Ulva fasciata	Specific_Term
 Ulvaceae	Specific_Term
 Ulvales	Specific_Term
@@ -398,18 +478,27 @@ Ulvophyceae	Specific_Term
 United Nations (UN)	Specific_Term
 Unmanned Aerial Vehicle (UAV)	Specific_Term
 Urban areas	Specific_Term
+Uria	Specific_Term
 Uria aalge	Specific_Term
 Uria lomvia	Specific_Term
 Uruguay	Specific_Term
 Valencia	Specific_Term
+Vegetation	Specific_Term
 Vegetation cover	Specific_Term
 Vehicle	Specific_Term
 Very Large Floating Structures (VLFS)	Specific_Term
+Waste	Specific_Term
+Waste Water	Specific_Term
+Waste Water Treatment	Specific_Term
 Waste Water Treatment Plants	Specific_Term
+Wastewater	Specific_Term
+Wastewater treatment	Specific_Term
 Wastewater treatment plants (WWTPs)	Specific_Term
 Water	Specific_Term
 Water Framework Directive	Specific_Term
+Water Treatment	Specific_Term
 Water levels	Specific_Term
+Water resources	Specific_Term
 Water resources management	Specific_Term
 Water scarcity	Specific_Term
 West Africa	Specific_Term
@@ -433,6 +522,7 @@ accumulation	Specific_Term
 accumulator	Specific_Term
 acid	Specific_Term
 acidification	Specific_Term
+acids	Specific_Term
 active	Specific_Term
 activities	Specific_Term
 adaptation	Specific_Term
@@ -443,6 +533,7 @@ adult	Specific_Term
 adverse effects	Specific_Term
 afforestation	Specific_Term
 agar	Specific_Term
+age	Specific_Term
 age structure	Specific_Term
 aged	Specific_Term
 aggregates	Specific_Term
@@ -452,9 +543,11 @@ agriculture	Specific_Term
 air	Specific_Term
 airport	Specific_Term
 airports	Specific_Term
+aldehydes	Specific_Term
 algae	Specific_Term
 algal blooms	Specific_Term
 alien species	Specific_Term
+alkalinity	Specific_Term
 alkyl anthracenes (AANs)	Specific_Term
 alkyl chrysenes (ACHs)	Specific_Term
 alkyl fluoranthenes (AFLs)	Specific_Term
@@ -474,6 +567,7 @@ anomalous	Specific_Term
 anthropogenic	Specific_Term
 anthropogenic factors	Specific_Term
 antibiotic	Specific_Term
+antibiotic resistance	Specific_Term
 antibiotic resistance genes (ARGs)	Specific_Term
 anticipation	Specific_Term
 antioxidants	Specific_Term
@@ -490,6 +584,8 @@ aquatic vegetation	Specific_Term
 aquifer	Specific_Term
 aquifers	Specific_Term
 archipelago	Specific_Term
+aromatic hydrocarbon	Specific_Term
+aromatic hydrocarbons	Specific_Term
 arsenic (As)	Specific_Term
 arthropods	Specific_Term
 artificial reefs (ARs)	Specific_Term
@@ -514,6 +610,7 @@ bay	Specific_Term
 beach	Specific_Term
 beach erosion	Specific_Term
 beaches	Specific_Term
+bed	Specific_Term
 bed friction	Specific_Term
 bedrock	Specific_Term
 beds	Specific_Term
@@ -544,12 +641,15 @@ black	Specific_Term
 black carp	Specific_Term
 block	Specific_Term
 bloom	Specific_Term
+blooms	Specific_Term
 blue	Specific_Term
 bodies	Specific_Term
 body condition	Specific_Term
+border	Specific_Term
 border closures	Specific_Term
 bottom topography	Specific_Term
 boundary layer	Specific_Term
+brackish water	Specific_Term
 breakwaters	Specific_Term
 breeding	Specific_Term
 breeding seasons	Specific_Term
@@ -564,6 +664,7 @@ cage culture	Specific_Term
 canals	Specific_Term
 canyon	Specific_Term
 canyons	Specific_Term
+capacity	Specific_Term
 carbon	Specific_Term
 carbon (C)	Specific_Term
 carbon cycling	Specific_Term
@@ -572,6 +673,7 @@ carbon sequestration	Specific_Term
 carbonate	Specific_Term
 carbonation	Specific_Term
 cargo	Specific_Term
+carp	Specific_Term
 cars	Specific_Term
 catfish	Specific_Term
 caves	Specific_Term
@@ -588,11 +690,13 @@ chlorophyll	Specific_Term
 chlorpyrifos	Specific_Term
 chromium	Specific_Term
 chromium (Cr)	Specific_Term
+circulation	Specific_Term
 cities	Specific_Term
 citizens	Specific_Term
 civil engineering	Specific_Term
 cleaning	Specific_Term
 cliffs	Specific_Term
+climate	Specific_Term
 climate change	Specific_Term
 climate variability	Specific_Term
 coast	Specific_Term
@@ -611,7 +715,9 @@ coastal management	Specific_Term
 coastal marshes	Specific_Term
 coastal structures	Specific_Term
 coastal upwelling	Specific_Term
+coastal water	Specific_Term
 coastal waters	Specific_Term
+coastal zone management	Specific_Term
 coastal zones	Specific_Term
 coasts	Specific_Term
 cold	Specific_Term
@@ -628,7 +734,9 @@ competition	Specific_Term
 complex formation	Specific_Term
 composition	Specific_Term
 concentration	Specific_Term
+concrete	Specific_Term
 concrete structures	Specific_Term
+conductivity	Specific_Term
 conflict	Specific_Term
 conflict of interests	Specific_Term
 conflicts	Specific_Term
@@ -644,6 +752,7 @@ continental shelf	Specific_Term
 control	Specific_Term
 conversion	Specific_Term
 cool	Specific_Term
+cooling	Specific_Term
 cooling systems	Specific_Term
 cooperation	Specific_Term
 coordinating	Specific_Term
@@ -665,6 +774,7 @@ crop	Specific_Term
 crucian carp	Specific_Term
 crude oil	Specific_Term
 crustaceans	Specific_Term
+cultivation	Specific_Term
 cultural ecosystem services (CES)	Specific_Term
 culture	Specific_Term
 currents	Specific_Term
@@ -682,7 +792,9 @@ data	Specific_Term
 dataset	Specific_Term
 daytime	Specific_Term
 decapods	Specific_Term
+decision	Specific_Term
 decision making	Specific_Term
+decision support	Specific_Term
 decision support system(DSS)	Specific_Term
 decision-making	Specific_Term
 decomposition	Specific_Term
@@ -691,6 +803,7 @@ degradation	Specific_Term
 delivery	Specific_Term
 delta	Specific_Term
 deltas	Specific_Term
+demand	Specific_Term
 denitrification (DNF)	Specific_Term
 density	Specific_Term
 deposition	Specific_Term
@@ -699,6 +812,7 @@ depression	Specific_Term
 detection	Specific_Term
 deterioration	Specific_Term
 determinants	Specific_Term
+developing	Specific_Term
 developing countries	Specific_Term
 development	Specific_Term
 diatom	Specific_Term
@@ -711,6 +825,7 @@ dioxin	Specific_Term
 dioxins	Specific_Term
 disaster	Specific_Term
 disaster prevention	Specific_Term
+disaster risk	Specific_Term
 disaster risk reduction	Specific_Term
 disasters	Specific_Term
 discards	Specific_Term
@@ -743,6 +858,7 @@ dunes	Specific_Term
 durability	Specific_Term
 duration	Specific_Term
 early warning system	Specific_Term
+earth	Specific_Term
 earthquake	Specific_Term
 earthquakes	Specific_Term
 eastern Hainan Island (HEU)	Specific_Term
@@ -760,6 +876,7 @@ ecosystem conservation	Specific_Term
 ecosystem restoration	Specific_Term
 ecosystem services	Specific_Term
 ecosystems	Specific_Term
+eel	Specific_Term
 effects	Specific_Term
 efficiency	Specific_Term
 effluent	Specific_Term
@@ -825,6 +942,7 @@ farms	Specific_Term
 fate	Specific_Term
 fattening	Specific_Term
 fatty acid (FA)	Specific_Term
+fatty acids	Specific_Term
 fault	Specific_Term
 faults	Specific_Term
 fauna	Specific_Term
@@ -845,6 +963,7 @@ fishery	Specific_Term
 fishes	Specific_Term
 fishing	Specific_Term
 fishing effort	Specific_Term
+fishing gear	Specific_Term
 fishing grounds	Specific_Term
 flamingoes	Specific_Term
 flash floods	Specific_Term
@@ -872,6 +991,7 @@ foraging	Specific_Term
 forcing	Specific_Term
 forecast	Specific_Term
 forest	Specific_Term
+forests	Specific_Term
 fossil	Specific_Term
 fossil fuel	Specific_Term
 fragmentation	Specific_Term
@@ -892,6 +1012,7 @@ gardens	Specific_Term
 gas	Specific_Term
 gastrointestinal (GI)	Specific_Term
 gelatinous zooplankton	Specific_Term
+genes	Specific_Term
 genus	Specific_Term
 geodynamics	Specific_Term
 geography	Specific_Term
@@ -902,8 +1023,10 @@ global warming	Specific_Term
 gneiss	Specific_Term
 good ecological status	Specific_Term
 good governance	Specific_Term
+goods	Specific_Term
 goods and services	Specific_Term
 governance	Specific_Term
+grain	Specific_Term
 grain size	Specific_Term
 granite	Specific_Term
 grass	Specific_Term
@@ -928,6 +1051,7 @@ groundwater table	Specific_Term
 groups	Specific_Term
 growing	Specific_Term
 growth	Specific_Term
+growth rate	Specific_Term
 gulf	Specific_Term
 gulls	Specific_Term
 gyres	Specific_Term
@@ -935,13 +1059,16 @@ habitat	Specific_Term
 habitat suitability	Specific_Term
 habitat types	Specific_Term
 habitats	Specific_Term
+habits	Specific_Term
 harbours	Specific_Term
 harm	Specific_Term
 harvest	Specific_Term
 hazard	Specific_Term
 hazardous substances	Specific_Term
 hazards	Specific_Term
+health	Specific_Term
 health status	Specific_Term
+heat	Specific_Term
 heat transport	Specific_Term
 heavy metal	Specific_Term
 heavy metals	Specific_Term
@@ -960,6 +1087,7 @@ human health	Specific_Term
 human population	Specific_Term
 human well-being	Specific_Term
 humans	Specific_Term
+humus	Specific_Term
 humus content	Specific_Term
 hurricane	Specific_Term
 hurricanes	Specific_Term
@@ -982,6 +1110,7 @@ import	Specific_Term
 improving	Specific_Term
 increase	Specific_Term
 index	Specific_Term
+indicator	Specific_Term
 indicator species	Specific_Term
 indigenous species	Specific_Term
 individual	Specific_Term
@@ -992,12 +1121,15 @@ industry	Specific_Term
 infiltration	Specific_Term
 inflow	Specific_Term
 infrastructure	Specific_Term
+inorganic carbon	Specific_Term
 inorganic compounds	Specific_Term
+inorganic nitrogen	Specific_Term
 inputs	Specific_Term
 insect	Specific_Term
 insecticides	Specific_Term
 instability	Specific_Term
 institutions	Specific_Term
+integrated coastal zone management (ICZM)	Specific_Term
 integrated production	Specific_Term
 integrated wastewater treatment plant (IWWTP)	Specific_Term
 intensive farming	Specific_Term
@@ -1017,6 +1149,7 @@ island	Specific_Term
 islands	Specific_Term
 isolation	Specific_Term
 isotope	Specific_Term
+isotopes	Specific_Term
 jurisdiction	Specific_Term
 juveniles	Specific_Term
 karst	Specific_Term
@@ -1038,6 +1171,7 @@ land use	Specific_Term
 land use change	Specific_Term
 land use cover change (LUCC)	Specific_Term
 land use planning	Specific_Term
+landfill	Specific_Term
 landfill leachate	Specific_Term
 landforms	Specific_Term
 lands	Specific_Term
@@ -1076,6 +1210,7 @@ macrophyte	Specific_Term
 macrophytes	Specific_Term
 maintenance	Specific_Term
 males	Specific_Term
+mammals	Specific_Term
 management	Specific_Term
 managers	Specific_Term
 mangrove	Specific_Term
@@ -1104,6 +1239,7 @@ marsh	Specific_Term
 marshes	Specific_Term
 material	Specific_Term
 materials	Specific_Term
+matter	Specific_Term
 maturity	Specific_Term
 mayflies	Specific_Term
 measurement	Specific_Term
@@ -1112,6 +1248,7 @@ mechanical equipment	Specific_Term
 medicine	Specific_Term
 mercury	Specific_Term
 metabolism	Specific_Term
+metabolites	Specific_Term
 metal	Specific_Term
 metalloids	Specific_Term
 metals	Specific_Term
@@ -1165,6 +1302,7 @@ nickel	Specific_Term
 nitrate	Specific_Term
 nitrogen	Specific_Term
 nitrogen (N)	Specific_Term
+noise	Specific_Term
 noise pollution	Specific_Term
 non-native species	Specific_Term
 northwestern South China Sea (NWSCS)	Specific_Term
@@ -1177,6 +1315,7 @@ ocean	Specific_Term
 ocean acidification	Specific_Term
 ocean circulation	Specific_Term
 ocean currents	Specific_Term
+oceanic climate	Specific_Term
 oceanic islands	Specific_Term
 oil	Specific_Term
 oil spill	Specific_Term
@@ -1220,13 +1359,16 @@ particulate matter	Specific_Term
 past	Specific_Term
 peat	Specific_Term
 peatlands	Specific_Term
+pelagic environment	Specific_Term
 pelagic fish	Specific_Term
+pellets	Specific_Term
 people	Specific_Term
 peoples	Specific_Term
 perception	Specific_Term
 perch	Specific_Term
 performance	Specific_Term
 persistence	Specific_Term
+pest	Specific_Term
 pest control	Specific_Term
 pesticides	Specific_Term
 petroleum	Specific_Term
@@ -1282,6 +1424,7 @@ pollution	Specific_Term
 pollution indicators	Specific_Term
 pollution load	Specific_Term
 polyculture	Specific_Term
+polycyclic aromatic hydrocarbons	Specific_Term
 polycyclic aromatic hydrocarbons (PAHs)	Specific_Term
 polyethylene	Specific_Term
 polypropylene	Specific_Term
@@ -1303,6 +1446,7 @@ ports	Specific_Term
 potable water	Specific_Term
 potential	Specific_Term
 power	Specific_Term
+power plants	Specific_Term
 precipitation	Specific_Term
 predation	Specific_Term
 predator	Specific_Term
@@ -1356,6 +1500,7 @@ recycling	Specific_Term
 red algae	Specific_Term
 red list	Specific_Term
 red mullet	Specific_Term
+reduction	Specific_Term
 reef	Specific_Term
 reef fishes	Specific_Term
 reefs	Specific_Term
@@ -1371,6 +1516,7 @@ regulations	Specific_Term
 regulators	Specific_Term
 regulatory measures	Specific_Term
 rehabilitation	Specific_Term
+reinforced concrete	Specific_Term
 reinforced concrete (RC)	Specific_Term
 removal	Specific_Term
 repair	Specific_Term
@@ -1390,6 +1536,8 @@ resource management	Specific_Term
 resource use	Specific_Term
 resource utilization	Specific_Term
 resources	Specific_Term
+resources management	Specific_Term
+restoration	Specific_Term
 rice	Specific_Term
 rip currents	Specific_Term
 risk	Specific_Term
@@ -1407,6 +1555,7 @@ rivers	Specific_Term
 roach	Specific_Term
 rock	Specific_Term
 rocks	Specific_Term
+root	Specific_Term
 root system	Specific_Term
 roots	Specific_Term
 safety	Specific_Term
@@ -1424,10 +1573,12 @@ saltwater intrusion	Specific_Term
 samples	Specific_Term
 sand	Specific_Term
 school	Specific_Term
+sciences	Specific_Term
 scientists	Specific_Term
 sea	Specific_Term
 sea caves	Specific_Term
 sea floor	Specific_Term
+sea ice	Specific_Term
 sea level	Specific_Term
 sea level rise	Specific_Term
 sea level rise (SLR)	Specific_Term
@@ -1437,6 +1588,7 @@ seagrass	Specific_Term
 seagrasses	Specific_Term
 seals	Specific_Term
 seas	Specific_Term
+season	Specific_Term
 seasonal changes	Specific_Term
 seasonal variation	Specific_Term
 seasons	Specific_Term
@@ -1450,12 +1602,14 @@ sediment transport	Specific_Term
 sediment-water interface	Specific_Term
 sedimentation	Specific_Term
 sediments	Specific_Term
+seed	Specific_Term
 seed dispersal	Specific_Term
 seedlings	Specific_Term
 segregation	Specific_Term
 seismic activity	Specific_Term
 selection	Specific_Term
 separating	Specific_Term
+sequestration	Specific_Term
 services	Specific_Term
 seston	Specific_Term
 settlement	Specific_Term
@@ -1482,6 +1636,7 @@ simulation	Specific_Term
 site	Specific_Term
 site selection	Specific_Term
 size	Specific_Term
+size distribution	Specific_Term
 skills	Specific_Term
 slope	Specific_Term
 small tidal inlets (STIs)	Specific_Term
@@ -1524,6 +1679,7 @@ stable isotopes	Specific_Term
 stakeholders	Specific_Term
 state	Specific_Term
 stations	Specific_Term
+steam	Specific_Term
 steam power plants	Specific_Term
 stems	Specific_Term
 stocking	Specific_Term
@@ -1554,11 +1710,14 @@ success	Specific_Term
 suitability	Specific_Term
 summer	Specific_Term
 supplements	Specific_Term
+supply	Specific_Term
 supply and demand	Specific_Term
 support	Specific_Term
 surf zone	Specific_Term
 surface	Specific_Term
+surface slope	Specific_Term
 surface water	Specific_Term
+surges	Specific_Term
 surveillance	Specific_Term
 survival	Specific_Term
 suspended particulate matter (SPM)	Specific_Term
@@ -1587,6 +1746,7 @@ thiols	Specific_Term
 threatened species	Specific_Term
 threats	Specific_Term
 tidal currents	Specific_Term
+tidal inlets	Specific_Term
 tidal marshes	Specific_Term
 tidal waves	Specific_Term
 tide	Specific_Term
@@ -1623,6 +1783,7 @@ tropical regions	Specific_Term
 trout	Specific_Term
 tsunamis	Specific_Term
 turbulence	Specific_Term
+typhoon	Specific_Term
 typhoon intensification (TI)	Specific_Term
 typologies	Specific_Term
 uncertainty	Specific_Term
@@ -1650,11 +1811,13 @@ volume	Specific_Term
 vortex	Specific_Term
 vulnerability	Specific_Term
 warming	Specific_Term
+warning system	Specific_Term
 washing	Specific_Term
 waste	Specific_Term
 waste water	Specific_Term
 wastes	Specific_Term
 wastewater	Specific_Term
+wastewater treatment	Specific_Term
 water	Specific_Term
 water bodies	Specific_Term
 water body	Specific_Term
