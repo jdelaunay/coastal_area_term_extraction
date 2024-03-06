@@ -1,33 +1,30 @@
 #!/usr/bin/env python
 # coding: utf-8
+import argparse
+import json
 import os
+import random
+import timeit
+import warnings
+
+import numpy as np
+import pandas as pd
+import torch
+import wandb
+from transformers import Trainer, TrainingArguments
+from transformers import XLMRobertaForTokenClassification
+from transformers import XLMRobertaTokenizerFast
+from transformers.integrations import WandbCallback
+
+import pickle
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
-import torch
-
 torch.manual_seed(3407)
-import random
-
 random.seed(3407)
-import numpy as np
-
 np.random.seed(3407)
 
-from transformers import XLMRobertaTokenizerFast
-from transformers import XLMRobertaForTokenClassification
-from transformers import Trainer, TrainingArguments
-from transformers import EarlyStoppingCallback
-
-import json
-import pandas as pd
-import pickle
-
-import warnings
-
 warnings.filterwarnings("ignore", category=FutureWarning)
-
-import timeit
 
 
 def convert_type(df):
@@ -189,19 +186,16 @@ def get_dataset(path):
     ]
     texts, tags = [], []
     for file in files:
-        df = pd.read_csv(file, delimiter="\t", names=["word", "labels"])
+        df = pd.read_csv(file, delimiter="\t", quoting=3, names=["word", "labels"])
         texts.append(df["word"].tolist())
         tags.append(df["labels"].tolist())
     return texts, tags
 
 
 if __name__ == "__main__":
-    import argparse
+    
 
-    parser = argparse.ArgumentParser(
-        description="Just an example",
-        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
-    )
+    parser = argparse.ArgumentParser()
 
     parser.add_argument(
         "-store", "--store", type=str, default="saves", help="store the model"
@@ -216,8 +210,17 @@ if __name__ == "__main__":
     parser.add_argument(
         "-log", "--log_path", type=str, default="logs", help="save logs"
     )
+    parser.add_argument(
+        "-wandb_api_key",
+        "--wandb_api_key",
+        type=str,
+        default="",
+        help="wandb api key",
+    )
 
     args = parser.parse_args()
+
+    
 
     start = timeit.default_timer()
     os.makedirs(args.store, exist_ok=True)
@@ -232,8 +235,9 @@ if __name__ == "__main__":
 
     gold_set_for_test = set(
         pd.read_csv(
-            "./data/annotations/unique_annotations_lists/en_terms.tsv",
+            "./data/annotations/unique_annotations_lists/test_unique_terms.tsv",
             delimiter="\t",
+            quoting=3,
             names=["Term", "Label"],
         )["Term"].tolist()
     )
@@ -277,6 +281,11 @@ if __name__ == "__main__":
     model = XLMRobertaForTokenClassification.from_pretrained(
         "xlm-roberta-base", num_labels=num_labels
     )
+    wandb.login(key=args.wandb_api_key)
+    wandb.init(project="coastal_term_extraction_xlmr",
+               config={
+                   "model_name": "XLMR",
+               })
 
     # initialize huggingface trainer
     trainer = Trainer(
@@ -286,12 +295,13 @@ if __name__ == "__main__":
         eval_dataset=val_dataset,
         tokenizer=tokenizer,
         compute_metrics=compute_metrics,
+        callbacks=[WandbCallback()],
     )
 
     # train
     trainer.train()
     # save the best model weights
-    torch.save(trainer.model.state_dict(), "./best_xlmr_weights.pt")
+    torch.save(trainer.model.state_dict(), f"{args.store}/best_xlmr_weights.pt")
 
     # test
     test_predictions, test_labels, test_metrics = trainer.predict(test_dataset)
