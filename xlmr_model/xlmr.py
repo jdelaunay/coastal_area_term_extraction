@@ -33,15 +33,6 @@ def convert_type(df):
         df["labels"].iloc[i] = eval(df["labels"].iloc[i])
     return df
 
-
-def label_mapping(df):
-    dct = {"O": "n", "B": "B-T", "I": "T"}
-    for i in range(len(df)):
-        df.labels.iloc[i] = [dct[k] for k in df.labels.iloc[i]]
-    df = list(zip(*map(df.get, df)))
-    return df
-
-
 def tokenize_and_align_labels(texts, tags):
     # lowercase
     texts = [[x.lower() for x in l] for l in texts]
@@ -102,10 +93,10 @@ def extract_terms(token_predictions, val_texts):
         for j in range(len(pred)):
             # if right tag build term and add it to the set otherwise just continue
             # print(pred[j], txt[j])
-            if pred[j] == "B-T":
+            if pred[j] == "B":
                 term = txt[j]
                 for k in range(j + 1, len(pred)):
-                    if pred[k] == "T":
+                    if pred[k] == "I":
                         term += " " + txt[k]
                     else:
                         break
@@ -246,7 +237,7 @@ if __name__ == "__main__":
 
     # align labels with tokenization from XLM-R
 
-    label_list = ["n", "B-T", "T"]
+    label_list = ["O", "B", "I"]
     label_to_id = {l: i for i, l in enumerate(label_list)}
     num_labels = len(label_list)
 
@@ -260,7 +251,7 @@ if __name__ == "__main__":
 
     training_args = TrainingArguments(
         output_dir=args.store,  # output directory
-        num_train_epochs=20,  # total # of training epochs
+        num_train_epochs=1,  # total # of training epochs
         per_device_train_batch_size=32,  # batch size per device during training
         per_device_eval_batch_size=32,  # batch size for evaluation
         # warmup_steps=0,                  # number of warmup steps for learning rate scheduler
