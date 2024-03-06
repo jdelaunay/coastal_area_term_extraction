@@ -1,0 +1,9 @@
+Copyright 2020 Tsikopoulou, Santi, Dimitriou, Papageorgiou, Pitta and Karakassis.Excessive primary productivity due to nutrient inputs is a potential problem in coastal areas when resulting in high organic matter sedimentation rates.
+Microphytobenthos and heterotrophic bacteria are two components of the benthic ecosystem that contribute to nutrient cycling and decomposition of organic matter.
+In this context, the effects of nutrient addition and the associated in situ produced organic matter on microphytobenthos community composition and benthic bacterial viability were assessed in a mesocosm experiment for 58 days.
+The experimental setup included triplicate mesocosms filled with sediment and water under three levels of nutrient addition (control, low, and high).
+Benthic algal community composition was assessed using chemotaxonomy and bacterial viability was estimated using flow cytometry and a double-staining protocol.
+Multivariate analysis detected a significant effect of treatment and time on microphytobenthic community composition indicating a difference between control and low mesocosms and also between low and high treatments at Days 12 and 24 of the experiment.
+Nonetheless, microphytobenthos implied high resistance and redundancy of benthic algae to disturbance as all three treatments showed no significant difference in community structure between Days 0 and 58.
+Bacterial viability responded quickly to the high nutrient addition and was significantly lower than in the control and low treatments at Days 6 and 12.
+Both pelagic and benthic environmental variables were correlated to these changes in benthic community.

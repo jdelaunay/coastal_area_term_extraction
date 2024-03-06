@@ -1,0 +1,12 @@
+2019, Springer-Verlag GmbH Germany, part of Springer Nature.Purpose: Heavy metals are among the most common environmental pollutants, which can be introduced into coastal areas from natural and anthropogenic sources, and thereby possibly impact marine organisms and human population.
+Therefore, the aim of this study was to evaluate the pollution level of Montenegrin coastal sediments by determining the concentrations of 10 metals and metalloids (Fe, Mn, Zn, Cu, Ni, Pb, Cr, Cd, As, and Hg) during one whole decade.
+Materials and methods: Sediment samples were collected from 11 sites along the Montenegrin coast during the 20052016 exposure to different levels and sources of anthropogenic impact.
+The extent of pollution was estimated by determining total element concentrations in the sediment.
+Mineralized samples were analyzed for Cu, Ni, Fe, Mn, Cr, As, Pb, Zn, Cd, and Hg.
+Pollution status was evaluated using the contamination factor, pollution load index, and geo-accumulation index, as well as statistical methods, such as Pearson correlation coefficient (r) and cluster analysis (CA).
+Results and discussion: This study showed that concentrations of individual metals at some locations were extremely high.
+The metal concentrations (in mg kg1) ranged as follows: Fe 199545,498; Mn 1351139; Zn 101596; Cu 3.82719; Ni 2.94267; Pb 0.1755; Cr 2.5369; Cd 0.15.4; As 0.139.1; and Hg 0.0114.2.
+The calculated concentration factor and pollution load index indicates enrichment by either natural processes or anthropogenic influences.
+The geo-accumulation index value (Igeo) showed that one location was strongly or extremely polluted (3.78 < Igeo 6.15) with Hg in all investigated years, while extreme Igeo values for four bioactive elements, Pb, Cd, Cu, and Zn, were found in only a few single samples.
+Conclusions: On the basis of the obtained values, it can be concluded that generally higher metal contents were distributed in Boka Kotorska Bay sites, although some extreme values were also recorded at the locations outside of the Bay.
+Geo-accumulation index and pollution load index showed that the metal levels were high enough to pose risk to the ecosystem.

@@ -1,0 +1,14 @@
+Copyright 2021 Racasa, Lennartz, Toro and Janssen.Submarine groundwater discharge (SGD) is an important pathway for water and materials within the land-ocean transition zone that can impact coastal environments and marine life.
+Although research from sandy shorelines has rapidly advanced in recent years, there is very little understanding of coastal areas characterized by a low hydraulic conductivity, such as carbon-rich coastal peatlands.
+The objective of this study was to determine the magnitude and location of terrestrial SGD to be expected from a non-tidal low-lying coastal peatland located along the Baltic Sea and to understand the controlling factors using numerical modeling.
+We employed the HYDRUS-2D modeling package to simulate water movement under steady-state conditions in a transect that extends from the dune dike-separated rewetted fen to the shallow sea.
+Soil physical properties, hydraulic gradients, geological stratifications, and topography were varied to depict the range of properties encountered in coastal peatlands.
+Our results show that terrestrial SGD occurs at the study site at a flux of 0.080 m2 d1, with seepage rates of 1.05 cm d1 (upper discharge region) and 0.16 cm d1 (lower discharge region above submerged peat layer).
+These calculated seepage rates compare to observations from other wetland environments and SGD sites in the Baltic Sea.
+The groundwater originates mainly from the dune dikerecharged by precipitation and infiltration from ponded peatland surface waterand to a lesser extent from the sand aquifer.
+The scenario simulations yielded a range of potential SGD fluxes of 0.0080.293 m2 d1.
+They revealed that the location of terrestrial SGD is determined by the barrier function of the peat layer extending under the sea.
+However, it has little impact on volume flux as most SGD occurs near the shoreline.
+Magnitude of SGD is mainly driven by hydraulic gradient and the hydraulic conductivity of peat and beach/dune sands.
+Anisotropy in the horizontal direction, aquifer and peat thickness, and peatland elevation have little impacts on SGD.
+We conclude that SGD is most probable from coastal peatlands with high water levels, large Ks and/or a dune dike or belt, which could be an essential source for carbon and other materials via the SGD pathway.

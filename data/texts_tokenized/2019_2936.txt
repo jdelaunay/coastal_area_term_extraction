@@ -1,0 +1,13 @@
+Australasian Coasts and Ports 2019 Conference.
+All rights reserved.Flooding in coastal areas may be dependent on the coincidence of oceanic water conditions and catchment rain events.
+In many locations, the same meteorological systems can cause both catchment rainfall and elevated coastal water levels, so both must be considered when estimating flooding.
+Water levels in coastal regions are dynamic and change on a variety of different temporal scales, most notably due to the presence of tides and wave setup.
+Understanding and modelling the dynamic nature of coastal tailwater levels during storm events is fundamental to estimating flood drainage in complex environments which require detailed flood management.
+Previous flood modelling practice usually considered a fixed ocean tailwater level, sometimes neglecting wave setup, and sometimes allowing the full quantum of wave setup that would be expected on a dissipative beach.
+This paper provides a simple methodology for developing a time series of dynamic coastal tailwater levels for a range of different coastal environments, with proper consideration of time-varying wave setup throughout a synthetic design storm.
+In addition to wave setup, it considers a variety of coastal processes, including astronomical tides, tidal anomalies, local wind setup and future projections of sea level rise.
+This methodology has been used at numerous sites across Australia, including several sites in south-east Tasmania and NSW.
+Differing geography and morphology can result in different considerations for coastal tailwater conditions.
+In some cases, the region may be swell dominated with negligible wind setup, while more protected areas may warrant the consideration of local wind setup and the impact of wind waves.
+By way of a case study, this paper provides a methodology for modelling dynamic coastal tailwater time series in an open coast environment.
+The time series developed using this methodology can be used as the ocean boundary condition for a catchment flood study.

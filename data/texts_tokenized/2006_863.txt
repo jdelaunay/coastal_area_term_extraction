@@ -1,0 +1,14 @@
+Coastal groundwater aquifers are often exposed to heavy pumping and consequently to risks of saltwater intrusion.
+In many cases, however, the observed increase in groundwater salinity can only be partly explained by actual saltwater intrusion from the sea.
+Other salinity-increasing processes may also significantly contribute to the total salt content of the groundwater.
+This paper describes a geochemical investigation that was carried out to investigate recent salinity increases in groundwater for the Motooka coastal area in Fukuoka, Japan.
+A strong increase in electrical conductivity at 15-20 m depth was observed, corresponding to the freshwater and saltwater interface.
+Oxidation-reduction potentials observed in deeper groundwater were low, indicating long residence time for the groundwater.
+These results, together with hydrogen-oxygen isotope ratio analysis, indicated that the deeper groundwater is affected by seawater.
+Consequently, observed tritium concentration in the shallow groundwater system was higher than that of the deeper groundwater system, and a 14C isotope dating of shell samples collected at 2 m depth indicated an age of about 2000 years.
+The overall results suggest that the aquifer was originally below the current sea floor and that deeper saline groundwater is not mixed with the shallower fresh groundwater.
+The deeper groundwater is, therefore, mainly affected by old seawater.
+In other words, modern saltwater intrusion has not yet occurred even if some wells contain saline water.
+The study shows that, even though coastal aquifers are heavily pumped, the reason for the rise in groundwater salinity may not necessarily be due to seawater intrusion.
+Further geochemical and hydrological investigations will be necessary to identify the underlying mechanisms.
+Copyright 2006 John Wiley & Sons, Ltd.

@@ -1,0 +1,5 @@
+Oil pollution is one of the most important issues affecting the marine coastal environments all over the world.
+There are a large number of organizations to propose plans for managing the problems that coastal areas face, including various methods to combat the oil spills.
+This project proposes to achieve a decision support system(DSS) to assist the users/managers to choose the most suitable method for combating oil spills, according to the coastal area sensitivity.
+In this regard and in order to build an appropriate DSS model, some relevant documents regarding oil spills and spills management strategies, GIS- based modeling, and DSS planning were reviewed, some of which are referred to here.
+MCB UP Limited.

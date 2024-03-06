@@ -1,0 +1,12 @@
+Invasive species often transform environmental conditions, exclude native species and alter ecosystem functioning, including key ecosystem processes underpinning nutrient and energy cycles.
+However, such impacts have been most documented during periods of invasive species dominance; their influences on functioning at lower relative abundances and after long-term establishment are less well-known.
+We investigated the effects of Elodea canadensis, a macrophyte native to North America with a long invasion history in many regions of the world, on the biomass accrual and metabolism of littoral zone biofilms growing on organic and inorganic substrates.
+We deployed nutrient diffusing substrates (NDS) in 18 replicate transects distributed across six lakes, comprising three invaded by E. canadensis and three uninvaded reference lakes.
+NDS were amended with nitrogen (N), phosphorus (P) or N + P together, or were deployed as unamended controls.
+E. canadensis relative abundance varied widely in the invaded transects, ranging from 13% to 93% of all macrophyte cover.
+On control substrates, algal biomass, quantified as Chlorophyll-a, and gross primary production (GPP) were 42% and 78% greater in the invaded compared to uninvaded lakes, respectively.
+Respiration rates, attributable to responses of both autotrophs and heterotrophs, were 45% greater on control substrates in invaded lakes.
+By contrast, N-limitation of both biofilm GPP and respiration was 25% and 35% greater in uninvaded compared with invaded lakes.
+There was no evidence for differences in nutrients, light availability or grazing pressure between invaded and uninvaded transects.
+Rather, the observed differences in metabolism suggest that the presence of E. canadensis increases availability of N at local scales, reducing N-limitation of biofilms and resulting in elevated rates of biofilm productivity.
+Our results demonstrate that invasive elodeids might have significant impacts on biofilms and processes associated with the cycling of nutrients, even when long-established and present at lower relative abundances.

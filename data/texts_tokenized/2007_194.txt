@@ -1,0 +1,35 @@
+Beach nourishment restores beaches and enhances both their recreational value and their utility in shore protection.
+Increasing population in coastal areas and competition for land use has reduced the availability of terrestrial borrow pits while older sand pits have been exhausted.
+This situation has driven the search for borrow or mining sites offshore.
+Presently, almost all the marine sand mining along the Atlantic and Gulf coasts of the U.S.
+is to obtain material for publicly funded, beach nourishment.
+Much of this activity is in waters subject to federal jurisdiction.
+The demand for construction aggregate in metropolitan and developing coastal areas suggests that there might be an additional demand on offshore sand resources.
+Marine sand mining, as any type of dredging, disrupts habitat and can disturb transitory fishes and marine mammals.
+By altering the configuration of the sea floor, sand mining modifies wave transformation and, possibly, nearshore currents.
+Removing a large quantity of offshore sand and placing it in the nearshore zone alters habitat and sediment-transport processes.
+For over a decade, there has been a series of studies concerned with the potential environmental consequences of offshore sand mining and subsequent beach nourishment.
+A more recent set of projects developed and tested a suite of protocols for monitoring dredged and nourished areas.
+The field study testing the draft monitoring protocol was conducted in the active, sand-mining region of Sandbridge Shoal, offshore of Virginia Beach, Virginia.
+Results indicate that repopulation of dredged areas is enhanced by leaving patches of undisturbed bottom within the dredged region.
+No negative impacts on macrobenthos or demersal fishes were noted.
+Changes in wave transformation resulting from modifying the bottom topography are relatively small and, as the sand-mining sites tend to be in waters greater than 10 m deep, usually only occur during storms.
+In some instances, dredging shoals may decrease inshore wave height by diminishing the concentration of wave rays caused by refraction on the shoal.
+Shore-based radar may offer advantages for monitoring waves in the near shore.
+Agencies involved with individual sand-mining programs should consider participating in consortia managing local, coastal observing systems.
+Location and elevation/depth (x,y,z) data with sufficient metadata is the basic dataset necessary for determining and monitoring changes in the shore and seafloor surface.
+The data can be acquired as profiles or, especially in nearshore regions, swath-bathymetry surfaces.
+Profiles should be spaced to capture changes in topography.
+On-shore and off-shore measurements should be synoptic or nearly so.
+Although there are valid and strong scientific and management reasons for implementing a standardized, minimum monitoring protocol for marine sand mining, there appears to be little will for such a program.
+The obvious problem is cost coupled with the question "who pays?"
+Costs continue beyond the actual monitoring project.
+If data are in an electronic format, someone must maintain the computer system and the web site.
+In the case of beach nourishment projects, although the locality or agency sponsoring the project would carry the immediate expenses, eventually the cost would work down to the tax payer.
+For commercial mining of construction aggregate, the cost would wind up with the "end user."
+There are additional problems.
+The question "why monitor?"
+must be answered.
+If the data are collected solely to satisfy a monitoring requirement and are stored, unused the exercise cannot be justified.
+Widely and easily accessible monitoring data would help determine common factors contributing to the performance of sand mining and beach nourishment projects and would be beneficial in improving the predictive models.
+2007 MTS.

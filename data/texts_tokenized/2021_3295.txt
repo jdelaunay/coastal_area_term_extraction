@@ -1,0 +1,8 @@
+ACRS 2021.All right reserved.Climate change, in conjunction with land conversion, has a major effect on the world's coastline region.
+Low-lying coastal communities and villages have already suffered devastation from catastrophic floods and must now contend with increasing seas.
+The world's 11 fastest sinking cities have been identified (CNN, 2018).
+The source of flooding, impact, mitigation, and adaption strategies within the coastal area are vary across those rural areas.
+As a result, it is important to examine the influence of the two primary causes of coastal flooding, there is land use change and climate change.
+The purpose of this article is to assess land use cover change (LUCC), climate change's influence, and the sinking coast's impact due to those phenomenon.
+The method includes combining multiple-date remote sensing data analysis and spatial analysis, either through change detection of land and water and the accuracy assessment analysis.
+The findings, deductively, show a link between LUCC, climate change, coastal flooding, and indicate the role of water change detection (WCD), LUCC detection (LUCCD) and Built-up area change detection (BCD) for rapidly mapping the coastal flooding for mitigate any devastation.

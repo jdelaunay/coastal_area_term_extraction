@@ -1,0 +1,8 @@
+Sea-level rise is one of the most significant and perceptible consequences of global warming because it affects natural environments and coastal anthroposcapes at human timescales, particularly in sediment-starved littoral contexts.
+Within this framework, improvements in understanding the projection of sea-level rise require better knowledge of regional changes.
+Here we focus on the recent sea-level history of the Mediterranean Sea, an area characterized by a densely populated coast and where climate variability is larger, and the rate of sea-level rise higher than the global average.
+We produce a spatially-averaged Mediterranean relative sea-level (RSL) time series, based on 138 tide-gauge records, stretching back to the late 1800s, indicating that Mediterranean RSL has risen by 24 cm in the past 140 years.
+At interdecadal timescales and beyond, we find that Mediterranean relative sea-level rising rates (RSLRR) are significantly influenced by the strength of the Atlantic Multidecadal Oscillation (AMO) and the Atlantic Meridional Overturning Circulation (AMOC).
+Climate-model predictions of a weakened Atlantic overturning circulation in the coming decades, slowing and diminishing North Atlantic heat transport, has the potential to accentuate Mediterranean rising rates, with significant implications for the basin's coastal societies, infrastructure and economies.
+We conservatively estimate that a 0.1 C decrease in AMO sea surface temperatures can accentuate Mediterranean RSLRR by up to 0.61 0.5 mm yr1.
+Future coastal management and adaptation policies must assimilate these findings into local/regional-scale impact and vulnerability assessments.
