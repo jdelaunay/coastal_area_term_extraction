@@ -12,13 +12,14 @@ import pandas as pd
 import torch
 import wandb
 from transformers import Trainer, TrainingArguments
-from transformers import XLMRobertaForTokenClassification
-from transformers import XLMRobertaTokenizerFast
+from transformers import AutoModelForTokenClassification
+from transformers import AutoTokenizer
 from transformers.integrations import WandbCallback
 
 import pickle
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+
 
 torch.manual_seed(3407)
 random.seed(3407)
@@ -119,9 +120,7 @@ def compute_metrics(p):
     extracted_terms = set([item.lower() for item in extracted_terms])
     gold_set = gold_validation  # ??????
 
-    # print(extracted_terms)
     true_pos = extracted_terms.intersection(gold_set)
-    # print("True pos", true_pos)
     recall = len(true_pos) / len(gold_set)
     precision = len(true_pos) / len(extracted_terms)
     f1 = (
@@ -144,7 +143,10 @@ def computeTermEvalMetrics(extracted_terms, gold_df):
     true_pos = extracted_terms.intersection(gold_set)
     recall = round(len(true_pos) * 100 / len(gold_set), 2)
     precision = round(len(true_pos) * 100 / len(extracted_terms), 2)
-    fscore = round(2 * (precision * recall) / (precision + recall), 2)
+    if precision + recall == 0:
+        fscore = 0
+    else:
+        fscore = round(2 * (precision * recall) / (precision + recall), 2)
 
     print("Extracted", len(extracted_terms))
     print("Gold", len(gold_set))
@@ -195,11 +197,11 @@ if __name__ == "__main__":
         "-preds",
         "--pred_path",
         type=str,
-        default="preds",
+        default="results/preds.json",
         help="save predicted candidate list",
     )
     parser.add_argument(
-        "-log", "--log_path", type=str, default="logs", help="save logs"
+        "-log", "--log_path", type=str, default="results/logs.json", help="save logs"
     )
     parser.add_argument(
         "-wandb_api_key",
@@ -209,21 +211,45 @@ if __name__ == "__main__":
         help="wandb api key",
     )
 
-    args = parser.parse_args()
+    parser.add_argument(
+        "-model_name",
+        "--model_name",
+        type=str,
+        default="xlm-roberta-base",
+        help="model name",
+    )
+    parser.add_argument(
+        "-use_fast_tokenizer",
+        "--use_fast_tokenizer",
+        type=bool,
+        default=True,
+        help="use fast tokenizer",
+    )
 
-    
+    args = parser.parse_args()
+    args.n_gpu = torch.cuda.device_count()
+    args.device = device
 
     start = timeit.default_timer()
     os.makedirs(args.store, exist_ok=True)
-    os.makedirs(args.pred_path, exist_ok=True)
-    os.makedirs(args.log_path, exist_ok=True)
+    os.makedirs("results", exist_ok=True)
 
     path = "./data/annotations/sequential_annotations/iob_annotations_sents_wo_empty/"
 
     train_texts, train_tags = get_dataset(os.path.join(path, "train"))
     val_texts, val_tags = get_dataset(os.path.join(path, "val"))
+    model_name = args.model_name  # This should be either "xlm-roberta-base", "xlm-roberta-large", "roberta-base", or "roberta-large"
+
     test_texts, test_tags = get_dataset(os.path.join(path, "test"))
 
+    gold_set_for_validation = set(
+        pd.read_csv(
+            "./data/annotations/unique_annotations_lists/val_unique_terms.tsv",
+            delimiter="\t",
+            quoting=3,
+            names=["Term", "Label"],
+        )["Term"].tolist()
+    )
     gold_set_for_test = set(
         pd.read_csv(
             "./data/annotations/unique_annotations_lists/test_unique_terms.tsv",
@@ -233,9 +259,7 @@ if __name__ == "__main__":
         )["Term"].tolist()
     )
 
-    tokenizer = XLMRobertaTokenizerFast.from_pretrained("xlm-roberta-base")
-
-    # align labels with tokenization from XLM-R
+    tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=args.use_fast_tokenizer, add_prefix_space=True)
 
     label_list = ["O", "B", "I"]
     label_to_id = {l: i for i, l in enumerate(label_list)}
@@ -250,35 +274,30 @@ if __name__ == "__main__":
     test_dataset = OurDataset(test_input_and_labels, test_input_and_labels["labels"])
 
     training_args = TrainingArguments(
-        output_dir=args.store,  # output directory
-        num_train_epochs=1,  # total # of training epochs
-        per_device_train_batch_size=32,  # batch size per device during training
-        per_device_eval_batch_size=32,  # batch size for evaluation
-        # warmup_steps=0,                  # number of warmup steps for learning rate scheduler
-        # weight_decay=0,                  # strength of weight decay
-        # weight_decay=0.01,
+        output_dir=args.store,
+        num_train_epochs=50,
+        per_device_train_batch_size=8,
+        per_device_eval_batch_size=8,
         learning_rate=2e-5,
-        logging_dir="./logs",  # directory for storing logs
-        evaluation_strategy="steps",  # or use epoch here
-        # save_total_limit = 5,
-        # save_steps = 1000,
+        logging_dir="./logs",
+        evaluation_strategy="steps",
         eval_steps=500,
-        load_best_model_at_end=True,  # loads the model with the best evaluation score
+        load_best_model_at_end=True,
         metric_for_best_model="f1",
         greater_is_better=True,
     )
 
-    # initialize model
-    model = XLMRobertaForTokenClassification.from_pretrained(
-        "xlm-roberta-base", num_labels=num_labels
-    )
+    model = AutoModelForTokenClassification.from_pretrained(model_name, num_labels=num_labels)
+
     wandb.login(key=args.wandb_api_key)
     wandb.init(project="coastal_term_extraction_xlmr",
                config={
-                   "model_name": "XLMR",
+                   "model_name": model_name,
                })
 
-    # initialize huggingface trainer
+    val = val_texts
+    gold_validation = gold_set_for_validation
+
     trainer = Trainer(
         model=model,
         args=training_args,
@@ -289,23 +308,21 @@ if __name__ == "__main__":
         callbacks=[WandbCallback()],
     )
 
-    # train
     trainer.train()
-    # save the best model weights
-    torch.save(trainer.model.state_dict(), f"{args.store}/best_xlmr_weights.pt")
+    torch.save(trainer.model.state_dict(), f"{args.store}/best_{model_name.split('/')[1]}_weights.pt")
 
-    # test
+    val = test_texts
+    gold_validation = gold_set_for_test
     test_predictions, test_labels, test_metrics = trainer.predict(test_dataset)
     test_predictions = np.argmax(test_predictions, axis=2)
-    # Remove ignored index (special tokens)
+
     true_test_predictions = [
         [label_list[p] for (p, l) in zip(test_prediction, test_label) if l != -100]
         for test_prediction, test_label in zip(test_predictions, test_labels)
     ]
 
     test_extracted_terms = extract_terms(true_test_predictions, test_texts)
-    val = test_texts
-    gold_validation = gold_set_for_test
+
     extracted, gold, true_pos, precision, recall, fscore = computeTermEvalMetrics(
         test_extracted_terms, set(gold_set_for_test)
     )
