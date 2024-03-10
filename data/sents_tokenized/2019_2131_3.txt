@@ -1,1 +1,0 @@
-Two pixel-based saturation correction methods were evaluated for application of population density mapping to enhance DMSP/OLS NTL image.

@@ -1,1 +1,0 @@
-This study establishes a new methodology of effectively predicting the flooding process in coastal areas, and which is achieved by combining the recurrent neural network (RNN) model with the detailed analysis of different hydrological and geomorphological factors.

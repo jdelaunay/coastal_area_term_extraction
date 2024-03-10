@@ -1,7 +1,0 @@
-Radioactive waste repository designs consist of multiple safety barriers which include the waste form, the canister, the engineered barriers and the geosphere.
-It is widely considered that the three most important safety features provided by the geosphere are mechanical stability, favourable geochemical conditions and low groundwater flux.
-To guarantee that a repository site will provide such conditions for timescales of relevance to the safety assessment, any repository site characterisation has to not only define whether these features will function appropriately today, but also to assess if they will remain adequate up to several thousand to hundreds of thousand years into the future, depending on the repository type.
-The case study described here is focussed on the palaeohydrogeology of the coastal area around Horonobe in northern Hokkaido, Japan.
-Data from JAEA's ongoing underground research laboratory project is being synthesised in a Site Descriptive Model (SDM) with new information from the collaborating research institutes to develop a Site Evolution Model (SEM), with the focus very much on changes in the Sea of Japan seaboard over the last few million years.
-This new conceptual model will then be used to assess the palaeohydrological evolution of the deep geosphere of coastal sites of Japan.
-Copyright 2011 by ASME.

@@ -1,8 +1,0 @@
-Many studies show that dietary consumption of fish is the greatest contributor to dioxin exposure of humans in Japan.
-To establish a link between ocean contamination and human exposure to dioxins in fish, we proposed a method of estimating exposure by integrating region-specific measured concentrations of dioxins in fish samples and information on the production and import-export volumes of fish.
-The advantage over "total diet studies" (TDS) was that the proposed method could analyze the impact of the geographical variability of ocean contamination on human exposure to dioxins in fish; this may help us to apply more effective measures against dioxin exposure.
-Probabilistic distributions (probability density functions (PDFs)) were assigned to express the variability in the results of monitoring dioxin concentrations in fish from coastal areas divided according to prefecture, and from offshore and distant waters and imported sources.
-The Monte Carlo technique was applied for probabilistic estimation of dietary exposure of the general Japanese population to dioxins in fish.
-The mean and 5th to 95th percentile range of dietary exposure were estimated, respectively, as 67.12 and 22.65-184.35 pg toxic equivalent per day.
-Sensitivity analysis showed that some specific coastal areas with higher dioxin levels in fish and some with larger production volumes of fish impacted more than others to total exposure and may thus attract priority in the implementation of dioxin abatement measures.
-2008 Nature Publishing Group All rights reserved.

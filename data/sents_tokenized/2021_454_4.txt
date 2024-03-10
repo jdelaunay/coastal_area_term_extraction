@@ -1,1 +1,0 @@
-Traditional simulation of landscape connectivity focuses on the cumulative negative resistance of landscape matrix along species migration, but ignores the positive impacts of ecosystem on migration.

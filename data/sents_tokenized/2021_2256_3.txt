@@ -1,1 +1,0 @@
-Electrical conductivity was measured from 300 soil samples collected at the study area; this, together with elevation, distance to river, Normalized Difference Vegetation Index (NDVI), Salinity Index (SI), and Soil-Adjusted Vegetation Index (SAVI), was used to build the salinity model using a multiple regression analysis.

@@ -1,1 +1,0 @@
-Based on the time series, the XGBoost algorithm was introduced for salt marsh vegetation classification.

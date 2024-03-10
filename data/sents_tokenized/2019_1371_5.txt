@@ -1,1 +1,0 @@
-The distribution of evolution areas along the studied coast was carried out by means of the "R" project for statistical computing.

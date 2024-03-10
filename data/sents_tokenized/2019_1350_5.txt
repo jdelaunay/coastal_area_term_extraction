@@ -1,1 +1,0 @@
-Secondly, on the basis of Babin model, the nonlinear correction factor coming from Zhang Qiang and Hu Yin-qiao and the gust velocity item are introduced, so that the field of the application for the evaporation duct diagnosis model can be extended to the coastal areas and the very low wind speed.

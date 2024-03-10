@@ -1,7 +1,0 @@
-Large reductions in fish biomass are common both as a method of managing lake ecosystems by fish removals (biomanipulation) and as naturally occurring fish kills.
-To further understand how fish reductions change feeding patterns of fish, we studied the diets of small- to medium-sized roach (Rutilus rutilus) and European perch (Perca fluviatilis) on a monthly basis using gut-content analysis during an 18-month period before and after a whole-lake fish removal in a eutrophic shallow lake.
-Further, we performed in-depth analyses of zoobenthos communities of the profundal and littoral zones, as well as analysed the zooplankton community in the littoral and pelagic parts of the lake to estimate abundance and biomass of potential diet items.
-We found that, in general, there was a trend toward increased zoobenthivory in both species and among all-sized fish after fish removal, regardless of prior diet preference.
-Reduced piscivory among larger perch (>150 mm) and reduced zooplanktivory among smaller perch and roach (<150 mm) were also observed.
-Moreover, during a short period of high zooplankton biomass after fish removal, both perch and roach (all sizes) shifted their diet toward daphnids, which likely caused a decrease in daphnid population.
-We suggest that such change toward periodical zooplanktivory across fish species and size groups may lead to unexpectedly high top-down control by fish after lake restoration by fish removal.

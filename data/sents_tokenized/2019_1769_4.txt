@@ -1,1 +1,0 @@
-The LBM sediment settling velocity was also compared with some formulas and physical model tests; the comparison results consistently demonstrated that the LBM was reasonable for modeling the bulk settling of cohesive sediment.

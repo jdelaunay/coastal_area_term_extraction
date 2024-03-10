@@ -1,1 +1,0 @@
-The method includes combining multiple-date remote sensing data analysis and spatial analysis, either through change detection of land and water and the accuracy assessment analysis.

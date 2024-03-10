@@ -1,1 +1,0 @@
-The method developed in this study is promising to replace the numerical inundation model to reinforce the model's stability and computational efficiency.

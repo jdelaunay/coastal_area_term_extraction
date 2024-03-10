@@ -1,6 +1,0 @@
-2018Describing the spatial patterns of benthic coastal habitats and investigating how those patterns affect the ecology of inhabiting species is a main objective of seascape ecology.
-Within this emerging discipline spatial scale is a principal topic.
-Different spatial scales inform on different characteristics of the habitat and therefore the relation between species and their habitats would be better defined when observed at multiple levels of spatial scale.
-Here we apply a multiscale seascape approach to investigate the habitat preferences of juvenile and adult individuals of dusky grouper (Epinephelus marginatus) in a Mediterranean marine protected area.
-Results show that the information obtained at different spatial scales is complementary, improving our capability to identify the preferred habitats and how it changes throughout ontogeny.
-These results show the relevance of implementing multiscale seascape ecology approaches to investigate the species-habitat relationships and to improve management and conservation of necto-benthic endangered top predators.

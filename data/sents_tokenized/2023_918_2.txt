@@ -1,1 +1,0 @@
-Using the multi-year average NDVI, multi-year change trend slope, coefficient of variation, and Hurst exponent, the spatial and temporal heterogeneity of provincial and prefectural administrative regions were quantified.

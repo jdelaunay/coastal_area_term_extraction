@@ -1,6 +1,0 @@
-2016 CURRAN-CONFERENCE.
-All rights reserved.Tropical cyclones (TCs) are a common natural hazard that have significantly impacted Oman.
-Over the period 1881-2014, 41 TC systems made landfall in Oman, each associated with extreme winds, storm surges and major flash floods, often resulting in loss of life and substantial damage to infrastructure.
-TCs affect Omani coastal areas from Muscat in the north to Salalah in the south, but developing a better understanding of high-risk areas is needed, and is a particular interest of disaster risk reduction institutions in Oman.
-The focus of this study is therefore to better understand likely TC tracks and the spatiotemporal distribution of TC landfall in Oman to identify high-risk areas.
-The analysis of tracks uses Kernel Density Estimation (KDE) and Linear Direction Mean (LDM) methods to better identify the spatio-temporal distribution of TC landfall in Oman.

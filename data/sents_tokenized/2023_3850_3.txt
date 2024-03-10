@@ -1,1 +1,0 @@
-A risk assessment system was built, in which faults, buried ancient rivers, shallow gas, and shallow bedrock were used as assessment indicators, and different weights of them were assigned.

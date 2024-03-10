@@ -1,1 +1,0 @@
-Two photogrammetric datasets, acquired in 1956 and 2017, respectively, were processed to generate two fine resolution digital elevation models and orthophotos, applied to calculate the normalised remaining vegetation index, the digital elevation model of differences, the new vulnerability expeditious index.

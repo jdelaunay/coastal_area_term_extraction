@@ -1,1 +1,0 @@
-In this study, the population density remote sensing mapping approach was developed using population records in 2013 and Defense Meteorological Satellite Programs Operational Linescan System (DMSP/OLS) night-time light (NTL) image of the same year for defining the coastal densest resident areas in Pearl River Estuary (PRE), China.

@@ -1,1 +1,0 @@
-Here, we constructed a pixel-level time series by intercalibrating the Landsat images from different sensors.

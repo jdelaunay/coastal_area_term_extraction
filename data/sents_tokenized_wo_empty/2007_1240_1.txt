@@ -1,1 +1,0 @@
-It is scheduled to finalize a simulation model of the "Ile de Camargue" (Rhone Delta central area) hydrological functioning; to make it more modular in order to integrate new hydraulic management options, in normal (agricultural drainage) or critical (river floods and sea storms) situation.

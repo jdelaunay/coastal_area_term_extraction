@@ -1,1 +1,0 @@
-These nine Potential Environmental Indicators (PEIs) were subjected to Principal Component Analysis (PCA) in order to reduce the number of parameters, and identify their relationships.

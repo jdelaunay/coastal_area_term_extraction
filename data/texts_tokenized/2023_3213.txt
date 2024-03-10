@@ -1,8 +1,0 @@
-This study examined some of the spatial patterns and temporal dynamics of species targeting and discarding, for the French bottom trawlers operating in the eastern English Channel, building on spatial overlaps (or mismatches) between fishing effort, survey-based biomass or abundance indices and discard rates.
-We first identified that cuttlefish (Sepia officinalis), squids (Loligo sp.) and, to a lesser degree, striped red mullet (Mullus surmuletus), and seabass (Dicentrarchus labrax) were the main targets, while fishing for historically important species was less attractive.
-This result was broadly in accord with catch compositions, although mackerel (Scomber scombrus) targeting was possibly underestimated.
-We also showed that the distributions of fishing effort and of undersized herring, plaice, and whiting did not overlap.
-Although fishing effort covered fishing grounds populated with undersized horse mackerel, the proportion of undersized individuals in the discards was small.
-Plaice and whiting discard rates overlapped in space with undersized abundance indices.
-Fishing effort may have avoided spatial units with potentially high plaice discard rates, which may have been driven by large proportions of undersized fish, but also by restricted access to coastal area.
-Overall, the EU Landing Obligation had limited effects on fishing effort allocation relative to either undersized abundance or discard rates distributions.

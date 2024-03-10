@@ -1,1 +1,0 @@
-The time series developed using this methodology can be used as the ocean boundary condition for a catchment flood study.

@@ -1,1 +1,0 @@
-A decision index (D) is afterward obtained and used to classify sites into five classes: Class I: D 0.85, which included 9 sites (18%); Class II: 0.85 > D 0.65, 10 sites (20%); Class III: 0.65 > D 0.40, 8 sites (16%); Class IV: 0.40 > D 0.00, 16 sites (32%); and Class V: D < 0.00, 7 sites (14%).

@@ -1,1 +1,0 @@
-The results demonstrated that (a) the intercalibration for the Landsat images from different sensors is necessary for increasing the number of available observations and reducing the differences among spectral reflectances.

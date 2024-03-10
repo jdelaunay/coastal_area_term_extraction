@@ -1,1 +1,0 @@
-Pesticides fluxes, from input on the delta drainage basin area, and salt fluxes at the sea interface, will be investigated, in order to estimate global transfer functions in the hydro system.

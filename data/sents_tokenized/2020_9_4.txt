@@ -1,1 +1,0 @@
-Eight remote sensing data from 1988 to 2019 were used in this study using ArcGIS 10.3 and DSAS v4.2 software to obtain shoreline changes.

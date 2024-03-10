@@ -1,1 +1,0 @@
-Both the direction and magnitude of seabird effects are modified by: (1) density of birds, (2) temperature and precipitation, and (3) proximity to human habitation.

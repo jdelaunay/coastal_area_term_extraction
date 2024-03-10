@@ -1,6 +1,0 @@
-2018 Taylor & Francis Group, London.The chloride induced rebar corrosion is a big thread to reinforced concrete (RC) structures in the ocean, coastal area, and where the deicing salt is used.
-A mesoscopic numerical analysis of the chloride diffusion process in RC structures can give a full chloride profile in the concrete with the consideration of material heterogeneity, but also requires a lot of computational efforts which is usually unacceptable in a 3D numerical simulation.
-In this paper, the technique of adaptive mesh refinement (AMR) is integrated into the classic finite element method (FEM) for the chloride diffusion problem.
-The main idea of the integrated method is to refine the grid based on a predefined refinement criterion step by step during the whole analysis until the required precision of the solution is reached.
-A computer program is developed to evaluate the efficiency of the novel mesoscopic method for both 2D and 3D chloride diffusion problems.
-The result shows that the numerical method with AMR can greatly improve the efficiency of the simulation while the precision of the solution in key areas can be ensured as well.

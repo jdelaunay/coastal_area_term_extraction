@@ -1,1 +1,0 @@
-The first step of implementing recovery is determining the level of degradation undergone by exposed concrete structures.

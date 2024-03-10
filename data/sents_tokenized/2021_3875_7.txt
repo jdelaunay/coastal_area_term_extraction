@@ -1,1 +1,0 @@
-These differences need to be studied, and it will helpful in designing suitable design solutions.

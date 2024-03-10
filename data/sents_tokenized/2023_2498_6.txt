@@ -1,1 +1,0 @@
-The feasibility and stability for the classification using the pixel-level time-series and XGBoost algorithm (PTSXGB) were evaluated.

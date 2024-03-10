@@ -1,1 +1,0 @@
-error: 0.0069) was found to be the better-fit correction method of NTL image saturation for the study area compared to Human Settlement Index (HSI) correction method (R2 (original/corrected): 0.219, Std.

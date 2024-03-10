@@ -1,1 +1,0 @@
-The model was validated with observed data under historical typhoon events.

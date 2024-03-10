@@ -1,1 +1,0 @@
-Compared with the friction force of the friction pendulum bearing, the displacement-dependent damping force of switchable fluid damper is not affected by the wind load, and the control effect on sliding displacement is better.

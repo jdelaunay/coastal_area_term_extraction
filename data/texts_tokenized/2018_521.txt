@@ -1,8 +1,0 @@
-2018, Science Press.
-All right reserved.Wastewater treatment plants (WWTPs) have been regarded as important point-sources of antibiotic resistance genes (ARGs) in aquatic environments.
-To investigate the distribution and removal of ARGs in WWTPs, a pharmaceutical wastewater treatment plant (PWWTP) and an integrated wastewater treatment plant (IWWTP) in a fine-chemical industrial park were chosen, and polymerase chain reaction (PCR) and real-time PCR techniques were used to determine the occurrence and abundances of ARGs along the treatment processes.
-Ten and fifteen ARGs were detected initially in the influents of PWWTP and IWWTP respectively, in which tetracycline and sulfonamide resistance genes were frequently reported, while dfrA13 was first reported in WWTPs.
-The most abundant ARGs in the influents were sul and sul, followed by dfrA13, tetQ, floR, tetO, and tetW.
-The total ARGs increased by 0.21 log after the treatment by PWWTP, whose effluent contributed 0.87% to the inflow yet 5.05% to the total ARGs of IWWTP.
-Finally the total ARGs removed by IWWTP was 1.03 log, with the remaining ARGs then transported within the final effluent to the nearby coastal area.
-The authors concluded that the environmental and other impacts from the spread of ARGs on the microbial communities of the coastal environment needed further study.

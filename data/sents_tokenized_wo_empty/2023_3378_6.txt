@@ -1,1 +1,0 @@
-The velocity-dependent damping force is employed to achieve the seismic performance in cooperation with the friction force of the friction pendulum bearing.

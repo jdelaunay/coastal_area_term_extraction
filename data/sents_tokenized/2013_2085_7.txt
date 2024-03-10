@@ -1,1 +1,0 @@
-A technique was developed for extracting the water surface profile through the vegetation field from images recorded with a consumer grade digital video camera.

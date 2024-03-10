@@ -1,1 +1,0 @@
-The Lattice Boltzmann Method (LBM), combined with the extended Derjaguin-Landau-Verwey-Overbeek (XDLVO) theory, which considers the micro-interaction forces between particles, was applied to simulate the settling and flocculation processes of cohesive sediment under various temperature conditions.
