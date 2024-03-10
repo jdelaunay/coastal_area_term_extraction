@@ -1,0 +1,1 @@
+Batch leaching tests showed that As release increases with atmospheric exposures over 14 days, and then decreases.

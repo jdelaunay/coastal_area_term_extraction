@@ -1,0 +1,1 @@
+In this paper, the technique of adaptive mesh refinement (AMR) is integrated into the classic finite element method (FEM) for the chloride diffusion problem.
