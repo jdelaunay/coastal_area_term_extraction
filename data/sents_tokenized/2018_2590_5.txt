@@ -1,0 +1,1 @@
+The result shows that the numerical method with AMR can greatly improve the efficiency of the simulation while the precision of the solution in key areas can be ensured as well.

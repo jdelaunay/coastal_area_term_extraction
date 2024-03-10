@@ -1,0 +1,9 @@
+Vegetation cover is a crucial component of regional ecological environments that plays a vital role in maintaining ecosystem balance.
+This investigation utilized Google Earth Engine and MODIS NDVI products to examine the spatiotemporal heterogeneity of regional vegetation coverage based on the multi-year average NDVI in China.
+Using the multi-year average NDVI, multi-year change trend slope, coefficient of variation, and Hurst exponent, the spatial and temporal heterogeneity of provincial and prefectural administrative regions were quantified.
+The results indicated an upward trend in vegetation coverage from 2000 to 2021 at both provincial and prefectural levels, with growth rates of 0.032/10a and 0.03/10a, respectively.
+Moreover, the multi-year average NDVI significantly correlated with regional precipitation.
+Notably, vegetation growth was fastest in the Loess Plateau, while degradation was observed in southern Jiangsu and northern Zhejiang.
+Additionally, the degree of vegetation cover change in Ningxia and Macau was particularly prominent.
+These findings support the effectiveness of the Loess Plateau greening project and highlight the potential cost of economic and population growth on the ecosystem in eastern and southeastern coastal areas, where local vegetation degradation occurs.
+This study can serve as a valuable reference for ecosystem restoration and developmental planning at the administrative regional level, with the goal of enhancing vegetation management and conservation efforts in China.

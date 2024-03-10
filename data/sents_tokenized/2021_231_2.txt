@@ -1,0 +1,1 @@
+As available numerical models are unable to perform continuous morphodynamic simulations at such time scales, here we develop and pilot a fast, probabilistic, reduced complexity model (RAPSTA RAPid assessment tool of inlet STAbility) that can also quantify forcing uncertainties.

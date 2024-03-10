@@ -1,0 +1,5 @@
+2017, Springer International Publishing AG.Santiago Island, the biggest and most populated island of the Cape Verde Republic, is characterised by limited surface waters and strong dependence on groundwater sources as the primary source of natural water supply for extensive agricultural activity and human use.
+However, as a consequence of the scarce precipitation and high evaporation as well as the intense overexploitation of the groundwater resources, the freshwater management is also in a delicate balance with saltwater at coastal areas.
+The time-domain electromagnetic (TDEM) method is used to locate the extent of saltwater intrusion in four important agricultural regions in Santiago Island; So Domingos, Santa Cruz, So Miguel, and Tarrafal.
+The application of this method in Santiago Island proves it to be a successful tool in imaging the fresh/saltwater interface location.
+Depths to the saline zones and extensions of saline water are mapped along eight TDEM profiles.

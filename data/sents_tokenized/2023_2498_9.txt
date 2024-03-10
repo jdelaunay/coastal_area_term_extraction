@@ -1,0 +1,1 @@
+(b) The salt marsh vegetation classification using PTSXGB achieved a favorable performance, with an overall accuracy of 81.37 2.66%.

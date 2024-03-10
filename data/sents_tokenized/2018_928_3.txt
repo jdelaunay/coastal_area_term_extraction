@@ -1,0 +1,1 @@
+The pressure state response model (PSR), geographic information systems (GIS), spatial principal component analysis, spatial autocorrelation analysis, and correlation analysis methods were used.

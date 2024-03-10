@@ -1,0 +1,7 @@
+Rainfall and wind speed are two important meteorological variables that have a significant impact on agriculture, human health, and socioeconomic development.
+While individual rainfall or wind events have been widely studied, little attention has been devoted to studying the lead-lag relationship between rainfall and wind speed, particularly in coastal regions where strong dependence between rainfall and wind speed is expected.
+Taking China's coastline as the case study, this paper aims to explore the variation trends of wind speed and rainfall and reveal the relationships between rainfall events and wind speeds on days before and after rainfall occurrence, by using meteorological station data from 1960 to 2018.
+The results show that wind speed tended to decrease while rainfall showed a slight increase for most stations.
+The daily wind speed increased 2 days before rainfall occurrence and decreased after then, with the highest wind speed observed during rainfall onset regardless of rainfall amount.
+Moreover, heavier rainfall events are more likely to occur with higher wind speeds.
+The findings of this study potentially improve the understanding of the dependence of rainfall and wind speed, which could help rainfall or wind-related disaster mitigation.

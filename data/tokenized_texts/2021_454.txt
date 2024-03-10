@@ -1,0 +1,12 @@
+2021, Science Press.
+All right reserved.Rapid urbanization in the Anthropocene has altered the interaction between human and natural systems in coastal areas of China.
+High frequency of disturbances caused by human activities poses great threats to coastal ecosystems, which in turn leads to coastal fragmentation and biodiversity loss.
+Landscape connectivity in interlinking adjacent national nature reserves is one of the key approaches to eliminate the increasing threats from human disturbances.
+Traditional simulation of landscape connectivity focuses on the cumulative negative resistance of landscape matrix along species migration, but ignores the positive impacts of ecosystem on migration.
+In this study, we proposed an innovative evaluation index system to assess landscape connectivity by integrating suitability and ecological capacity based on species distribution in China's coastal areas.
+We combined the advantage of traditional landscape connectivity model and species distribution to develop a method for integrating both ecological factor and human activity data.
+We found that human activities in coastal areas resulted in an edge effect on landscape connectivity near the boundary of nature reserves during 1995-2015.
+Human disturbance caused a loss of 720.25 km2 for the nature reserves, while the edge of the nature reserves undertook higher risks from human activities (46.46%).
+High level of human disturbance altered the starting and terminal locations of corridors while connecting adjacent nature reserves.
+Our results showed that the connectivity suitability of 95 corridors decreased due to the increase of human disturbance, while the ecological capacity of 78 corridors was significantly improved in terms of biodiversity distribution.
+This two-dimensional assessment based on the resistance and ecological capacity of landscape matrix can be provided a comprehensive simulation to estimate the dynamics of spatial and temporal patterns in connectivity and biodiversity conservation.

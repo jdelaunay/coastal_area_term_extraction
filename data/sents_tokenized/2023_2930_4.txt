@@ -1,0 +1,1 @@
+The daily wind speed increased 2 days before rainfall occurrence and decreased after then, with the highest wind speed observed during rainfall onset regardless of rainfall amount.

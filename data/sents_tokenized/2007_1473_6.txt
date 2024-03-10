@@ -1,0 +1,1 @@
+A series of FORMOSAT-2 satellite images were processed by geometric and radiometric correction, haze reduction, image enhancement, feature extraction, image classification, and image fusion to assess the damage over those devastated areas.

@@ -1,0 +1,1 @@
+The novelty of this study is to apply the topographic wetness index (TWI) of each grid to classify all inputs into multiple classes for separative training to improve the overall accuracy of flooding simulations.

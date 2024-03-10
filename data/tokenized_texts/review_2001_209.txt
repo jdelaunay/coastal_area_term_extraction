@@ -1,0 +1,8 @@
+A review is presented of the physiological mechanisms developed by benthic macroalgae to cope with deleterious wavelengths, particularly UV radiation.
+Photoinhibition of photosynthesis, is a photoprotective mechanism in various species studied in southern Spain.
+Incubations in outdoor systems and transplantation experiments under natural radiation allowed to led to understanding of some the photoprotective strategies used by red algae.
+Under conditions of enhanced UV-B radiation, algae in shallow sites show marked photoinhibition and rapid recovery of photosynthesis (dynamic photoinhibition), whereas algae from deeper locations can suffer photodamage (chronic photoinhibition).
+The expression of this photoprotective strategy by intertidal species represents an efficient physiological adaptation to tolerate deleterious irradiance, when low tides coincide with the onset of solar radiation.
+Subtidal species can be also exposed to high doses of UV radiation.
+This is particularly evident in clear, Mediterranean waters, where light (including UV-B) can reach to 10 m depth.
+The implications of photoacclimation processes for macroalgal ecology in warm-temperate littorals and the possible consequences for outdoor cultivation are outlined in terms of environmental UV variability.

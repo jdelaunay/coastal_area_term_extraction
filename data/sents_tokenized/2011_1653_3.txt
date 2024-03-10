@@ -1,0 +1,1 @@
+The daily rainfall data from August 1985 to January 2010 were analyzed at 10 observation points.

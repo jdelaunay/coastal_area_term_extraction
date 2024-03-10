@@ -1,0 +1,9 @@
+2022 LtdClimate changes, including sea level rise (SLR) and typhoon intensification (TI), have been widely accepted in coastal communities and significantly affect coastal engineering.
+In this work, an integrally-coupled tide-surge-wave model was developed to simulate storm tides and waves around the coastal area of Qingdao.
+The model was validated with observed data under historical typhoon events.
+The simulated results illustrate that tides change obviously at most representative stations within Jiaozhou Bay.
+Meanwhile, the effect of SLR on astronomical tide in the flood and the ebb period is more significant than that of the peak tide period.
+Further investigations reveal that SLR and TI affect storm tides and waves in different ways and the influences are different within Jiaozhou Bay and along the open coast.
+Besides, the combined effects of SLR and TI on peak storm tides and wave heights are remarkable, which are not a simply linear superposition and present a spatially non-uniform and non-liner pattern.
+Therefore, it is essential to adopt the coupled model to estimate the possible maximum risk of storm surges and waves around the coastal area of Qingdao.
+Taking SLR and TI into consideration, the peak of elevation near shore could experience a significant amplification in the future.

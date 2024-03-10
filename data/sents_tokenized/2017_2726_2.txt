@@ -1,0 +1,1 @@
+Passive sampler sampling rates were estimated for all detected analytes using an active sampler, considering preferentially winter data, due to probable losses in active sampling during summer (high temperatures and solar irradiation).

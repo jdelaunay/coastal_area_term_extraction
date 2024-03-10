@@ -1,0 +1,8 @@
+2019Deterioration due to corrosion is a key issue affecting the durability, safety, and sustainability of buildings and structures.
+Most cities are located in coastal areas and many reinforced concrete structures in these areas are exposed to aggressive marine environments.
+Therefore, it is important to provide protection and offer appropriate repair methods of buildings vulnerable to the degrading effects of corrosion.
+The first step of implementing recovery is determining the level of degradation undergone by exposed concrete structures.
+However, there is a lack of integrated guiding principles in this field.
+Thus, this review paper identifies the tests of determining the level of deterioration, with particular attention given to carbonation issues and chloride ion attacks.
+The paper also provides a categorization of solution methods for protection, maintenance, and repair, based on standards and codes culled from around the world.
+This research contributes to the field by providing a readily-available reference for practitioners and researchers, on the current state of knowledge on corrosion and repair strategies for coastal concrete structures.

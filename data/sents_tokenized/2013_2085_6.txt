@@ -1,0 +1,1 @@
+An automated system was developed and used to generate regular and random waves and to record time series of water surface elevation.

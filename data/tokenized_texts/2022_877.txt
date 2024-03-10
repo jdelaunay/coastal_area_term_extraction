@@ -1,0 +1,14 @@
+2022 Rainer Kiko et al.Marine particles of different nature are found throughout the global ocean.
+The term "marine particles"describes detritus aggregates and fecal pellets as well as bacterioplankton, phytoplankton, zooplankton and nekton.
+Here, we present a global particle size distribution dataset obtained with several Underwater Vision Profiler 5 (UVP5) camera systems.
+Overall, within the 64 m to about 50 mm size range covered by the UVP5, detrital particles are the most abundant component of all marine particles; thus, measurements of the particle size distribution with the UVP5 can yield important information on detrital particle dynamics.
+During deployment, which is possible down to 6000 m depth, the UVP5 images a volume of about 1 L at a frequency of 6 to 20 Hz.
+Each image is segmented in real time, and size measurements of particles are automatically stored.
+All UVP5 units used to generate the dataset presented here were inter-calibrated using a UVP5 high-definition unit as reference.
+Our consistent particle size distribution dataset contains 8805 vertical profiles collected between 19 June 2008 and 23 November 2020.
+All major ocean basins, as well as the Mediterranean Sea and the Baltic Sea, were sampled.
+A total of 19 % of all profiles had a maximum sampling depth shallower than 200 dbar, 38 % sampled at least the upper 1000 dbar depth range and 11 % went down to at least 3000 dbar depth.
+First analysis of the particle size distribution dataset shows that particle abundance is found to be high at high latitudes and in coastal areas where surface productivity or continental inputs are elevated.
+The lowest values are found in the deep ocean and in the oceanic gyres.
+Our dataset should be valuable for more in-depth studies that focus on the analysis of regional, temporal and global patterns of particle size distribution and flux as well as for the development and adjustment of regional and global biogeochemical models.
+The marine particle size distribution dataset is available at 10.1594/PANGAEA.924375.

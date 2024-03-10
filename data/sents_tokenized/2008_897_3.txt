@@ -1,0 +1,1 @@
+Probabilistic distributions (probability density functions (PDFs)) were assigned to express the variability in the results of monitoring dioxin concentrations in fish from coastal areas divided according to prefecture, and from offshore and distant waters and imported sources.

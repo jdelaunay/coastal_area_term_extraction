@@ -1,0 +1,1 @@
+The main idea of the integrated method is to refine the grid based on a predefined refinement criterion step by step during the whole analysis until the required precision of the solution is reached.

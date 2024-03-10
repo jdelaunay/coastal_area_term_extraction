@@ -1,0 +1,1 @@
+The scenario simulations yielded a range of potential SGD fluxes of 0.0080.293 m2 d1.

@@ -1,0 +1,1 @@
+A mesoscopic numerical analysis of the chloride diffusion process in RC structures can give a full chloride profile in the concrete with the consideration of material heterogeneity, but also requires a lot of computational efforts which is usually unacceptable in a 3D numerical simulation.

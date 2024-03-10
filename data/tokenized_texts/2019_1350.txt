@@ -1,0 +1,7 @@
+2019 IEEE.Evaporation duct is a kind of anomalous refraction phenomenon in the boundary layer between the sea and the air.
+Because of its wide distribution and high probability of the occurrence, it is considered to be the most significant type of the duct, which has an important effect on the electronic equipment used on the sea.
+However, due to the complex formation mechanism and the horizontal inhomogeneity in the offshore zone, the diagnosis and the application of the inhomogeneous evaporation duct have not been implemented in practical work.
+Aiming at the problem, in this paper firstly we modified the Monin-Obukhov similarity theory by using the method of G.L.
+GEERNAERT (2002), and extended it to the conditions of the inhomogeneous atmosphere in the ocean surface layer.
+Secondly, on the basis of Babin model, the nonlinear correction factor coming from Zhang Qiang and Hu Yin-qiao and the gust velocity item are introduced, so that the field of the application for the evaporation duct diagnosis model can be extended to the coastal areas and the very low wind speed.
+Thirdly, the influence of the horizontal inhomogeneous evaporation duct on the radar detection is studied, and the result shows that the horizontal inhomogeneous evaporation duct can change the detection distance and the distribution of the shadow zone for the radar.

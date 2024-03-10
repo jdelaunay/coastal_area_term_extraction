@@ -1,0 +1,14 @@
+2018 by the authors.Ecological vulnerability evaluations can provide a scientific foundation for ecological environment management.
+Studies of ecological vulnerability have mainly focused on typical ecologically vulnerable regions with poor natural conditions or severe human interference, and such studies have rarely considered eco-provinces.
+Taking Jiangsu, an eco-province under construction in China, as the study area, we evaluated the spatiotemporal distributions of ecological vulnerability in 2005, 2010 and 2015 at the kilometer grid scale and analyzed the effects of natural and anthropogenic factors on ecological vulnerability.
+The pressure state response model (PSR), geographic information systems (GIS), spatial principal component analysis, spatial autocorrelation analysis, and correlation analysis methods were used.
+The results of the study are as follows: (i) the effects of anthropogenic factors on ecological vulnerability are greater than those of natural factors, and landscape evenness and the land resource utilization degree are the main factors that influence ecological vulnerability.
+(ii) Jiangsu Province is generally lightly to moderately vulnerable.
+Slight vulnerability is mainly observed in areas with water bodies.
+Light vulnerability is concentrated in paddy fields between the Main Irrigation Channel of North Jiangsu and the Yangtze River.
+Medium, heavy and extreme vulnerability areas are mainly composed of arable and built-up land.
+Medium vulnerability is mainly distributed to the north of the Main Irrigation Channel of North Jiangsu; heavy vulnerability is scattered to the south of the Yangtze River and in north-western hilly areas; and extreme vulnerability is concentrated in hilly areas; (iii) Ecological vulnerability displays a clustering characteristic.
+High-high (HH) regions are mainly distributed in heavy and extreme vulnerability regions, and low-low (LL) regions are located in slight vulnerability areas.
+(iv) Ecological vulnerability has gradually deteriorated.
+From 2005 to 2010, the vulnerability in hilly areas considerably increased, and from 2010 to 2015, the vulnerability in urban and north-eastern coastal built-up land areas significantly increased.
+Emphasis should be placed on the prevention and control of ecological vulnerability in high-altitude, urban and coastal areas.

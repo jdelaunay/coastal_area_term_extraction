@@ -1,0 +1,7 @@
+To solve the problems of large connecting force and complexity of large-span structure connecting high-rise buildings in coastal areas under wind and earthquake loads, a hybrid isolation technology based on the friction pendulum bearing and switchable fluid damper was proposed.
+The damping force characteristic of switchable fluid damper, combining viscous damper and hydraulic valve, was experimentally studied.
+And a multi-performance objective design method for large-span structure connecting high-rise buildings was proposed in this paper.
+The results demonstrate that the isolation frequency of the large-span structure should be taken as the optimal frequency of the tuned vibration system to minimize the displacement of high-rise buildings.
+The switchable damper achieves velocity-dependent damping force and displacement-dependent damping force.
+Compared with the friction force of the friction pendulum bearing, the displacement-dependent damping force of switchable fluid damper is not affected by the wind load, and the control effect on sliding displacement is better.
+The velocity-dependent damping force is employed to achieve the seismic performance in cooperation with the friction force of the friction pendulum bearing.

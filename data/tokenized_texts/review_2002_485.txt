@@ -1,0 +1,10 @@
+The dominant hydrodynamic forcing and resulting sediment transport mechanisms in the swash zone are reviewed, combined with a discussion of future measurement and modelling requirements.
+The importance of swash zone processes in the overall behaviour of the nearshore littoral zone are identified, with the paper subsequently focusing on aspects that directly relate to sediment transport on beaches.
+The review considers analytical and numerical modelling work, and both field and laboratory data.
+The hydrodynamics of the swash zone are first discussed with reference to the surf zone boundary, swash characteristics, forcing mechanisms and shoreline oscillations.
+Subsequent sections consider more micro-scale processes such as the internal flow kinematics, turbulence, the bed boundary layer and infiltration/exfiltration through permeable beds.
+The second part of the paper outlines the fundamental mechanics of sediment transport in the swash zone, followed by a more detailed discussion of sediment transport modes induced by the dominant hydrodynamic conditions.
+Modelling concepts are reviewed, and the strengths and weaknesses of different approaches identified.
+A final summary and future modelling perspectives conclude the paper.
+2002 Science B.V.
+All rights reserved.

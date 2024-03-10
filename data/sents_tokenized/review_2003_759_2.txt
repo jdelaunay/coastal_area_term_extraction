@@ -1,0 +1,1 @@
+This project proposes to achieve a decision support system(DSS) to assist the users/managers to choose the most suitable method for combating oil spills, according to the coastal area sensitivity.

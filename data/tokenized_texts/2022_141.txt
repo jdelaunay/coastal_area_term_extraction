@@ -1,0 +1,9 @@
+2022, The Author(s).Recent land-use changes have led to a significant loss of natural wetlands worldwide resulting in increased amounts of organic and inorganic compounds reaching lakes and coastal areas.
+In turn, this has led to an increased algal growth, and subsequently the risk of algal blooms and deteriorated water quality.
+The capacity of wetlands to retain nutrients is well-known, suggesting that constructed wetlands may be a potential management strategy to mitigate algal blooms in downstream waters, although little is known about seasonal variation in reduction of algal growth potential.
+Therefore, in a long-term study, we experimentally evaluated the efficiency of seven wetlands to reduce the algal growth potential by comparing the growth in cultures containing 50:50 wetland water from the inlet or outlet and water from a eutrophic lake as a standard inoculum.
+We show that the majority of the wetlands have a considerable potential to reduce algal growth potential, with up to 89% for cyanobacteria and 73% for green algae.
+However, there were strong temporal variations in efficiency within, as well as between wetlands.
+Specifically, we show that the potential to reduce algal growth (standardized conditions) was generally higher in winter than in summer.
+In addition, the wetlands showed different efficiency in reducing the growth potential of cyanobacteria and green algae.
+Taken together, our results show that wetlands have a considerable potential to reduce algal growth potential, suggesting that they are an efficient local-scale tool in reducing the risk of algal blooms especially from a future climate change perspective.

@@ -1,0 +1,1 @@
+By way of a case study, this paper provides a methodology for modelling dynamic coastal tailwater time series in an open coast environment.

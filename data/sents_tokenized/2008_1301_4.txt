@@ -1,0 +1,1 @@
+Model runs with datasets including and excluding ship emissions are performed with the Community Multiscale Air Quality modelling system (CMAQ) which is set up on a 54 54 km2 grid for Europe.
