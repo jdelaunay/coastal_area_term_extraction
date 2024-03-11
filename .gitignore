@@ -1,0 +1,4 @@
+# Ignore directories beginning with 'Results'
+Results*/
+dockerfile
+script.sh
