@@ -1,0 +1,15 @@
+Both	O
+pelagic	B-QUALITY
+and	O
+benthic	B-QUALITY
+environmental	B-RESOURCE
+variables	I-RESOURCE
+were	O
+correlated	O
+to	O
+these	O
+changes	O
+in	O
+benthic	B-RESOURCE
+community	I-RESOURCE
+.	O

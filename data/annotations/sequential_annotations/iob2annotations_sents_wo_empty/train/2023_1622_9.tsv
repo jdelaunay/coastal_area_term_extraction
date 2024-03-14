@@ -1,0 +1,17 @@
+Following	O
+territorial	B-PROCESS
+conflicts	I-PROCESS
+at	O
+waterways	B-LOCATION
+,	O
+smooth	B-ACTOR
+-	I-ACTOR
+coated	I-ACTOR
+otter	I-ACTOR
+groups	B-ACTOR
+moved	O
+into	O
+the	O
+urban	B-LOCATION
+matrix	I-LOCATION
+.	O

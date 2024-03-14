@@ -1,0 +1,16 @@
+This	O
+study	O
+investigated	O
+nutrient	B-PROCESS
+transport	I-PROCESS
+process	O
+in	O
+typical	O
+inlet	B-RESOURCE
+rivers	I-RESOURCE
+in	O
+the	O
+Yellow	B-LOCATION
+River	I-LOCATION
+Delta	I-LOCATION
+.	O

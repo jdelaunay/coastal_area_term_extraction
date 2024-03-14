@@ -1,0 +1,15 @@
+Waste	B-RESOURCE
+Water	I-RESOURCE
+Treatment	I-RESOURCE
+Plants	I-RESOURCE
+are	O
+the	O
+major	O
+source	O
+of	O
+MPs	B-RESOURCE
+in	O
+the	O
+coastal	B-LOCATION
+area	I-LOCATION
+.	O

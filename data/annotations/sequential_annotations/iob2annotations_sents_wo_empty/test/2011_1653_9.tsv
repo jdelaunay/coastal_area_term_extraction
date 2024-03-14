@@ -1,0 +1,15 @@
+Daily	B-PROCESS
+precipitation	I-PROCESS
+has	O
+high	O
+correlation	O
+with	O
+these	O
+indices	O
+in	O
+particular	O
+with	O
+MEI	B-QUALITY
+or	O
+PDO	B-QUALITY
+.	O

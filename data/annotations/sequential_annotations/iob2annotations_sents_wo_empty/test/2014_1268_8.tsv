@@ -1,0 +1,14 @@
+Human	B-PROCESS
+actions	I-PROCESS
+can	O
+upset	O
+the	O
+balance	O
+between	O
+erosion	B-PROCESS
+,	O
+fattening	B-PROCESS
+and	O
+coastal	B-QUALITY
+stability	I-QUALITY
+.	O

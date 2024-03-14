@@ -1,0 +1,16 @@
+Mangroves	B-RESOURCE
+are	O
+used	O
+for	O
+timber	B-RESOURCE
+,	O
+fishing	B-RESOURCE
+materials	I-RESOURCE
+,	O
+medicine	B-PROCESS
+and	O
+food	B-RESOURCE
+in	O
+the	O
+country	B-ACTOR
+.	O
