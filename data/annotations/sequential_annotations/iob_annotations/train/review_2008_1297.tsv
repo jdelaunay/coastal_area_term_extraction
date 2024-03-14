@@ -265,8 +265,8 @@ mangrove	B
 rehabilitation	I
 in	O
 the	O
-abandonedaquaculture	B
-ponds	I
+abandonedaquaculture	O
+ponds	B
 ;	O
 (	O
 2	O
