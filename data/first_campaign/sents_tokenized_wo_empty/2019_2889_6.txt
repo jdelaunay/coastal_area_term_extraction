@@ -1,0 +1,1 @@
+WRF generally presents lower QPF skill in the LLJ type than in the no - LLJ type , due to the severe underestimation of coastal rainfall .

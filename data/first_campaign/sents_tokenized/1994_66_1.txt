@@ -1,0 +1,1 @@
+The paper describes the structure of a tropical cyclone of hurricane intensity and its damage potential , cyclone detection , tracking , forecasting and warning systems .

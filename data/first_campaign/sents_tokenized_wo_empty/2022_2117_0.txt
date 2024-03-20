@@ -1,0 +1,1 @@
+1976 - 2012 IEEE . Small autonomous underwater vehicles ( AUVs ) offer advantages in ease of deployment and recovery , covertness , and minimal logistical requirements for operation ; however , speed and battery capacity can limit their effectiveness in areas where there are strong currents .

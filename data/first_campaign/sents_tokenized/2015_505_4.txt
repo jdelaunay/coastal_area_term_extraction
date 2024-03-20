@@ -1,0 +1,1 @@
+Considering the interaction between the Yangtze Estuary and Hangzhou Bay , a high resolution model with unstructured 3D grid system FVCOM ( finite volume coastal ocean model ) has been applied to simulate tidal motion in the Yangtze Estuary - Hangzhou Bay .

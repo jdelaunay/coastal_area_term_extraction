@@ -1,0 +1,1 @@
+To this end , this paper analyzes transient stability and dynamic impact of a HVDC transmission system and compares the results to conventional high - voltage AC ( HVAC ) transmission systems via PSS / E simulation .

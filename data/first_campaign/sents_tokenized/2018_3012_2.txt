@@ -1,0 +1,1 @@
+With the new approach , Compounded Night Light Index ( CNLI ) was extracted from DMSP / OLS imageries and this process was applied in a special time series from 2000 to 2010 .

@@ -1,0 +1,11 @@
+Coastal	B-RESOURCE
+cliff	I-RESOURCE
+erosion	B-PROCESS
+is	O
+a	O
+problem	O
+in	O
+many	O
+coastal	B-LOCATION
+areas	I-LOCATION
+.	O

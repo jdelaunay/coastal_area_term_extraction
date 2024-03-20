@@ -1,0 +1,11 @@
+Pollutants	B-RESOURCE
+migrate	B-PROCESS
+,	O
+accumulate	B-PROCESS
+,	O
+and	O
+diffuse	B-PROCESS
+in	O
+aquatic	B-RESOURCE
+environments	I-RESOURCE
+.	O

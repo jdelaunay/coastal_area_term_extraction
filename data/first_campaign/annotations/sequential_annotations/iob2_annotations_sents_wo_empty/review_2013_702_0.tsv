@@ -1,0 +1,15 @@
+Freshwater	B-RESOURCE
+filamentous	I-RESOURCE
+green	I-RESOURCE
+algae	I-RESOURCE
+with	O
+branched	B-QUALITY
+thalli	I-QUALITY
+are	O
+almost	O
+unknown	O
+from	O
+the	O
+Antarctic	B-LOCATION
+region	O
+.	O

@@ -1,0 +1,1 @@
+The predictive ability of the model was tested with data from 12 additional marshes having similar geomorphology as the original 10 , but differing in hydrology and mode of nutrient input .

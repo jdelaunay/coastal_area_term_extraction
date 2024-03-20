@@ -1,0 +1,14 @@
+Oil	B-PROCESS
+spills	I-PROCESS
+can	O
+be	O
+one	O
+of	O
+the	O
+most	O
+damaging	B-ACTOR
+agents	I-ACTOR
+for	O
+coastal	B-RESOURCE
+environments	I-RESOURCE
+.	O

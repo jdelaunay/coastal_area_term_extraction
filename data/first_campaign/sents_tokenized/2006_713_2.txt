@@ -1,0 +1,1 @@
+This study proposed an algorithm automatically extracting shorelines to use a new developed LiDAR ( Light Detection And Ranging ) data which is applying in ocean and coastal areas .

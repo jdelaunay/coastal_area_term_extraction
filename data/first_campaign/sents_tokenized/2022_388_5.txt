@@ -1,0 +1,1 @@
+Then , we applied the numerical Ocean - Land - Atmosphere Model ( OLAM ) to dynamically downscale the atmospheric condition that is closest to the centroid of each cluster .

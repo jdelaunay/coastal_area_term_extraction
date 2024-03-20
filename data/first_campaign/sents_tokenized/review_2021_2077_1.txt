@@ -1,0 +1,1 @@
+This study sorted out the definitions and mechanisms of compound flood , and systematically summarized the progress of compound flood research from two aspects : statistical model and dynamic numerical model .

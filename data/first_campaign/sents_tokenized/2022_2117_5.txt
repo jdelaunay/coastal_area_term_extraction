@@ -1,0 +1,1 @@
+Evaluation of the AUV / DVL current measurements shows that adequate smoothing is achieved using shorter spatial / temporal averaging windows than other investigators have reported .

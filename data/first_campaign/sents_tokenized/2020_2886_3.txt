@@ -1,0 +1,1 @@
+Two publicly - available NASA global high - resolution coupled chemistry - meteorology models ( CCMMs ) are investigated : GEOS - CF and MERRA2 - GMI .

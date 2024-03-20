@@ -1,0 +1,1 @@
+The SEPTR system is a further evolution of the Barny Sentinel ADCP bottom platform , in that it adds an automated water column profiler , additional sensors , and two - way communication at regular intervals .

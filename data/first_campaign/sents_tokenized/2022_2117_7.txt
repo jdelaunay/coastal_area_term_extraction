@@ -1,0 +1,1 @@
+A shorter averaging scale allows fine enough detail in current mapping to be useful in harbor and littoral environments with strongly localized flows .

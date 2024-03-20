@@ -1,0 +1,1 @@
+All rights reserved . This paper selected Hainan Island as the research area , collected the 5 phases land use data of 1980 - 2018 to analyze by ArcGIS .

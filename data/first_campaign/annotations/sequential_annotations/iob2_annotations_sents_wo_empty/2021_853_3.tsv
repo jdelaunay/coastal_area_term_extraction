@@ -1,0 +1,17 @@
+Fertilizer	B-PROCESS
+application	I-PROCESS
+was	O
+the	O
+key	O
+source	O
+of	O
+riverine	B-RESOURCE
+N	I-RESOURCE
+output	I-RESOURCE
+and	O
+N	B-PROCESS
+retention	I-PROCESS
+within	O
+the	O
+basin	B-RESOURCE
+.	O

@@ -1,0 +1,1 @@
+The processed information is transmitted to cloud by using a LoRA ( Long Range ) module .

@@ -1,0 +1,1 @@
+A cluster analysis ( K - means ) is then applied to the 87 principal components that explained 95 % of the variance of the time series .

@@ -1,0 +1,1 @@
+Two - dimensional incremental dynamic analysis is conducted for the soil - quay wall system , under effective stresses using OpenSees software , considering a representative set of fifteen real ground motion records as input ground motion at the bedrock .

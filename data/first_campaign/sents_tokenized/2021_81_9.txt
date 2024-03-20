@@ -1,0 +1,1 @@
+In addition , systematic numerical analyses of the centrifuge model tests were also conducted with the PLAXIS 2D finite element ( FE ) program using a nonlinear elastoplastic constitutive model .

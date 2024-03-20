@@ -1,0 +1,15 @@
+The	O
+Basic	B-RESOURCE
+Oxygen	I-RESOURCE
+Furnace	I-RESOURCE
+Slag	I-RESOURCE
+results	O
+from	O
+the	O
+conversion	B-PROCESS
+of	I-PROCESS
+hot	I-PROCESS
+metal	I-PROCESS
+into	I-PROCESS
+steel	I-PROCESS
+.	O

@@ -1,0 +1,1 @@
+For this purpose , an algorithm was developed to analyze spatial and meteorological data , calculating the values of fetch and wind exposure .

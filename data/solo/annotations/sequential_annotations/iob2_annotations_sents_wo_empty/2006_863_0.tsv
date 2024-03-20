@@ -1,0 +1,17 @@
+Coastal	B-RESOURCE
+groundwater	I-RESOURCE
+aquifers	I-RESOURCE
+are	O
+often	O
+exposed	O
+to	O
+heavy	B-PROCESS
+pumping	I-PROCESS
+and	O
+consequently	O
+to	O
+risks	B-QUALITY
+of	O
+saltwater	B-PROCESS
+intrusion	I-PROCESS
+.	O

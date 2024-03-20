@@ -1,0 +1,1 @@
+A nonlinear programming model is constructed to optimize the ship - borne power receiving system deployment , berth allocation , and the order of ships being served in each berth .

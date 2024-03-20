@@ -1,0 +1,1 @@
+This study discovered that integrating GIS with DRASTIC is the most effective and accurate way for determining groundwater vulnerability .

@@ -1,0 +1,1 @@
+A 2D HV version of SPH ( Smoothed Particle Hydrodynamics ) model is considered to propagate the signal provided by generation - propagation models to the coast and to analyze the nature of coastal structures overtopping as a tool to create maps of risk .

@@ -1,0 +1,17 @@
+Aquatic	B-ACTOR
+organisms	I-ACTOR
+in	O
+estuaries	B-LOCATION
+and	O
+coastal	B-LOCATION
+areas	I-LOCATION
+are	O
+under	O
+pressure	O
+due	O
+to	O
+both	O
+salinity	B-QUALITY
+and	O
+pollutants	B-RESOURCE
+.	O

@@ -1,0 +1,15 @@
+We	O
+assessed	O
+the	O
+impacts	O
+of	O
+a	O
+drawdown	B-PROCESS
+of	O
+Lake	B-LOCATION
+Kissimmee	I-LOCATION
+on	O
+Florida	B-LOCATION
+apple	B-ACTOR
+snails	I-ACTOR
+.	O

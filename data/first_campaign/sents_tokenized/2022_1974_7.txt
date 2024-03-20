@@ -1,0 +1,1 @@
+A critical - shaking neighborhood search method is applied to improve the solution quality of the sequential heuristic algorithm .

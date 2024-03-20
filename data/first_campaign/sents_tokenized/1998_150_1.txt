@@ -1,0 +1,1 @@
+LIDAR is currently operating in atmosphere observation and more specifically in quasi instantaneous long range profiling using backscattering techniques .

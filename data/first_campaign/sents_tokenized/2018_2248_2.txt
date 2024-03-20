@@ -1,0 +1,1 @@
+This study builds on previous work by : compiling an up - to - date list of myrtle rust occurrences and host species ; mapping current and future climate suitability for myrtle rust ; and identifying host species at risk based on range overlaps and susceptibility data .

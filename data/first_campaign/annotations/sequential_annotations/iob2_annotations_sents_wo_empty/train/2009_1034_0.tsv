@@ -1,0 +1,12 @@
+The	O
+migration	B-QUALITY
+pattern	I-QUALITY
+of	O
+Atlantic	B-ACTOR
+salmon	I-ACTOR
+(	O
+Salmo	B-ACTOR
+salar	I-ACTOR
+L	I-ACTOR
+.	I-ACTOR
+)	O

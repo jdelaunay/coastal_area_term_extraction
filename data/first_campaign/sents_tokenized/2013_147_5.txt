@@ -1,0 +1,1 @@
+This paper also examines the effect of HVDC system to voltage variation and low - frequency resonance in the neighboring buses in the grid using ESCR ( Effective Short Circuit Ratio ) UIF ( Unit Interaction Factor ) indices .

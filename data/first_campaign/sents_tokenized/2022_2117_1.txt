@@ -1,0 +1,1 @@
+While measurement of currents from these platforms is enabled by use of Doppler velocity logs ( DVLs ) with profiling capability , the quality of these current measurements needs evaluation .

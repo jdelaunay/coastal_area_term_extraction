@@ -1,0 +1,11 @@
+On	O
+land	B-RESOURCE
+,	O
+fresh	B-RESOURCE
+groundwater	I-RESOURCE
+is	O
+vulnerable	O
+to	O
+seawater	B-PROCESS
+disturbance	I-PROCESS
+.	O

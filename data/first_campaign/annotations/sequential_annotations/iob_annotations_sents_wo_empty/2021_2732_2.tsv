@@ -1,0 +1,16 @@
+Tar	B
+-	I
+balls	I
+are	O
+one	O
+of	O
+the	O
+products	B
+that	O
+come	O
+from	O
+the	O
+oil	B
+spill	I
+pollution	I
+.	O

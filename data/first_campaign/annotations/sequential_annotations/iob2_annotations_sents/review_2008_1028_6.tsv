@@ -1,0 +1,10 @@
+Seawater	B-PROCESS
+intrusion	I-PROCESS
+phenomena	O
+are	O
+recorded	O
+in	O
+coastal	B-RESOURCE
+aquifer	I-RESOURCE
+systems	I-RESOURCE
+.	O

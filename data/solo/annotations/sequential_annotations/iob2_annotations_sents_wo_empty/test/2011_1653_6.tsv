@@ -1,0 +1,15 @@
+Java	B-LOCATION
+Sea	I-LOCATION
+coastal	B-LOCATION
+area	I-LOCATION
+:	O
+clear	O
+variation	O
+in	O
+the	O
+annual	O
+rain	B-PROCESS
+and	O
+dry	O
+seasons	O
+.	O

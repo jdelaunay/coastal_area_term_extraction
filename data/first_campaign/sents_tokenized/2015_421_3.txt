@@ -1,0 +1,1 @@
+Here we present a technique to better discriminate light absorption contributions due to phytoplankton based on a hybrid model ( QAA - hybrid ) that combines regional Saint Lawrence System estimates of IOPs derived from a quasi - analytical algorithm ( hereafter QAA - SLE ) and empirical relationships between salinity and IOPs .

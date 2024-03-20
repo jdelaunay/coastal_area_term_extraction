@@ -1,0 +1,1 @@
+However , the simulation results produced by these models depends on model concepts used ; consideration of hydrodynarnic processes such as wind shear , wave forces , wave transformation ( breaking , shoaling , roller effect , diffraction , transmission ) , tidal forces ; and scales of the application .

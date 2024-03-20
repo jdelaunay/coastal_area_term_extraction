@@ -1,0 +1,17 @@
+Recent	O
+findings	O
+suggest	O
+that	O
+different	O
+soil	B-QUALITY
+properties	I-QUALITY
+influence	O
+the	O
+vegetation	B-RESOURCE
+,	O
+species	B-QUALITY
+composition	I-QUALITY
+and	O
+structure	O
+ofmangroveforests	O
+.	O

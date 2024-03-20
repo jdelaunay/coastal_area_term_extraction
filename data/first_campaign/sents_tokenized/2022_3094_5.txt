@@ -1,0 +1,1 @@
+Two numerical approaches are applied to investigate the effect of liquefaction on its seismic performance and vulnerability assessment : the first one without considering liquefaction , while the second considers the effects of liquefaction .

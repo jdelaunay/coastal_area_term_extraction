@@ -1,0 +1,16 @@
+Mangroves	B-RESOURCE
+are	O
+the	O
+unique	O
+intertidal	B-RESOURCE
+plant	I-RESOURCE
+formations	I-RESOURCE
+growing	O
+in	O
+sheltered	O
+tropical	B-QUALITY
+and	O
+subtropical	B-QUALITY
+coastal	B-LOCATION
+areas	I-LOCATION
+.	O

@@ -1,0 +1,13 @@
+Parasitism	B-PROCESS
+in	O
+the	O
+infected	O
+host	B-RESOURCE
+populations	I-RESOURCE
+increases	O
+with	O
+the	O
+size	B-QUALITY
+of	O
+Artemia	B-RESOURCE
+.	O

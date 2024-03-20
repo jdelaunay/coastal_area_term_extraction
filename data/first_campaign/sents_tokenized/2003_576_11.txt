@@ -1,0 +1,1 @@
+Two - way communication of data , position and control allows profile results to be returned in near - real time , and operational commands together with profile schedules to be sent to multiple profiler instruments .

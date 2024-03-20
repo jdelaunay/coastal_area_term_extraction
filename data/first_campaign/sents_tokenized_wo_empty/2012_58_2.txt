@@ -1,0 +1,1 @@
+This desalination plant depends on sea water with salinity value varies between 40 and 41 to produce potable water with total dissolved salts between 300 - 500ppm , which means that the reject water has salinity rate from 50 to 68 .

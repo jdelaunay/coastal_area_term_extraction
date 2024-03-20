@@ -1,0 +1,1 @@
+The findings show that GNSS technique can measure vertical deformation at millimetre level with the aid of other techniques namely GRACE , PS InSAR and satellite altimeter minus tide gauge .

@@ -1,0 +1,1 @@
+Remote sensing technology , providing relatively quick and low - cost analysis of large areas , is used for classifying the shoreline and land - use activities in the fore - scene and back - scene zones followed by assigning risk scores to various GIS data layers and suitability evaluation based on the weight of each score .

@@ -1,0 +1,15 @@
+LCA	B-PROCESS
+is	O
+an	O
+uncommon	O
+splenic	B-PROCESS
+tumor	I-PROCESS
+diagnosed	O
+in	O
+patients	B-ACTOR
+with	O
+or	O
+without	O
+abdominal	B-PROCESS
+discomfort	I-PROCESS
+.	O

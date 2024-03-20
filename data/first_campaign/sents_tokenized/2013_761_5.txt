@@ -1,0 +1,1 @@
+Here , we show that seasonal cholera outbreaks in the Bengal Delta can be predicted two to three months in advance with an overall prediction accuracy of over 75 % by using satellite - derived chlorophyll and air temperature data .

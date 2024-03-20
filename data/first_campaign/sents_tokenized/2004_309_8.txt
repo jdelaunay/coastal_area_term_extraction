@@ -1,0 +1,1 @@
+The transfer functions have been tested on a late glacial - Holocene data set and an Eemian - Early Weichselian data set from the eastern North Sea region .

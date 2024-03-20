@@ -1,0 +1,1 @@
+Rennell ' s map ( 1776 ) , Landsat MSS ( 1976 ) and Landsat OLI ( 2016 ) images have been used to explore the coastline using tools of Remote Sensing and Geographic Information System ( GIS ) of Geo - informatics .

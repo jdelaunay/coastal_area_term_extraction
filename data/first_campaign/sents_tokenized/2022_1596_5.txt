@@ -1,0 +1,1 @@
+The FES2014 dataset outperforms the GTSM in most areas and is used as observations for the deep ocean and some coastal areas , such as Hudson Bay and Labrador , where tide gauges are scarce but energy dissipation is large .

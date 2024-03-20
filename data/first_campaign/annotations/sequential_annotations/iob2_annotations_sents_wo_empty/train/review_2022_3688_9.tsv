@@ -1,0 +1,14 @@
+One	O
+example	O
+is	O
+the	O
+interaction	O
+of	O
+coastal	B-PROCESS
+effects	I-PROCESS
+with	O
+offshore	B-PROCESS
+wind	I-PROCESS
+farm	I-PROCESS
+wakes	I-PROCESS
+.	O

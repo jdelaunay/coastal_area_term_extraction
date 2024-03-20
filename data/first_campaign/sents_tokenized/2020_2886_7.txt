@@ -1,0 +1,1 @@
+This indicates that , for this case study , the GEOS - CF is able to simulate surface level ozone diurnal cycles and vertical ozone profiles at small scales between the surface level and 2000 m ASL .

@@ -1,0 +1,13 @@
+Over	B-PROCESS
+-	I-PROCESS
+exploitation	I-PROCESS
+causes	O
+a	O
+negative	O
+water	B-QUALITY
+balance	I-QUALITY
+,	O
+triggering	O
+seawater	B-PROCESS
+intrusion	I-PROCESS
+.	O

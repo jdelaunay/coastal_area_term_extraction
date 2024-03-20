@@ -1,0 +1,16 @@
+Individual	B-RESOURCE
+grinder	I-RESOURCE
+pump	I-RESOURCE
+stations	I-RESOURCE
+are	O
+serving	O
+residences	B-RESOURCE
+and	O
+businesses	B-PROCESS
+in	O
+the	O
+middle	O
+and	O
+lower	O
+islands	B-LOCATION
+.	O

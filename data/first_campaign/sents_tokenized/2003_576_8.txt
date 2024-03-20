@@ -1,0 +1,1 @@
+It is intended for 3 - 6 month deployments in areas where water column instruments are at risk from fishing trawlers , but with real - time data return and control via twoway satellite communication .

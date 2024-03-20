@@ -1,0 +1,1 @@
+In extensive numerical experiments , the effectiveness and efficiency of the improved algorithm are verified by comparing it with particle swarm optimization algorithm , tabu search algorithm , and a lower bound of the proposed model .

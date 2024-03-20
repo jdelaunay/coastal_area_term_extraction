@@ -1,0 +1,1 @@
+This includes both the enhanced Barny Sentinel model developed at SACLANTCEN in collaboration with the US Naval Research Laboratory , Stennis Space Centre , and its more recent evolution into a Shallow - water Environmental Profiler in Trawl - safe Real - time configuration ( SEPTR ) .

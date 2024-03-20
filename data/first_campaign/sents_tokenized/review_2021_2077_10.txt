@@ -1,0 +1,1 @@
+In the service of the meteorological and marine forecast , it is proposed to strengthen the research on monitoring and early warning technique , as well as improvement of the dynamic framework , parameterization optimization of physical process , data assimilation , improvement of pattern grid resolution , and optimization of the ensemble prediction scheme .

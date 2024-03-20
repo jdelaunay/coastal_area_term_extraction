@@ -1,0 +1,17 @@
+Worldwide	O
+,	O
+highly	O
+populated	O
+countries	B-ACTOR
+are	O
+experiencing	O
+an	O
+imbalance	O
+between	O
+the	O
+supply	B-PROCESS
+and	I-PROCESS
+demand	I-PROCESS
+of	O
+water	B-RESOURCE
+.	O

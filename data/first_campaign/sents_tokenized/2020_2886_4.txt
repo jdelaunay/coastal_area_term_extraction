@@ -1,0 +1,1 @@
+The GEOS - CF R2 value for comparisons between the NASA Sherpa C - 23 aircraft measurements to the GEOS - CF resulted in good agreement ( R2 : 0 . 67 ) on July 19th and fair agreement ( R2 : 0 . 55 ) for July 20th .
