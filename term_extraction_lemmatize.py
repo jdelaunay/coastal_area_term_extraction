@@ -18,6 +18,12 @@ from transformers.integrations import WandbCallback
 
 import pickle
 
+from dataset_processing.dataset import OurDataset
+from utils.utils import get_dataset, get_gold_set
+from model.tokenize_and_align import tokenize_and_align_labels
+import nltk
+from nltk.stem import WordNetLemmatizer
+
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 
@@ -27,61 +33,13 @@ np.random.seed(3407)
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 
+nltk.download('wordnet')
 
 def convert_type(df):
     for i in range(len(df)):
         df["word"].iloc[i] = eval(df["word"].iloc[i])
         df["labels"].iloc[i] = eval(df["labels"].iloc[i])
     return df
-
-def tokenize_and_align_labels(texts, tags):
-    # lowercase
-    texts = [[x.lower() for x in l] for l in texts]
-    tokenized_inputs = tokenizer(
-        texts,
-        padding=True,
-        truncation=True,
-        # We use this argument because the texts in our dataset are lists of words (with a label for each word).
-        is_split_into_words=True,
-    )
-    labels = []
-    for i, label in enumerate(tags):
-        word_ids = tokenized_inputs.word_ids(batch_index=i)
-        previous_word_idx = None
-        label_ids = []
-        for word_idx in word_ids:
-            # Special tokens have a word id that is None. We set the label to -100 so they are automatically
-            # ignored in the loss function.
-            if word_idx is None:
-                label_ids.append(-100)
-            # We set the label for the first token of each word.
-            elif word_idx != previous_word_idx:
-                label_ids.append(label_to_id[label[word_idx]])
-            # For the other tokens in a word, we set the label to either the current label or -100, depending on
-            # the label_all_tokens flag.
-            else:
-                label_ids.append(-100)
-            previous_word_idx = word_idx
-
-        labels.append(label_ids)
-    tokenized_inputs["labels"] = labels
-    return tokenized_inputs
-
-
-# create dataset that can be used for training with the huggingface trainer
-class OurDataset(torch.utils.data.Dataset):
-    def __init__(self, encodings, labels):
-        self.encodings = encodings
-        self.labels = labels
-
-    def __getitem__(self, idx):
-        item = {key: torch.tensor(val[idx]) for key, val in self.encodings.items()}
-        item["labels"] = torch.tensor(self.labels[idx])
-        return item
-
-    def __len__(self):
-        return len(self.labels)
-
 
 # return the extracted terms given the token level prediction and the original texts
 def extract_terms(token_predictions, val_texts):
@@ -117,9 +75,15 @@ def compute_metrics(p):
     ]
 
     extracted_terms = extract_terms(true_predictions, val)  # ??????
+    extracted_terms = [item.lower() for item in extracted_terms]
+    lemmatizer = WordNetLemmatizer()
+    # Lemmatize the extracted terms
     extracted_terms = set([item.lower() for item in extracted_terms])
-    gold_set = gold_validation  # ??????
-
+    extracted_terms = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in extracted_terms])
+    gold_set = set(gold_validation)  # ??????
+    gold_set = set([item.lower() for item in gold_set])
+    gold_set = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in gold_set])
+    
     true_pos = extracted_terms.intersection(gold_set)
     recall = len(true_pos) / len(gold_set)
     precision = len(true_pos) / len(extracted_terms)
@@ -138,8 +102,14 @@ def compute_metrics(p):
 
 def computeTermEvalMetrics(extracted_terms, gold_df):
     # make lower case cause gold standard is lower case
+    extracted_terms = [item.lower() for item in extracted_terms]
+    lemmatizer = WordNetLemmatizer()
+    # Lemmatize the extracted terms
     extracted_terms = set([item.lower() for item in extracted_terms])
+    extracted_terms = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in extracted_terms])
     gold_set = set(gold_df)
+    gold_set = set([item.lower() for item in gold_set])
+    gold_set = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in gold_set])
     true_pos = extracted_terms.intersection(gold_set)
     recall = round(len(true_pos) * 100 / len(gold_set), 2)
     precision = round(len(true_pos) * 100 / len(extracted_terms), 2)
@@ -171,18 +141,7 @@ def computeTermEvalMetrics(extracted_terms, gold_df):
     return len(extracted_terms), len(gold_set), len(true_pos), precision, recall, fscore
 
 
-def get_dataset(path):
-    files = [
-        os.path.join(path, file)
-        for file in os.listdir(path)
-        if os.path.isfile(os.path.join(path, file))
-    ]
-    texts, tags = [], []
-    for file in files:
-        df = pd.read_csv(file, delimiter="\t", quoting=3, names=["word", "labels"])
-        texts.append(df["word"].tolist())
-        tags.append(df["labels"].tolist())
-    return texts, tags
+
 
 
 if __name__ == "__main__":
@@ -225,6 +184,13 @@ if __name__ == "__main__":
         default=True,
         help="use fast tokenizer",
     )
+    parser.add_argument(
+        '-data_base_path',
+        '--data_base_path',
+        type=str,
+        default="./data/kb/",
+        help='base path for the data'
+    )
 
     args = parser.parse_args()
     args.n_gpu = torch.cuda.device_count()
@@ -234,30 +200,15 @@ if __name__ == "__main__":
     os.makedirs(args.store, exist_ok=True)
     os.makedirs("results", exist_ok=True)
 
-    path = "./data/annotations/sequential_annotations/iob_annotations_sents_wo_empty/"
+    path = os.path.join(args.data_base_path, "annotations/sequential_annotations/iob_annotations_sents_wo_empty/")
 
     train_texts, train_tags = get_dataset(os.path.join(path, "train"))
     val_texts, val_tags = get_dataset(os.path.join(path, "val"))
     model_name = args.model_name  # This should be either "xlm-roberta-base", "xlm-roberta-large", "roberta-base", or "roberta-large"
 
     test_texts, test_tags = get_dataset(os.path.join(path, "test"))
-
-    gold_set_for_validation = set(
-        pd.read_csv(
-            "./data/annotations/unique_annotations_lists/val_unique_terms.tsv",
-            delimiter="\t",
-            quoting=3,
-            names=["Term", "Label"],
-        )["Term"].tolist()
-    )
-    gold_set_for_test = set(
-        pd.read_csv(
-            "./data/annotations/unique_annotations_lists/test_unique_terms.tsv",
-            delimiter="\t",
-            quoting=3,
-            names=["Term", "Label"],
-        )["Term"].tolist()
-    )
+    gold_set_for_validation = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/val_unique_terms.tsv"))
+    gold_set_for_test = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/test_unique_terms.tsv"))
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=args.use_fast_tokenizer, add_prefix_space=True)
 
@@ -265,9 +216,9 @@ if __name__ == "__main__":
     label_to_id = {l: i for i, l in enumerate(label_list)}
     num_labels = len(label_list)
 
-    train_input_and_labels = tokenize_and_align_labels(train_texts, train_tags)
-    val_input_and_labels = tokenize_and_align_labels(val_texts, val_tags)
-    test_input_and_labels = tokenize_and_align_labels(test_texts, test_tags)
+    train_input_and_labels = tokenize_and_align_labels(train_texts, train_tags, tokenizer, label_to_id)
+    val_input_and_labels = tokenize_and_align_labels(val_texts, val_tags, tokenizer, label_to_id)
+    test_input_and_labels = tokenize_and_align_labels(test_texts, test_tags, tokenizer, label_to_id)
 
     train_dataset = OurDataset(train_input_and_labels, train_input_and_labels["labels"])
     val_dataset = OurDataset(val_input_and_labels, val_input_and_labels["labels"])
