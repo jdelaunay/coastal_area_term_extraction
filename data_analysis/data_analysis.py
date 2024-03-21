@@ -17,7 +17,7 @@ def count_files(directory):
 
 
 # Function to load the data and check the vocabulary size and type-to-token ratio
-def load_data_and_analyze(directory):
+def basic_analysis(directory):
     vocab = Counter()
     total_tokens = 0
 
@@ -85,6 +85,8 @@ def get_terms_from_iob_file(file_path):
                         terms.append(term)
                         term = None
                 elif row[1] == "B":
+                    if term:
+                        terms.append(term)
                     term = row[0]
                 elif row[1] == "I":
                     term += " " + row[0]
@@ -94,27 +96,63 @@ def get_terms_from_iob_file(file_path):
     return [lemmatizer.lemmatize(term) for term in terms]
 
 
-def plot_wordcloud_of_lemmatized_terms_with_highest_tfidf(
-    train_iob_path,
-    val_iob_path,
-    test_iob_path,
-    save_path,
-    title="Wordcloud of lemmatized terms",
-):
+def get_labels_from_iob2_files(file_path):
+    labels = []
+    label = None
+    try:
+        if file_path.endswith(".tsv"):  # assuming the files are .tsv
+            df = pd.read_csv(file_path, sep="\t", header=None, quoting=3)
+            for index, row in df.iterrows():
+                if row[1] == "O":
+                    if label:
+                        labels.append(label)
+                        label = None
+                elif "B" in row[1]:
+                    if label:
+                        labels.append(label)
+                    label = row[1].split("-")[1]
+    except Exception as e:
+        print(e)
+        print(f"Error processing {file_path}")
+    return labels
+
+
+def get_terms_frequencies(train_iob_path, val_iob_path, test_iob_path, n=100):
     paths = [train_iob_path, val_iob_path, test_iob_path]
     terms = []
     for path in paths:
         for file in os.listdir(path):
             with open(os.path.join(path, file), "r") as _:
                 file_terms = get_terms_from_iob_file(os.path.join(path, file))
-                terms.extend([lemmatizer.lemmatize(term) for term in file_terms])
+                new_terms = [term.lower() for term in file_terms]
+                new_terms = [
+                    " ".join([lemmatizer.lemmatize(word) for word in term.split()])
+                    for term in new_terms
+                ]
+                terms.extend(new_terms)
 
-    n = 50
-    top_n = Counter(terms).most_common(100)
+    return Counter(terms)
 
-    wordcloud = WordCloud(width=800, height=400, background_color="white").generate(
-        " ".join(terms)
-    )
+
+def get_labels_frequencies(train_iob_path, val_iob_path, test_iob_path):
+    paths = [train_iob_path, val_iob_path, test_iob_path]
+    labels = []
+    for path in paths:
+        for file in os.listdir(path):
+            with open(os.path.join(path, file), "r") as _:
+                file_labels = get_labels_from_iob2_files(os.path.join(path, file))
+                labels.extend(file_labels)
+    return Counter(labels)
+
+
+def get_top_n(terms_counter, n=100):
+    return dict(terms_counter.most_common(n))
+
+
+def plot_wordcloud(tuples_dict, save_path, title="Wordcloud of lemmatized terms"):
+    wordcloud = WordCloud(
+        width=800, height=400, background_color="white"
+    ).generate_from_frequencies(tuples_dict)
     plt.figure(figsize=(10, 5))
     plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis("off")
@@ -138,19 +176,47 @@ def count_unique_terms(train_file, val_file, test_file):
 
 # Function to count unique lemmatized terms
 def count_unique_lemmatized_terms(train_file, val_file, test_file):
-    train_terms, val_terms, test_terms = set(), set(), set()
 
     with open(train_file, "r") as file:
-        train_terms = {lemmatizer.lemmatize(term) for term in file.read().split()}
+        train_terms = set(
+            [
+                " ".join([lemmatizer.lemmatize(word.lower()) for word in term.split()])
+                for term in file.read().split("\n")
+            ]
+        )
 
     with open(val_file, "r") as file:
-        val_terms = {lemmatizer.lemmatize(term) for term in file.read().split()}
+        val_terms = set(
+            [
+                " ".join([lemmatizer.lemmatize(word.lower()) for word in term.split()])
+                for term in file.read().split("\n")
+            ]
+        )
 
     with open(test_file, "r") as file:
-        test_terms = {lemmatizer.lemmatize(term) for term in file.read().split()}
+        test_terms = set(
+            [
+                " ".join([lemmatizer.lemmatize(word.lower()) for word in term.split()])
+                for term in file.read().split("\n")
+            ]
+        )
 
     total_unique_terms = train_terms.union(val_terms, test_terms)
     return len(total_unique_terms)
+
+
+def stats_terms_counter(terms_counter):
+    # Calculate the median and mean of term occurrences
+    values = list(terms_counter.values())
+    median = np.median(values)
+    mean = np.mean(values)
+    first_quartile = np.percentile(values, 25)
+    third_quartile = np.percentile(values, 75)
+
+    print(f"First quartile of term occurrences: {first_quartile}")
+    print(f"Third quartile of term occurrences: {third_quartile}")
+    print(f"Median of term occurrences: {median}")
+    print(f"Mean of term occurrences: {mean}")
 
 
 def print_stats(base_path):
@@ -177,7 +243,7 @@ def print_stats(base_path):
     )
 
     # Load the data and analyze
-    load_data_and_analyze(sents_tokenized_wo_empty_dir)
+    basic_analysis(sents_tokenized_wo_empty_dir)
 
     # Count terms in files
     terms_count = {file: count_terms(file) for file in files}
@@ -212,17 +278,74 @@ def print_stats(base_path):
         count_total_annotated_terms(directory) for directory in iob_dirs
     )
     print(f"Total number of annotated terms: {total_annotated_terms}")
-    plot_wordcloud_of_lemmatized_terms_with_highest_tfidf(
-        *iob_dirs, f"img/{base_path.split('/')[-2]}_wordcloud.png"
+    terms_counter = get_terms_frequencies(*iob_dirs, n=100)
+    stats_terms_counter(terms_counter)
+    top_n = get_top_n(terms_counter, n=100)
+    # plot_wordcloud(top_n, f"img/{base_path.split('/')[-2]}_wordcloud.png")
+
+    iob2_path = os.path.join(
+        base_path, "annotations/sequential_annotations/iob2_annotations_sents_wo_empty"
     )
+    iob2_dirs = [
+        os.path.join(iob2_path, "train"),
+        os.path.join(iob2_path, "val"),
+        os.path.join(iob2_path, "test"),
+    ]
+    labels_counter = get_labels_frequencies(*iob2_dirs)
+    print(f"Number of occurence of each label: {labels_counter}")
+
+    return top_n
+
+
+def terms_in_common(kb_recommended_path, human_recommended_path):
+    kb_uniques = os.path.join(
+        kb_recommended_path, "annotations/unique_annotations_lists/en_terms.tsv"
+    )
+    human_uniques = os.path.join(
+        human_recommended_path, "annotations/unique_annotations_lists/en_terms.tsv"
+    )
+    # Load terms from both files
+    kb_terms = pd.read_csv(kb_uniques, sep="\t", header=None)[0].tolist()
+    human_terms = pd.read_csv(human_uniques, sep="\t", header=None)[0].tolist()
+
+    # Find common terms
+    common_terms = set(kb_terms).intersection(human_terms)
+
+    # Print the number of common terms
+    print(f"Number of common terms: {len(common_terms)}")
+
+    # Load lemmatized terms from both files
+    kb_lemmatized_terms = [lemmatizer.lemmatize(term) for term in kb_terms]
+    kb_lemmatized_terms = [
+        " ".join([lemmatizer.lemmatize(word) for word in term.split()])
+        for term in kb_terms
+    ]
+    human_lemmatized_terms = [
+        " ".join([lemmatizer.lemmatize(word) for word in term.split()])
+        for term in human_terms
+    ]
+    # Find common lemmatized terms
+    common_lemmatized_terms = set(kb_lemmatized_terms).intersection(
+        human_lemmatized_terms
+    )
+    # Print the number of common lemmatized terms
+    print(f"Number of common lemmatized terms: {len(common_lemmatized_terms)}")
 
 
 if __name__ == "__main__":
     os.makedirs("img", exist_ok=True)
     # Define directories and files
-    print("-------- SOLO --------")
+    print("-------- KB --------")
     print("======================")
-    print_stats("./data/solo/")
-    print("-------- FIRST_CAMPAIGN --------")
+    kb_top_n = print_stats("./data/kb/")
+    print("-------- HUMAN --------")
     print("======================")
-    print_stats("./data/first_campaign/")
+    human_top_n = print_stats("./data/human/")
+    print("-------- TERMS IN COMMON --------")
+    print("======================")
+    terms_in_common("./data/kb/", "./data/human/")
+    # Check the number of terms in common between the two top n
+    common_top_n_terms = set(kb_top_n.keys()).intersection(set(human_top_n.keys()))
+    print(
+        f"Number of terms in common in top n {len(kb_top_n)}: {len(common_top_n_terms)}"
+    )
