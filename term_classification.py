@@ -8,7 +8,6 @@ import timeit
 import warnings
 
 import numpy as np
-import pandas as pd
 import torch
 import wandb
 from transformers import Trainer, TrainingArguments
@@ -16,13 +15,11 @@ from transformers import AutoModelForTokenClassification
 from transformers import AutoTokenizer
 from transformers.integrations import WandbCallback
 
-import pickle
-
 from dataset_processing.dataset import OurDataset
 from utils.utils import get_dataset, get_gold_set
 from model.tokenize_and_align import tokenize_and_align_labels
-import nltk
-from nltk.stem import WordNetLemmatizer
+import json
+
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
@@ -33,13 +30,12 @@ np.random.seed(3407)
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-nltk.download('wordnet')
-
 def convert_type(df):
     for i in range(len(df)):
         df["word"].iloc[i] = eval(df["word"].iloc[i])
         df["labels"].iloc[i] = eval(df["labels"].iloc[i])
     return df
+
 
 # return the extracted terms given the token level prediction and the original texts
 def extract_terms(token_predictions, val_texts):
@@ -52,14 +48,17 @@ def extract_terms(token_predictions, val_texts):
         for j in range(len(pred)):
             # if right tag build term and add it to the set otherwise just continue
             # print(pred[j], txt[j])
-            if pred[j] == "B":
+            if "B" in pred[j]:
                 term = txt[j]
+                pred_labels = [pred[j].split("-")[1]]
                 for k in range(j + 1, len(pred)):
-                    if pred[k] == "I":
+                    if "I" in pred[k]:
                         term += " " + txt[k]
+                        pred_labels.append(pred[j].split("-")[1])
                     else:
                         break
-                extracted_terms.add(term)
+                label = max(set(pred_labels), key=pred_labels.count)
+                extracted_terms.add(f"{term} | {label}")
     return extracted_terms
 
 
@@ -76,13 +75,9 @@ def compute_metrics(p):
 
     extracted_terms = extract_terms(true_predictions, val)  # ??????
     extracted_terms = [item.lower() for item in extracted_terms]
-    lemmatizer = WordNetLemmatizer()
-    # Lemmatize the extracted terms
     extracted_terms = set([item.lower() for item in extracted_terms])
-    extracted_terms = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in extracted_terms])
     gold_set = set(gold_validation)  # ??????
     gold_set = set([item.lower() for item in gold_set])
-    gold_set = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in gold_set])
     
     true_pos = extracted_terms.intersection(gold_set)
     recall = len(true_pos) / len(gold_set)
@@ -103,13 +98,9 @@ def compute_metrics(p):
 def computeTermEvalMetrics(extracted_terms, gold_df):
     # make lower case cause gold standard is lower case
     extracted_terms = [item.lower() for item in extracted_terms]
-    lemmatizer = WordNetLemmatizer()
-    # Lemmatize the extracted terms
     extracted_terms = set([item.lower() for item in extracted_terms])
-    extracted_terms = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in extracted_terms])
     gold_set = set(gold_df)
     gold_set = set([item.lower() for item in gold_set])
-    gold_set = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in gold_set])
     true_pos = extracted_terms.intersection(gold_set)
     recall = round(len(true_pos) * 100 / len(gold_set), 2)
     precision = round(len(true_pos) * 100 / len(extracted_terms), 2)
@@ -139,9 +130,6 @@ def computeTermEvalMetrics(extracted_terms, gold_df):
         + str(fscore)
     )
     return len(extracted_terms), len(gold_set), len(true_pos), precision, recall, fscore
-
-
-
 
 
 if __name__ == "__main__":
@@ -200,19 +188,22 @@ if __name__ == "__main__":
     os.makedirs(args.store, exist_ok=True)
     os.makedirs("results", exist_ok=True)
 
-    path = os.path.join(args.data_base_path, "annotations/sequential_annotations/iob_annotations_sents_wo_empty/")
+    path = os.path.join(args.data_base_path, "annotations/sequential_annotations/iob2_annotations_sents_wo_empty/")
 
     train_texts, train_tags = get_dataset(os.path.join(path, "train"))
     val_texts, val_tags = get_dataset(os.path.join(path, "val"))
     model_name = args.model_name  # This should be either "xlm-roberta-base", "xlm-roberta-large", "roberta-base", or "roberta-large"
 
     test_texts, test_tags = get_dataset(os.path.join(path, "test"))
-    gold_set_for_validation = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/val_unique_terms.tsv"), lemmatized=True)
-    gold_set_for_test = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/test_unique_terms.tsv"), lemmatized=True)
+    gold_set_for_validation = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/val_unique_terms_classes.tsv"))
+    gold_set_for_test = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/test_unique_terms_classes.tsv"))
+    
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=args.use_fast_tokenizer, add_prefix_space=True)
 
-    label_list = ["O", "B", "I"]
+    begin_list = ["B-ACTOR", "B-RESOURCE", "B-PROCESS", "B-QUALITY", "B-LOCATION"]
+    inside_list = ["I-ACTOR", "I-RESOURCE", "I-PROCESS", "I-QUALITY", "I-LOCATION"]
+    label_list = ["O"] + begin_list + inside_list
     label_to_id = {l: i for i, l in enumerate(label_list)}
     num_labels = len(label_list)
 

@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import nltk
 from nltk.stem import WordNetLemmatizer
 
 def get_dataset(path):
@@ -15,13 +16,14 @@ def get_dataset(path):
         tags.append(df["labels"].tolist())
     return texts, tags
 
-def get_gold_set(path):
+def get_gold_set(path, lemmatized=False):
     gold_set =  set(
         pd.read_csv(
             path, delimiter="\t", quoting=3, names=["Term", "Label"]
         )["Term"].tolist()
     )
-    lemmatizer = WordNetLemmatizer()
     gold_set = set([item.lower() for item in gold_set])
-    gold_set = set([lemmatizer.lemmatize(term) for term in gold_set])
+    if lemmatized:
+        lemmatizer = WordNetLemmatizer()
+        gold_set = set([lemmatizer.lemmatize(term) for term in gold_set])
     return gold_set

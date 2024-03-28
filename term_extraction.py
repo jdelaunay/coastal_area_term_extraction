@@ -76,13 +76,9 @@ def compute_metrics(p):
 
     extracted_terms = extract_terms(true_predictions, val)  # ??????
     extracted_terms = [item.lower() for item in extracted_terms]
-    lemmatizer = WordNetLemmatizer()
-    # Lemmatize the extracted terms
     extracted_terms = set([item.lower() for item in extracted_terms])
-    extracted_terms = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in extracted_terms])
     gold_set = set(gold_validation)  # ??????
     gold_set = set([item.lower() for item in gold_set])
-    gold_set = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in gold_set])
     
     true_pos = extracted_terms.intersection(gold_set)
     recall = len(true_pos) / len(gold_set)
@@ -103,13 +99,9 @@ def compute_metrics(p):
 def computeTermEvalMetrics(extracted_terms, gold_df):
     # make lower case cause gold standard is lower case
     extracted_terms = [item.lower() for item in extracted_terms]
-    lemmatizer = WordNetLemmatizer()
-    # Lemmatize the extracted terms
     extracted_terms = set([item.lower() for item in extracted_terms])
-    extracted_terms = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in extracted_terms])
     gold_set = set(gold_df)
     gold_set = set([item.lower() for item in gold_set])
-    gold_set = set([" ".join([lemmatizer.lemmatize(word) for word in term.split()]) for term in gold_set])
     true_pos = extracted_terms.intersection(gold_set)
     recall = round(len(true_pos) * 100 / len(gold_set), 2)
     precision = round(len(true_pos) * 100 / len(extracted_terms), 2)
@@ -207,8 +199,8 @@ if __name__ == "__main__":
     model_name = args.model_name  # This should be either "xlm-roberta-base", "xlm-roberta-large", "roberta-base", or "roberta-large"
 
     test_texts, test_tags = get_dataset(os.path.join(path, "test"))
-    gold_set_for_validation = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/val_unique_terms.tsv"), lemmatized=True)
-    gold_set_for_test = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/test_unique_terms.tsv"), lemmatized=True)
+    gold_set_for_validation = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/val_unique_terms.tsv"))
+    gold_set_for_test = get_gold_set(os.path.join(args.data_base_path, "annotations/unique_annotations_lists/test_unique_terms.tsv"))
 
     tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=args.use_fast_tokenizer, add_prefix_space=True)
 
