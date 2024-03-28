@@ -1,0 +1,17 @@
+However	O
+,	O
+human	B-ACTOR
+alteration	B-PROCESS
+of	O
+lake	B-LOCATION
+hydrologic	B-QUALITY
+regimes	I-QUALITY
+beyond	O
+natural	B-QUALITY
+fluctuations	I-QUALITY
+threaten	O
+littoral	B-LOCATION
+zone	O
+ecological	B-QUALITY
+integrity	I-QUALITY
+.	O

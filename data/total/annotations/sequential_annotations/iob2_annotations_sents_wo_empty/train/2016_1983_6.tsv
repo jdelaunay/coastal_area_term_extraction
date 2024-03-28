@@ -1,0 +1,15 @@
+This	O
+paper	O
+aims	O
+to	O
+describe	O
+milestones	O
+of	O
+tsunami	B-PROCESS
+mitigation	I-PROCESS
+by	O
+using	O
+greenbelt	B-RESOURCE
+in	O
+Indonesia	B-LOCATION
+.	O

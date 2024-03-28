@@ -1,0 +1,13 @@
+Particular	O
+attention	O
+is	O
+devoted	O
+to	O
+the	O
+macroalgal	B-RESOURCE
+species	I-RESOURCE
+from	O
+the	O
+Iberian	B-LOCATION
+Peninsula	I-LOCATION
+.	O

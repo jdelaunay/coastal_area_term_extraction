@@ -1,0 +1,14 @@
+Low	O
+alkylated	B-QUALITY
+PAH	I-QUALITY
+levels	O
+may	O
+be	O
+associated	O
+with	O
+small	O
+boats	B-RESOURCE
+and	O
+ship	B-PROCESS
+traffic	I-PROCESS
+.	O

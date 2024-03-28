@@ -1,0 +1,994 @@
+' trapped ' populations | QUALITY
+( im ) mobility decision - making | PROCESS
+13C | RESOURCE
+15N | RESOURCE
+A . fundyense | RESOURCE
+A Ramallosa | LOCATION
+ADCPs | RESOURCE
+Acoustic Doppler Current Profilers ( ADCP ) | RESOURCE
+Aerated Static Pile ( ASP ) bioreactor system | RESOURCE
+African Union Commission | ACTOR
+African | ACTOR
+Agriculture | RESOURCE
+Albisola | LOCATION
+Alexandrium fundyense | RESOURCE
+Aquatic organisms | ACTOR
+Arabian Sea | LOCATION
+Argentina | LOCATION
+Aulacoseira granulata | ACTOR
+BOD5 | QUALITY
+Bahia Blanca estuary | LOCATION
+Balaenophilus | ACTOR
+Bangladesh | LOCATION
+Bay of Bengal | LOCATION
+Bay of Fundy | LOCATION
+Beach Deposit Index | QUALITY
+Beach Index | QUALITY
+Benthic biomass | QUALITY
+Biomineralization | PROCESS
+Brahmaputra - Jamuna | RESOURCE
+Buenos Aires | LOCATION
+C . euglypta | ACTOR
+C . moreletii | ACTOR
+C . tropicalis - RETL - Cr1 | RESOURCE
+C . violaceum - MAB - Cr1 | RESOURCE
+CAK | LOCATION
+COD | QUALITY
+COD | RESOURCE
+Caiman crocodilus chiapasius | ACTOR
+Caisson - type structures | QUALITY
+Calanoida | RESOURCE
+Central Java | LOCATION
+Chelonia mydas | ACTOR
+Chemical Oxygen Demand | QUALITY
+Chile | LOCATION
+China | LOCATION
+Chl - a | RESOURCE
+Chubut | LOCATION
+Cladocera | RESOURCE
+Climate change | PROCESS
+Coastal areas | LOCATION
+Coastal ocean connectivity | QUALITY
+Coastline change dynamics | PROCESS
+Coatzacoalcos River | LOCATION
+Cocconeis placentula | ACTOR
+Copepoda | RESOURCE
+Crocodylus acutus | ACTOR
+Daphnia | RESOURCE
+Delphineis surirella | ACTOR
+Demographic pressure | PROCESS
+Diploneis interrupta | ACTOR
+Diptera | RESOURCE
+EPA - priority PAHs | RESOURCE
+Eretmochelys imbricata | ACTOR
+Esox lucius | ACTOR
+European Commission | ACTOR
+European perch | ACTOR
+FKAA service areas | LOCATION
+FKAA | ACTOR
+FL | QUALITY
+Feresa attenuata | ACTOR
+Fishing | PROCESS
+Florida Keys Aqueduct Authority ( FKAA ) | ACTOR
+Florida Keys | LOCATION
+GMES and Africa Support Programme | RESOURCE
+GOM | LOCATION
+Ganges - Brahmaputra - Meghna ( GBM ) | RESOURCE
+Ganges - Padma | RESOURCE
+Gastrochaenolites | RESOURCE
+Geographic Information Systems ( GIS ) | RESOURCE
+Gnathichnus | RESOURCE
+Gulf of Maine ( GOM ) | LOCATION
+Gulf of Mexico | LOCATION
+Hainan Island | LOCATION
+Hangzhou Bay | LOCATION
+Herbivorous forms | RESOURCE
+Himalayan region | LOCATION
+Holocene transgression | PROCESS
+Horseshoe crab | ACTOR
+Human activities | PROCESS
+Human activity and development | PROCESS
+Human mobility | PROCESS
+India | LOCATION
+Indian | LOCATION
+Individual grinder pump stations | RESOURCE
+Iran | LOCATION
+Italy | LOCATION
+Ixtoc - I offshore oil rig | RESOURCE
+Japanese jack mackerel | ACTOR
+Java | LOCATION
+Jinzu River | LOCATION
+Jordan Basin | LOCATION
+Kereti | LOCATION
+Korea | LOCATION
+Kuroshio Current | PROCESS
+LPS | RESOURCE
+Laizhou Bay | LOCATION
+Lavagna | LOCATION
+Lepidochelys olivacea | ACTOR
+Liaohe River | LOCATION
+Ligurian | LOCATION
+Loano | LOCATION
+LtdMicroplastic pollution | PROCESS
+MSZ | LOCATION
+Maeandropolydora | RESOURCE
+Makran Subduction Zone ( MSZ ) | LOCATION
+Makran subduction thrust | LOCATION
+Makran | LOCATION
+Malaysia | LOCATION
+Mangalore and Udupi | LOCATION
+Marintaman Beach | LOCATION
+Massachusetts Bay | LOCATION
+Mediterranean | LOCATION
+Mexico | LOCATION
+Microplastics | RESOURCE
+Monroe County | ACTOR
+Muscat | LOCATION
+NDVI | QUALITY
+NH 4 | RESOURCE
+NO 2 | RESOURCE
+NO 3 | RESOURCE
+Na - Cl | QUALITY
+Na - Mg - Cl | QUALITY
+Negro | LOCATION
+North Korea | ACTOR
+North Korea | LOCATION
+North Koreas | ACTOR
+OFG reserves | RESOURCE
+OFG | RESOURCE
+Odisha | LOCATION
+Oil spills | PROCESS
+Omans | LOCATION
+Ophiomorpha galleries | RESOURCE
+Ormara | LOCATION
+Overuse | PROCESS
+P . aeruginosa - BAS - Cr1 | RESOURCE
+PAH | RESOURCE
+PO 4 - P | RESOURCE
+PS II reaction center | RESOURCE
+Pakistan | LOCATION
+Paralia sulcata | ACTOR
+Patagonia | LOCATION
+Patagonian | LOCATION
+Pehun Co | LOCATION
+Pellets | RESOURCE
+Penobscot Bay | LOCATION
+Perca fl uviatilis | ACTOR
+Pietra Ligure | LOCATION
+Pollutants | RESOURCE
+Polycyclic Aromatic Hydrocarbons ( PAHs ) | RESOURCE
+Radulichnus | RESOURCE
+Recirculation | PROCESS
+Rhaphoneis amphiceros | ACTOR
+Riau Islands Province | LOCATION
+SLR | PROCESS
+Sa do inlet | LOCATION
+Sa do | LOCATION
+Sabah | LOCATION
+Saccocirrus papillocercus | ACTOR
+Salinity | QUALITY
+San Julin Bay | LOCATION
+Santa Cruz | LOCATION
+Sarika | PROCESS
+Satellite chlorophyll - a concentration ( Chl - a ) | QUALITY
+Sayung Demak Waters | LOCATION
+Sayung Demak | LOCATION
+Sayung waters | LOCATION
+Sayung | LOCATION
+Seagrass meadows | RESOURCE
+Sediment 15N | RESOURCE
+Semarang coastal areas | LOCATION
+Semarang | LOCATION
+Shuangtaizihe River | LOCATION
+Sines | LOCATION
+Sipitang | LOCATION
+Skolithos ichnofacies | RESOURCE
+South Korea | LOCATION
+Southern South America | LOCATION
+Spain | LOCATION
+Species richness | QUALITY
+St Lawrence River | LOCATION
+Sumatra - Andaman | LOCATION
+Sunda | LOCATION
+Sur | LOCATION
+Surma - Kusiara | RESOURCE
+Systems | RESOURCE
+T . gigas | ACTOR
+T . japonicus | ACTOR
+T . tetragoiwides | RESOURCE
+T . tetragonoides leaves | RESOURCE
+T . tetragonoides | RESOURCE
+TSS | QUALITY
+Tachypleus gigas | ACTOR
+Tanjungpinang bay | LOCATION
+Tar - balls | RESOURCE
+Toyama Bay | LOCATION
+Trachurus japonicus | ACTOR
+Tria peninsula | LOCATION
+Trichechus manatus manatus | ACTOR
+Trypanites ichnofacies | RESOURCE
+Trypanites | RESOURCE
+Typhoons | PROCESS
+Varazze | LOCATION
+Varigotti | LOCATION
+Vertical land motion | PROCESS
+Western Ghats | LOCATION
+Wilkinson Basin | LOCATION
+YOY | RESOURCE
+Z . noltei | LOCATION
+Zostera noltei | LOCATION
+abundance | QUALITY
+abundances | QUALITY
+accretion | PROCESS
+accumulate | PROCESS
+accumulation | PROCESS
+adaptation measures | RESOURCE
+adaptation possibilities | QUALITY
+adaptive measures | RESOURCE
+advancing sea | PROCESS
+adverse effects | PROCESS
+agricultural , industrial and domestic use | PROCESS
+agricultural and industrial hubs | RESOURCE
+agriculture | PROCESS
+agriculture | RESOURCE
+air quality | QUALITY
+altitude | QUALITY
+amphibole | RESOURCE
+amphiboles | RESOURCE
+andaluzite | RESOURCE
+annual average | QUALITY
+anthracene | RESOURCE
+anthropogenic activity | PROCESS
+anthropogenic nitrogen inputs | PROCESS
+anthropogenic pressures | PROCESS
+anthropogenic transformation | PROCESS
+antifragile systems | RESOURCE
+aquatic environment | RESOURCE
+aquatic environments | RESOURCE
+aquatic organisms | ACTOR
+areas with salmonid farms | LOCATION
+artificial land | RESOURCE
+aspect | QUALITY
+assemblages | ACTOR
+assessment | PROCESS
+assimilation capacity | QUALITY
+asymmetric transport | PROCESS
+autonomous underwater vehicles ( AUVs ) | RESOURCE
+barnacles | ACTOR
+battery capacity | QUALITY
+bay breeze effect | PROCESS
+bay | LOCATION
+beach communities | ACTOR
+beach nourishment | PROCESS
+beach system | RESOURCE
+beach | LOCATION
+beach | RESOURCE
+beaches | RESOURCE
+benthic biodiversity | RESOURCE
+benthic diatom communities | RESOURCE
+benzo ( a ) pyrene | RESOURCE
+benzo | RESOURCE
+bieorosion | PROCESS
+bioaugmentation | PROCESS
+bioclastic supply | PROCESS
+biogenic perylene | RESOURCE
+biomass | QUALITY
+biomineralization | PROCESS
+biota samples | RESOURCE
+biota | RESOURCE
+biotic communities | RESOURCE
+biotite | RESOURCE
+bivalves communities | ACTOR
+blooms | PROCESS
+blowout | PROCESS
+body size distribution | QUALITY
+boulders of sedimentary origin | RESOURCE
+brackish communities | RESOURCE
+breakwaters | RESOURCE
+bridges | RESOURCE
+brine ingress | PROCESS
+buildings | RESOURCE
+businesses | PROCESS
+caisson - type quay walls | QUALITY
+caisson | RESOURCE
+carcinogenic | QUALITY
+carrying capacity | QUALITY
+catchment area | LOCATION
+central sector | LOCATION
+centralized wastewater | PROCESS
+chemical transport | PROCESS
+chemistry types | QUALITY
+chemistry | QUALITY
+chromophoric dissolved organic matter | QUALITY
+chronic oil contamination | QUALITY
+cities | LOCATION
+city | LOCATION
+civil security | QUALITY
+clasts | RESOURCE
+clayey silt | RESOURCE
+climate - change - induced changes | PROCESS
+climate - disaster threats | PROCESS
+climate change adaptation ( CCA ) | PROCESS
+climate change | PROCESS
+closure rate | QUALITY
+coarse sand | QUALITY
+coarse sand | RESOURCE
+coarse sediments | QUALITY
+coast | LOCATION
+coastal area | LOCATION
+coastal areas | LOCATION
+coastal areas | RESOURCE
+coastal cities | RESOURCE
+coastal connectivity | QUALITY
+coastal economy | QUALITY
+coastal environments | RESOURCE
+coastal flood | PROCESS
+coastal land | RESOURCE
+coastal leisure areas | LOCATION
+coastal management | PROCESS
+coastal planning | PROCESS
+coastal region | LOCATION
+coastal regions | LOCATION
+coastal resources | RESOURCE
+coastal segment | LOCATION
+coastal structures permit subsystem | RESOURCE
+coastal substrates | RESOURCE
+coastal systems | RESOURCE
+coastal waters | RESOURCE
+coastal wetland | RESOURCE
+coastal zone use | PROCESS
+coastline | LOCATION
+coastlines | LOCATION
+coasts | LOCATION
+combinations | QUALITY
+commensalism | PROCESS
+communication | PROCESS
+communities ' livelihood | QUALITY
+communities | ACTOR
+communities | RESOURCE
+community activities | PROCESS
+community functions | QUALITY
+composition | QUALITY
+concentration | QUALITY
+connectivity | QUALITY
+conservation | PROCESS
+consortium | RESOURCE
+consumed animals | QUALITY
+consumption | PROCESS
+contaminated soil | QUALITY
+contamination impact | QUALITY
+contamination | PROCESS
+continental shelf | LOCATION
+contributions | RESOURCE
+control areas | LOCATION
+copepods | ACTOR
+countries | LOCATION
+covertness | QUALITY
+crustaceans | ACTOR
+cultural | QUALITY
+current development | PROCESS
+d - excess values | QUALITY
+daily survival | QUALITY
+data | RESOURCE
+decision - making | PROCESS
+deep littoral habitat | RESOURCE
+deep water littoral habitats | RESOURCE
+deep waters | LOCATION
+delegated authority | ACTOR
+delta | LOCATION
+demand for electricity | PROCESS
+demographic | QUALITY
+density | QUALITY
+deployment | PROCESS
+deployments | PROCESS
+deposition | PROCESS
+depositional rate | QUALITY
+design criteria | QUALITY
+design | PROCESS
+development | PROCESS
+diatom assemblages | ACTOR
+diatom | ACTOR
+dibenzo | RESOURCE
+diet | QUALITY
+diffuse | PROCESS
+dinoflagellates | RESOURCE
+disaster management | PROCESS
+disaster prevention policy | RESOURCE
+disaster risk reduction ( DRR ) | PROCESS
+disaster risk | QUALITY
+disasters | PROCESS
+displacement | PROCESS
+displacements | PROCESS
+distribution | QUALITY
+diversity | QUALITY
+e - CAK | LOCATION
+early warning eutrophication indicator | RESOURCE
+ecological importance | QUALITY
+ecological restoration project | PROCESS
+ecological restoration | PROCESS
+ecological risk assessment | PROCESS
+ecological sink | RESOURCE
+economic activities | PROCESS
+economic significance | QUALITY
+economically reuse | PROCESS
+economy | RESOURCE
+ecosystem degradation | PROCESS
+ecosystem functioning | PROCESS
+ecosystem services | RESOURCE
+ecosystem | RESOURCE
+ecosystems | RESOURCE
+edible value | QUALITY
+egg deposition | PROCESS
+electron transfer rate | QUALITY
+enrichment | PROCESS
+environment | RESOURCE
+environmental and economic issues | QUALITY
+environmental descriptors | QUALITY
+environmental factor | QUALITY
+environmental harshness | QUALITY
+environmental impacts | PROCESS
+environmental management | PROCESS
+environmental pollutions | PROCESS
+environmental protection | PROCESS
+environmental | RESOURCE
+environmentally friendly | QUALITY
+epibiont group | QUALITY
+epiphytic material | RESOURCE
+eroded fragments | RESOURCE
+erosion area | LOCATION
+erosion | PROCESS
+erosional input | RESOURCE
+erosional rate | QUALITY
+escaped farmed fish | RESOURCE
+estuaries | LOCATION
+estuaries | RESOURCE
+estuarine and coastal environments | RESOURCE
+estuarine conditions | QUALITY
+estuary | RESOURCE
+eutrophication | PROCESS
+evapotranspiration | PROCESS
+excavation | PROCESS
+excessive nutrients | RESOURCE
+expansion speed | QUALITY
+expansion | PROCESS
+exposure | QUALITY
+extensive abrasion platforms | QUALITY
+extreme climate events | PROCESS
+extreme events | PROCESS
+facilities | RESOURCE
+fall | PROCESS
+farmed salmonids | RESOURCE
+farms | RESOURCE
+feeding | PROCESS
+fibres | RESOURCE
+films | RESOURCE
+fine sands | RESOURCE
+fish | ACTOR
+fisheries | PROCESS
+fishes | ACTOR
+flooding | PROCESS
+floodplain | RESOURCE
+floodplains | LOCATION
+floods | PROCESS
+flourene | RESOURCE
+fluoranthene | RESOURCE
+food mass | QUALITY
+food | RESOURCE
+forestry | RESOURCE
+forests | RESOURCE
+fork length [ FL ] | QUALITY
+formation | PROCESS
+fragile ecosystem | QUALITY
+fragments | RESOURCE
+frequency | QUALITY
+fresh groundwater exploration | PROCESS
+fresh groundwater | QUALITY
+fresh water sources | RESOURCE
+freshwater diatom species | ACTOR
+front water depth | QUALITY
+gales | PROCESS
+gene flow | QUALITY
+genus | QUALITY
+geohazards management | PROCESS
+geomorphological changes | QUALITY
+geomorphological evolution | PROCESS
+global climate change | PROCESS
+global coastline | LOCATION
+global economy | QUALITY
+global primary production | PROCESS
+global warming effects | PROCESS
+governmental decision makers | ACTOR
+grain - size | QUALITY
+gravity | QUALITY
+grinder stations | RESOURCE
+ground subsidence and uplift | PROCESS
+groundwater compartments | RESOURCE
+groundwater level | QUALITY
+groundwater resources | RESOURCE
+groundwater withdrawal | PROCESS
+groundwater | RESOURCE
+grout | RESOURCE
+grouting | PROCESS
+growth rate | QUALITY
+growth | PROCESS
+habitat | RESOURCE
+halophyte | RESOURCE
+haplotype diversity ( Hd ) | QUALITY
+hard substrates | QUALITY
+harmful algal | QUALITY
+hazardous areas | QUALITY
+hazards | PROCESS
+heavily fished coastal waters | QUALITY
+heavy mineral composition | QUALITY
+heavy mineral | RESOURCE
+hetero metric sediments | QUALITY
+high - altitude | LOCATION
+high - intensity rainfall | QUALITY
+high altitude | LOCATION
+high tides | PROCESS
+homogeneity | QUALITY
+horseshoe crab | ACTOR
+human activities | PROCESS
+human activity | PROCESS
+human development | PROCESS
+human livelihoods | QUALITY
+human well - being | QUALITY
+humid tropical climate | QUALITY
+humid | QUALITY
+hurricane | PROCESS
+hybrid collection systems | RESOURCE
+hybrid engineering | PROCESS
+hydrochemical characteristics | QUALITY
+hydrodynamic nature | QUALITY
+immigration | PROCESS
+impacts | QUALITY
+incineration | PROCESS
+indeno | RESOURCE
+individual inherent optical properties ( IOPs ) | RESOURCE
+industrial activity | PROCESS
+industrial and urban land - use zones | LOCATION
+industry | ACTOR
+infrastructure | RESOURCE
+inhabitants | ACTOR
+inner shelf | LOCATION
+installation | PROCESS
+institutional | QUALITY
+integrated coastal zone management | PROCESS
+intense agriculture | PROCESS
+interannual variability | QUALITY
+intermediate | QUALITY
+intertidal benthonic macro fauna communities | QUALITY
+invertebrates | RESOURCE
+islands | LOCATION
+isotopes | RESOURCE
+isotopic ratios | QUALITY
+juvenile / adult habitat areas | RESOURCE
+juvenile fish | ACTOR
+juveniles | ACTOR
+kyanite | RESOURCE
+lake restoration | PROCESS
+lake | LOCATION
+lake | RESOURCE
+land - based sources of nutrients | RESOURCE
+land - use types | QUALITY
+land - use | PROCESS
+land based sources | RESOURCE
+land cover types | QUALITY
+land subsidence formation | PROCESS
+land subsidence | PROCESS
+land | RESOURCE
+landform | RESOURCE
+landing | PROCESS
+landscape topography | QUALITY
+landslides | PROCESS
+large - scale power generation plants | QUALITY
+large marine vertebrates | QUALITY
+latitude | QUALITY
+leaf | RESOURCE
+light absorption | PROCESS
+light attenuation | PROCESS
+littoral drift | PROCESS
+littoral gradient | LOCATION
+littoral plain | LOCATION
+littoral ridges | RESOURCE
+littoral water activity | PROCESS
+littoral | LOCATION
+lives | QUALITY
+living in slum settlements | PROCESS
+locally isolated beneficial microorganisms ( LIBeM ) consortium | RESOURCE
+logistical requirements | QUALITY
+loss | QUALITY
+low - altitude plain | LOCATION
+low - elevation coastal zones | LOCATION
+low - lying areas | LOCATION
+low - profile diatom species | QUALITY
+low - profile diatoms | QUALITY
+low pressure sewers ( LPS ) | RESOURCE
+macrofaunal assemblages | RESOURCE
+macrotidal | QUALITY
+magnitude | QUALITY
+maintenance | PROCESS
+management | PROCESS
+manual intervention methods | RESOURCE
+mariculture | PROCESS
+marine and brackish systems | RESOURCE
+marine and marine - brackish species | ACTOR
+marine coastal areas | LOCATION
+marine habitats | RESOURCE
+marine species | ACTOR
+marine | RESOURCE
+market | RESOURCE
+material with signs of bioerosion | QUALITY
+material | RESOURCE
+meadow | RESOURCE
+meadows | RESOURCE
+mechanical properties | QUALITY
+metals | RESOURCE
+metamorphism | QUALITY
+meteorological mechanism | QUALITY
+mica | RESOURCE
+microplastic abundance | QUALITY
+microplastic abundances | QUALITY
+microplastic contamination | PROCESS
+microplastic particles | RESOURCE
+microplastic pollution | PROCESS
+microplastic | RESOURCE
+microplastics | RESOURCE
+microtidal beaches | RESOURCE
+migrant per generation ( Nm ) | QUALITY
+migrate | PROCESS
+migrating populations | ACTOR
+migration flows | PROCESS
+migration rate | QUALITY
+migration | PROCESS
+military | ACTOR
+mineral and energy industries | ACTOR
+mist formation | PROCESS
+monitoring | PROCESS
+monsoon | PROCESS
+montane forest areas | LOCATION
+motion | PROCESS
+movement of water | PROCESS
+muscovite | RESOURCE
+mutagenic | QUALITY
+native species | ACTOR
+natural attenuation | PROCESS
+natural disaster | PROCESS
+natural resources | RESOURCE
+needs | QUALITY
+negative effects | PROCESS
+net photosynthetic rate | QUALITY
+net production | QUALITY
+non - renewable resources | QUALITY
+nonalgal particulates | RESOURCE
+normalized difference vegetative index ( NDVI ) | QUALITY
+north sector | LOCATION
+northern pike | ACTOR
+nourishment | PROCESS
+nucleotide diversity | QUALITY
+nursery | PROCESS
+nutrient | RESOURCE
+ocean circulation | PROCESS
+ocean power | PROCESS
+oceanic winds | PROCESS
+offshore fresh groundwater ( OFG ) reserves | RESOURCE
+offshore oil pumping | PROCESS
+oil industry | ACTOR
+oil spill pollution | PROCESS
+oil spill | PROCESS
+omnivorous diving and carrion - feeding marine birds | ACTOR
+onset signals | RESOURCE
+open water | LOCATION
+operating conditions | QUALITY
+operation | PROCESS
+optically complex waters | QUALITY
+orchards | RESOURCE
+organic pollutants | RESOURCE
+organisms | ACTOR
+over - exploitation | PROCESS
+paleoenvironmental reconstructions | PROCESS
+parasitic groups | ACTOR
+peak pattern | QUALITY
+pellets | RESOURCE
+people | ACTOR
+perch | ACTOR
+perylene | RESOURCE
+petrochemical complexes | RESOURCE
+petrochemical industry wastes | RESOURCE
+petrogenic PAHs | RESOURCE
+photochemical reaction | PROCESS
+physico - chemical properties | QUALITY
+phytoplankton biomass | QUALITY
+phytoplankton | RESOURCE
+planning stakeholders | ACTOR
+planning systems | RESOURCE
+plant species | RESOURCE
+plantations | RESOURCE
+political factors | QUALITY
+political reasons | QUALITY
+pollutants | RESOURCE
+polluted coastal area | QUALITY
+pollution load | QUALITY
+pollution | PROCESS
+polychaetes | ACTOR
+polyethylene particles | RESOURCE
+polymer type | QUALITY
+polypropylene | RESOURCE
+population density | QUALITY
+population exposure | QUALITY
+population growth | PROCESS
+population levels | QUALITY
+population migration | PROCESS
+population | ACTOR
+populations | ACTOR
+port development | PROCESS
+ports | RESOURCE
+potential migration | QUALITY
+power generation | PROCESS
+power plants | RESOURCE
+predator - prey interactions | PROCESS
+prevention measures | RESOURCE
+pristine coastal areas | LOCATION
+production | PROCESS
+products | RESOURCE
+program | RESOURCE
+properties | RESOURCE
+proportions | QUALITY
+pursuit - diving seabirds | QUALITY
+pyrene | RESOURCE
+pyrogenic PAHs | RESOURCE
+pyrogenic benzo ( b ) fluoranthene | RESOURCE
+pyroxene | RESOURCE
+pyroxenes | RESOURCE
+quality of the food supply | QUALITY
+quality | QUALITY
+quay wall | RESOURCE
+quay walls | RESOURCE
+rails | RESOURCE
+rainfall | PROCESS
+rayon | RESOURCE
+recovery | PROCESS
+refinery | RESOURCE
+reflective | QUALITY
+regional variability in | QUALITY
+renovation | PROCESS
+repair | PROCESS
+replacement | PROCESS
+reproduction | PROCESS
+reproductive success | QUALITY
+researchers | ACTOR
+reserves | RESOURCE
+residences | RESOURCE
+resilience | PROCESS
+resilience | QUALITY
+response accelerations | PROCESS
+risk | QUALITY
+river discharge | PROCESS
+river sediment | RESOURCE
+river systems | RESOURCE
+riverine conditions | QUALITY
+rivers | LOCATION
+rivers | RESOURCE
+roads | RESOURCE
+rubble mound | RESOURCE
+runoff | PROCESS
+rural or desolate coastal areas | QUALITY
+s - ECS | LOCATION
+saline ecosystem | RESOURCE
+salinities | QUALITY
+salinity | QUALITY
+salmon farms | RESOURCE
+salmonid farming industry | ACTOR
+salt - wedge influence | PROCESS
+salt tolerance | QUALITY
+saltation load | RESOURCE
+samples | RESOURCE
+sand shell ridges | RESOURCE
+sand | RESOURCE
+satellite Chl - a | QUALITY
+scientists | ACTOR
+sea - cliffs | LOCATION
+sea - cliffs | RESOURCE
+sea - level rise ( SLR ) | PROCESS
+sea action | PROCESS
+sea cliffs | RESOURCE
+sea level behaviour | QUALITY
+sea level rise | PROCESS
+sea level | QUALITY
+sea levels | QUALITY
+sea turtles | ACTOR
+sea | RESOURCE
+seasonal variability | QUALITY
+seasonally flooded emergent habitats | QUALITY
+seawater | RESOURCE
+sediment composition | QUALITY
+sediment core | RESOURCE
+sediment gradation | QUALITY
+sediment samples | RESOURCE
+sediment source | RESOURCE
+sediment sources | RESOURCE
+sediment | RESOURCE
+sedimentary facies | QUALITY
+sedimentation rates | QUALITY
+sediments | RESOURCE
+shallow - water current measurements | PROCESS
+shallow bay habitat | RESOURCE
+shallow bays | LOCATION
+shallow coastal environment | QUALITY
+shallow open wells | QUALITY
+shallow sea facies | QUALITY
+shape | QUALITY
+shapes | QUALITY
+shore | LOCATION
+shoreline erosion awareness subsystem | RESOURCE
+shoreline | LOCATION
+shortage of water | PROCESS
+shortage | PROCESS
+shrubs | RESOURCE
+silimanite | RESOURCE
+silt sized particles | QUALITY
+silty clay | RESOURCE
+silty sand | QUALITY
+size class | QUALITY
+size classes | QUALITY
+size composition | QUALITY
+size | QUALITY
+sizes | QUALITY
+slope | QUALITY
+social and political contexts | QUALITY
+social | QUALITY
+socio - economic activities | PROCESS
+socioeconomic | QUALITY
+soft substrates | QUALITY
+south sector | LOCATION
+southern East China Sea ( s - ECS ) | LOCATION
+southern sector | LOCATION
+spatial and temporal scales | QUALITY
+spatial distribution | QUALITY
+spatial pattern | QUALITY
+spatial scales | QUALITY
+spatial subsystem | RESOURCE
+spatial system | RESOURCE
+spawned | PROCESS
+spawning ground | RESOURCE
+spawning grounds | RESOURCE
+spawning migration | PROCESS
+spawning patterns | QUALITY
+spawning | PROCESS
+species composition | QUALITY
+species of flora and fauna | RESOURCE
+species richness | QUALITY
+spectral range | QUALITY
+speed | QUALITY
+splay faults | PROCESS
+sporadically Rotifera | RESOURCE
+stations | RESOURCE
+staurolite | RESOURCE
+stocking | PROCESS
+stomatal conductance | QUALITY
+stomatal limiting value | QUALITY
+storm | PROCESS
+strategy | RESOURCE
+streams | LOCATION
+strong currents | QUALITY
+structure | QUALITY
+structures | RESOURCE
+sub - area A | LOCATION
+sub - area B | LOCATION
+sub - area C | LOCATION
+sub - areas B and C | LOCATION
+sub - littoral station | LOCATION
+sub volcanic massif outcrops | LOCATION
+sub volcanic massif | LOCATION
+subarea A | LOCATION
+subarea C | LOCATION
+subduction zone | LOCATION
+subduction zones | LOCATION
+submerged aquatic vegetation | RESOURCE
+subtidal station | LOCATION
+subtidal stations | LOCATION
+subtidal zone | LOCATION
+super typhoon | PROCESS
+support tool | RESOURCE
+surf station | LOCATION
+surface flows | PROCESS
+surface seawater | RESOURCE
+surface sediments | RESOURCE
+surface terrain changes | PROCESS
+surface waters | RESOURCE
+survival | QUALITY
+suspension load | RESOURCE
+sustainable water use | QUALITY
+sustained growth | QUALITY
+swamps | RESOURCE
+swash zone | LOCATION
+swimming | PROCESS
+synthesis conditions | QUALITY
+tar - ball | RESOURCE
+tar - balls | RESOURCE
+taxa | ACTOR
+taxonomic and functional diversity | QUALITY
+technological evolution | PROCESS
+technologies | RESOURCE
+temperature | QUALITY
+temperatures | QUALITY
+teratogenic | QUALITY
+textural sediment characteristics | QUALITY
+thermal gradient | PROCESS
+threats | PROCESS
+threshold responses | PROCESS
+tidal actions | PROCESS
+tidal bank facies | QUALITY
+tidal bank | RESOURCE
+tidal channel facies | QUALITY
+tidal channel | RESOURCE
+tidal current and littoral stream sediment | RESOURCE
+tidal deposition | PROCESS
+tidal depositional body | RESOURCE
+tidal flat | LOCATION
+timing | QUALITY
+total OFG volume | QUALITY
+total concentration | QUALITY
+total nitrogen | QUALITY
+total petroleum hydrocarbon ( TPH ) | RESOURCE
+tourism | PROCESS
+tourmaline | RESOURCE
+toxic effects | PROCESS
+transpiration rate | QUALITY
+transportation | PROCESS
+treatment | PROCESS
+tributaries | LOCATION
+tributaries | RESOURCE
+trophic activity | PROCESS
+tsunami hazard | PROCESS
+tsunami sources | QUALITY
+tsunami | PROCESS
+tsunamigenic potential | QUALITY
+tsunamis | PROCESS
+typhoon | PROCESS
+typhoons | PROCESS
+unconsolidated coastal aquifers | QUALITY
+underground brine | RESOURCE
+underground brines | RESOURCE
+unexpected events | PROCESS
+urban and rural areas | LOCATION
+urban areas | LOCATION
+urban coastal areas | LOCATION
+urban populace | ACTOR
+utility program | RESOURCE
+variability | QUALITY
+vegetation damage | PROCESS
+vegetation | RESOURCE
+vertical movement of land | PROCESS
+vulnerability | QUALITY
+vulnerable | QUALITY
+w - CAK | LOCATION
+waste discharges | PROCESS
+waste | RESOURCE
+wastewater systems | RESOURCE
+water - related disasters | PROCESS
+water and sediment - related disasters | PROCESS
+water pollution | PROCESS
+water quality degradation | PROCESS
+water quality requirements | QUALITY
+water quality | QUALITY
+water resource management | PROCESS
+water source | RESOURCE
+water stress | PROCESS
+water vapour recycling | PROCESS
+water | RESOURCE
+waterfront structures | RESOURCE
+waters | RESOURCE
+watershed | RESOURCE
+watersheds | RESOURCE
+wave actions | PROCESS
+waves | PROCESS
+weather event | PROCESS
+wildfires | PROCESS
+wind disturbance | PROCESS
+wind disturbance | QUALITY
+wind flow | PROCESS
+year - class | RESOURCE
+young - of - year ( YOY ) | RESOURCE
+zooplankton | ACTOR
+zooplankton | RESOURCE

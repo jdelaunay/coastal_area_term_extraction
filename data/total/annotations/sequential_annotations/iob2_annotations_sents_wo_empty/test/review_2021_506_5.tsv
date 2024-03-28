@@ -1,0 +1,16 @@
+A	O
+few	O
+waterfront	B-RESOURCE
+structures	I-RESOURCE
+in	O
+Sayung	B-LOCATION
+waters	I-LOCATION
+were	O
+built	O
+as	O
+breakwaters	B-RESOURCE
+to	O
+decrease	O
+incoming	O
+waves	B-PROCESS
+.	O
