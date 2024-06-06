@@ -1,0 +1,1 @@
+Preliminary results in the Saint Lawrence System during May 2000 and April 2001 showed that QAA - hybrid estimates of phytoplankton absorption coefficient at 443 nm have a smaller bias with respect to in situ measurements ( root - mean - square deviation , RMSD = 0 . 156 ) than those derived from QAA - SLE ( RMSD = 0 . 341 ) .

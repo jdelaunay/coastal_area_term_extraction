@@ -1,0 +1,17 @@
+The	O
+source	O
+analysis	O
+showed	O
+that	O
+dustfall	B-PROCESS
+APAHs	B-RESOURCE
+mainly	O
+derived	O
+from	O
+vehicle	B-PROCESS
+emissions	I-PROCESS
+and	O
+used	O
+crankcase	B-RESOURCE
+oil	I-RESOURCE
+.	O

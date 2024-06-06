@@ -1,0 +1,1 @@
+The model was calibrated and validated against meteorological conditions , sea surface level , harmonic tidal constituents , water temperature and salinity using a combination of available in - situ measurements , satellite , and ARGO floats data .

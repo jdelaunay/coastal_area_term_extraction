@@ -1,0 +1,1 @@
+Steady - state times were calculated and found to be size dependent , ranging from 206 to 397 d .

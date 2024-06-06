@@ -1,0 +1,1 @@
+We develop the bottleneck index , a new network metric that positively correlates with the predicted impacts of habitat loss on overall population flow .

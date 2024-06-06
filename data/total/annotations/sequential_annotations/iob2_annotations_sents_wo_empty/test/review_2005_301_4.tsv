@@ -1,0 +1,15 @@
+Secondary	B-QUALITY
+factors	I-QUALITY
+affected	O
+by	O
+climate	B-QUALITY
+include	O
+nutrient	B-PROCESS
+loading	I-PROCESS
+,	O
+residence	B-QUALITY
+time	I-QUALITY
+and	O
+water	B-QUALITY
+levels	I-QUALITY
+.	O

@@ -1,0 +1,1 @@
+Copyright 2016 Techno - Press , Ltd . A wind velocity power spectrum ( WVPS ) with high fidelity is extremely important for accurateprediction ofstructural buffeting response .

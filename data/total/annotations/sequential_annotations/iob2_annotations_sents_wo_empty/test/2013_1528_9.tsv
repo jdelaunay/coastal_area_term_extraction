@@ -1,0 +1,10 @@
+Halophila	B-RESOURCE
+beccarii	I-RESOURCE
+tolerated	O
+hyposaline	B-QUALITY
+conditions	I-QUALITY
+better	O
+than	O
+hypersaline	B-QUALITY
+conditions	I-QUALITY
+.	O

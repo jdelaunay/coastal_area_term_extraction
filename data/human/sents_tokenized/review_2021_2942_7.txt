@@ -1,0 +1,1 @@
+Wireless Sensor Networks GWSN1 can be deployed for many other real time projects , as the data could be collected rapidly and efficiently .

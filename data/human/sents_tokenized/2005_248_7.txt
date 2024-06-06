@@ -1,0 +1,1 @@
+This paper presents a simulation model that assesses the flight performance of an upgraded maritime helicopter during various flight segments of an anti - submarine warfare ( ASW ) mission environment .

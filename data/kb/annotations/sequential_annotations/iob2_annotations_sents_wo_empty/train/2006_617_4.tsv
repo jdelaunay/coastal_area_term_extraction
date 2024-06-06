@@ -1,0 +1,16 @@
+Opposite	O
+,	O
+the	O
+most	O
+important	O
+negative	O
+effect	O
+was	O
+caused	O
+by	O
+pollutant	B-RESOURCE
+-	O
+enriched	O
+water	B-PROCESS
+discharges	I-PROCESS
+.	O

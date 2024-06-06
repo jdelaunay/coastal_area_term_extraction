@@ -1,0 +1,13 @@
+(	O
+2	O
+)	O
+The	O
+nutrient	B-RESOURCE
+released	O
+from	O
+mariculture	B-ACTOR
+industry	I-ACTOR
+influenced	O
+nutrient	B-RESOURCE
+stoichiometry	B-QUALITY
+.	O

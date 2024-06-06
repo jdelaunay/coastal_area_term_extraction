@@ -1,0 +1,1 @@
+In this paper , a system of Wireless Sensor Networks has been developed and it comprises of sensor hubs that are conveyed at the particular surge and helpless areas for performing a real - time surge checking and discovery .

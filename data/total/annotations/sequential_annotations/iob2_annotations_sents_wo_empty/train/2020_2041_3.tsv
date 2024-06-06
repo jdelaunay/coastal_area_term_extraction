@@ -1,0 +1,17 @@
+In	O
+SE	B-LOCATION
+Sulawesi	I-LOCATION
+,	O
+tissue	B-RESOURCE
+-	I-RESOURCE
+cultured	I-RESOURCE
+seedling	I-RESOURCE
+are	O
+already	O
+been	O
+used	O
+by	O
+the	O
+seaweed	B-ACTOR
+farmers	I-ACTOR
+.	O

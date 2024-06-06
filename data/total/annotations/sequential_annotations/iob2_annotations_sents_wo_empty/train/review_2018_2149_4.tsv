@@ -1,0 +1,16 @@
+Coastal	B-RESOURCE
+aquifer	I-RESOURCE
+is	O
+under	O
+pressure	O
+from	O
+abstraction	B-PROCESS
+caused	O
+by	O
+population	B-ACTOR
+,	O
+industry	B-ACTOR
+,	O
+and	O
+agriculture	B-ACTOR
+.	O

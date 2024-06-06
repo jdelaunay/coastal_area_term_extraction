@@ -1,0 +1,1 @@
+3D hydrodynamic model that includes a Lagrangian particle simulation can participate to this understanding of dynamics .

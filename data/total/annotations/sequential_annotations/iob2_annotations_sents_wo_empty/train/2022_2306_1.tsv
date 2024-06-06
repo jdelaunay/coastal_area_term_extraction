@@ -1,0 +1,14 @@
+Citizens	B-ACTOR
+knowledge	B-QUALITY
+and	O
+awareness	B-QUALITY
+are	O
+drivers	B-QUALITY
+of	I-QUALITY
+changes	I-QUALITY
+needed	O
+to	O
+improve	O
+environment	B-PROCESS
+conservation	I-PROCESS
+.	O

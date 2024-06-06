@@ -1,0 +1,14 @@
+Re	B-PROCESS
+-	I-PROCESS
+infiltration	I-PROCESS
+was	O
+superior	O
+to	O
+local	O
+infiltration	B-PROCESS
+over	O
+CFRB	B-LOCATION
+during	O
+Hurricane	B-PROCESS
+Florence	I-PROCESS
+.	O

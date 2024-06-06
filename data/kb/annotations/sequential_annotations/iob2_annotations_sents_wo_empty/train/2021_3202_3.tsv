@@ -1,0 +1,11 @@
+Coastal	B-PROCESS
+flooding	I-PROCESS
+can	O
+result	O
+in	O
+economic	B-QUALITY
+and	O
+human	B-QUALITY
+life	I-QUALITY
+losses	I-QUALITY
+.	O

@@ -1,0 +1,1 @@
+Studies based on dynamic numerical models require the coupling of hydrology , oceanology , and hydraulic models with meteorological components ( tropical cyclones , wind field , pressure field ) as important boundary conditions .

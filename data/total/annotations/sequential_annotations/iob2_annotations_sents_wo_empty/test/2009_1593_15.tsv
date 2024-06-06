@@ -1,0 +1,17 @@
+The	O
+main	O
+source	O
+of	O
+sediment	B-RESOURCE
+changes	O
+from	O
+river	B-RESOURCE
+sediment	I-RESOURCE
+to	O
+tidal	B-RESOURCE
+current	I-RESOURCE
+and	I-RESOURCE
+littoral	I-RESOURCE
+stream	I-RESOURCE
+sediment	I-RESOURCE
+.	O

@@ -1,0 +1,16 @@
+Tar	B-RESOURCE
+-	I-RESOURCE
+balls	I-RESOURCE
+are	O
+one	O
+of	O
+the	O
+products	B-RESOURCE
+that	O
+come	O
+from	O
+the	O
+oil	B-PROCESS
+spill	I-PROCESS
+pollution	I-PROCESS
+.	O

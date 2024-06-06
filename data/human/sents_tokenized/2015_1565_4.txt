@@ -1,0 +1,1 @@
+The risk components are prioritized and layers are allocated according to their risk scores .

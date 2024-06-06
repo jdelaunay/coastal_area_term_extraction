@@ -1,0 +1,17 @@
+We	O
+collected	O
+152	O
+samples	O
+of	O
+horseshoe	B-ACTOR
+crab	I-ACTOR
+from	O
+the	O
+coastal	B-LOCATION
+area	I-LOCATION
+of	O
+the	O
+Bay	B-LOCATION
+of	I-LOCATION
+Bengal	I-LOCATION
+.	O

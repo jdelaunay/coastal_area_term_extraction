@@ -1,0 +1,17 @@
+The	O
+main	O
+tidal	B-RESOURCE
+depositional	I-RESOURCE
+body	I-RESOURCE
+of	O
+modern	O
+Liaohe	B-LOCATION
+River	I-LOCATION
+delta	B-LOCATION
+is	O
+located	O
+in	O
+Shuangtaizihe	B-LOCATION
+River	I-LOCATION
+estuary	B-RESOURCE
+.	O

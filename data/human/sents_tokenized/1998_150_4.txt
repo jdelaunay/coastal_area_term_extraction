@@ -1,0 +1,1 @@
+The work which will be described here will focused on the development of an underwater LIDAR platform , based on the use of a frequency doubled YAG Nd 3 + laser source and an optical receiver , using optical fibre technology coupled to a UV - visible spectrometer .

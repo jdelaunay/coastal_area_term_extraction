@@ -1,0 +1,15 @@
+North	B-ACTOR
+Korea	I-ACTOR
+has	O
+remained	O
+for	O
+decades	O
+without	O
+maintenance	B-PROCESS
+,	O
+repair	B-PROCESS
+and	O
+replacement	B-PROCESS
+of	O
+infrastructure	B-RESOURCE
+.	O

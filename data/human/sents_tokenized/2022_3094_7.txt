@@ -1,0 +1,1 @@
+Fragility and vulnerability curves are finally derived in terms of different intensity measures and compared with available literature curves .

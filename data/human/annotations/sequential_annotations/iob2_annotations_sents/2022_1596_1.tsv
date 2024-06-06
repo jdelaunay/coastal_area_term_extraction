@@ -1,0 +1,15 @@
+The	O
+model	B-QUALITY
+performance	I-QUALITY
+is	O
+strongly	O
+affected	O
+by	O
+parameters	O
+such	O
+as	O
+bathymetry	B-QUALITY
+and	O
+bottom	B-PROCESS
+friction	I-PROCESS
+.	O

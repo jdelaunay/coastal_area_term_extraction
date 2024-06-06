@@ -1,0 +1,1 @@
+We used the Latent Dirichlet Allocation ( LDA ) to refine topics and main contents based on 232 publications ( 1900 to 2019 ) extracted from Web of Science and Scopus .

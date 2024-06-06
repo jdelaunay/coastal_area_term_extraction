@@ -1,0 +1,1 @@
+In this study R programming language was introduced to analyze the dispersion and concentrations of Biochemical Oxygen Demand ( BOD ) , Dissolved Oxygen ( DO ) , Chemical Oxygen Demand ( COD ) , pH , temperature , nutrients ( nitrate , nitrite and phosphate ) , turbidity and Chlorophyll ( Chla ) .

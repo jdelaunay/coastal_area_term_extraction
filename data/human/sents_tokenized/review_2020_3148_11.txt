@@ -1,0 +1,1 @@
+Spatial analysis of the hazardous area was performed by assigning a risk rating between 1 and 5 using the natural breaks classification method .

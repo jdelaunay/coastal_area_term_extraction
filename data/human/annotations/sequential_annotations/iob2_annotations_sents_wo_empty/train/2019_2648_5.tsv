@@ -1,0 +1,15 @@
+Solar	B-RESOURCE
+panels	I-RESOURCE
+have	O
+been	O
+installed	O
+near	O
+the	O
+buildings	B-RESOURCE
+to	O
+get	O
+energy	B-RESOURCE
+from	O
+the	O
+sun	B-RESOURCE
+.	O

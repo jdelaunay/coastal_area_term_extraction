@@ -1,0 +1,1 @@
+A spatial ( alongtrack ) averaging bin size of 20 m , or equivalently 13 1 - Hz profiles at 3 - kn speed , reduces the standard deviation of the current magnitude measurements to a stable level .

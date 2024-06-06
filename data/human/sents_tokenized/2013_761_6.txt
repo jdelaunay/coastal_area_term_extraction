@@ -1,0 +1,1 @@
+Such high prediction accuracy is achievable because the two seasonal peaks of cholera are predicted using two separate models representing distinctive macro - scale environmental processes .

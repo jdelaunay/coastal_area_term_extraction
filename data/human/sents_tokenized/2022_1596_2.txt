@@ -1,0 +1,1 @@
+In this study , we propose a method that estimates bathymetry globally and the bottom friction coefficient in shallow waters for a global tide and surge model ( GTSMv4 . 1 ) .

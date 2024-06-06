@@ -1,0 +1,1 @@
+Based on numerical simulations , we gain insight into how these parameters affect SWR , and produce type curves which can be used as a simple tool for estimating SWR timescales in idealized coastal systems , independent of the hydraulic and geometric characteristics of the aquifer .

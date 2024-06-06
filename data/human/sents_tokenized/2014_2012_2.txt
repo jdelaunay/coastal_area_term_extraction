@@ -1,0 +1,1 @@
+Surface particles are released every 5 days between February 1st and August 1st in each year , and the variability in their trajectories on interannual time scales is quantified by Lagrangian probability density function calculations .

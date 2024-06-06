@@ -1,0 +1,1 @@
+In this paper , we present results of the research and development of a web - based , mobile , spatial system for coastal management , and decision - making that integrates these technologies .

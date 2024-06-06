@@ -1,0 +1,17 @@
+Beach	B-PROCESS
+nourishment	I-PROCESS
+restores	O
+beaches	B-RESOURCE
+and	O
+enhances	O
+both	O
+their	O
+recreational	B-QUALITY
+value	I-QUALITY
+and	O
+their	O
+utility	O
+in	O
+shore	B-PROCESS
+protection	I-PROCESS
+.	O

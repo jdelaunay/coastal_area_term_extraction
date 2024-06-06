@@ -1,0 +1,1 @@
+Here , we adopted the Soil and Water Assessment Tool ( SWAT ) model to describe the riverine N output and retention effects in the Shanmei Reservoir Basin , a subtropical mountainous basin located in Quanzhou City , Southeast China .

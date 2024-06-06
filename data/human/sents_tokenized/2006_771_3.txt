@@ -1,0 +1,1 @@
+The model used temperature as the driving variable to predict egg abundance , stage - specific development , growth , survival , and ultimately relative production of YOY northern pike within 1 - ha plots representative of the three habitats .

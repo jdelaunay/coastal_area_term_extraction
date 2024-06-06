@@ -1,0 +1,15 @@
+Some	O
+toothed	B-ACTOR
+whales	I-ACTOR
+in	O
+coastal	B-LOCATION
+areas	I-LOCATION
+consume	O
+many	O
+prey	B-RESOURCE
+species	I-RESOURCE
+that	O
+are	O
+commercially	B-PROCESS
+caught	I-PROCESS
+.	O

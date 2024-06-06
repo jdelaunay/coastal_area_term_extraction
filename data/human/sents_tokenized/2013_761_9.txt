@@ -1,0 +1,1 @@
+Our results demonstrate that satellite data over a range of space and time scales are effective in developing a cholera prediction model for the Bengal Delta with several months ' lead time .

@@ -1,0 +1,17 @@
+Stable	B-RESOURCE
+isotopes	I-RESOURCE
+(	I-RESOURCE
+d15N	I-RESOURCE
+)	I-RESOURCE
+have	O
+been	O
+used	O
+to	O
+determine	O
+trophic	B-QUALITY
+levels	I-QUALITY
+in	O
+marine	B-QUALITY
+food	I-QUALITY
+webs	I-QUALITY
+.	O

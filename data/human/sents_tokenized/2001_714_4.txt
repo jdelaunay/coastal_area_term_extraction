@@ -1,0 +1,1 @@
+The end effects being disregarded at the moment , the problem is regarded as a 2D one and it is investigated both experimentally , in a physical wave tank , and numerically using two Numerical Wave Tanks ( NWT ) : the first one based on a fully non - linear potential flow theory , the second one , solving RANSE equations , simulating a viscous flow around the structure .

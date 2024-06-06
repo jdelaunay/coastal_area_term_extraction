@@ -1,0 +1,1 @@
+Standard generation - propagation models ( WAM , WAVEWATCH , SWAN ) are commonly used for operational oceanography purposes with satisfactory results both in the open ocean and in near shore areas but they do not provide information about the possibility of flooding in coastal areas .

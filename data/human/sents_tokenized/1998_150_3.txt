@@ -1,0 +1,1 @@
+In addition to the simple backscattering analysis , emphasis will be laid on the spectroscopic response of the medium in order to increase the discrimination power of the LIDAR .

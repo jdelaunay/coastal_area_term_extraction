@@ -1,0 +1,11 @@
+Deposition	B-PROCESS
+occurred	O
+close	O
+to	O
+a	O
+shallow	B-LOCATION
+-	I-LOCATION
+water	I-LOCATION
+coastal	I-LOCATION
+area	I-LOCATION
+.	O

@@ -1,0 +1,1 @@
+Here , we develop a novel graph - theoretic approach to measure the vulnerability of a migratory network to the impact of habitat loss from SLR based on population flow through the network .

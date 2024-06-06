@@ -1,0 +1,1 @@
+When the GEOS - CF product was compared to the TOLNet LiDAR observations at both NASA Langley Research Center ( LaRC ) and the Chesapeake Bay Bridge Tunnel ( CBBT ) , the median differences at LaRC were 6 to 8 % and at CBBT were 7 % between 400 and 2000 m ASL .

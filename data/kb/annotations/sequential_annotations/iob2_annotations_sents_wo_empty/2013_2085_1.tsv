@@ -1,0 +1,15 @@
+It	O
+is	O
+widely	O
+recognized	O
+that	O
+wetlands	B-RESOURCE
+along	O
+coastal	B-LOCATION
+fringes	I-LOCATION
+reduce	O
+storm	B-PROCESS
+surge	I-PROCESS
+and	O
+waves	B-PROCESS
+.	O

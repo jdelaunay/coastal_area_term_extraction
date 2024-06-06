@@ -1,0 +1,12 @@
+Water	B-PROCESS
+resources	I-PROCESS
+management	I-PROCESS
+on	O
+coasts	B-LOCATION
+should	O
+consider	O
+groundwater	B-PROCESS
+-	I-PROCESS
+seawater	I-PROCESS
+interactions	I-PROCESS
+.	O

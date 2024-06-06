@@ -1,0 +1,1 @@
+A simple , empirical model based on the 10 watersheds was developed to predict mussel 15N from land use characteristics .

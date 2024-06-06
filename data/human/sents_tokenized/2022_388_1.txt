@@ -1,0 +1,1 @@
+The method consists of applying a principal component analysis to daily fields of the sea level pressure ( SLP ) data from the NCEP - CFSR reanalysis .

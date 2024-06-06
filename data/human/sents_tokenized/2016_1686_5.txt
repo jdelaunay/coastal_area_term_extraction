@@ -1,0 +1,1 @@
+The spectrum for each strong wind was then fitted using the nonlinear least square method and compared with both the fitted spectrum from statistical analysis and the recommendedspectrumin specifications .

@@ -1,0 +1,16 @@
+Climate	B-PROCESS
+change	I-PROCESS
+is	O
+the	O
+background	O
+for	O
+many	O
+articles	O
+discussing	O
+vulnerability	B-QUALITY
+and	O
+adaptation	B-QUALITY
+in	O
+coastal	B-LOCATION
+areas	I-LOCATION
+.	O

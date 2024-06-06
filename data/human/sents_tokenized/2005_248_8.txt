@@ -1,0 +1,1 @@
+The simulation model is component of " Intelligent Decision Support System " ( IDSS ) a Software tool in development .

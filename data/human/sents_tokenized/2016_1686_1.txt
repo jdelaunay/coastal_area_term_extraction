@@ -1,0 +1,1 @@
+WVPS heavily depends on the geographical locations , local terrainsand topographies . Hence , field measurement of wind characteristics may be the unique way to obtain the accurate WVPSfor a specificregion .

@@ -1,0 +1,1 @@
+In this study , we evaluated the impact of the super typhoon Sarika on vegetation by performing normalized difference vegetative index ( NDVI ) difference analysis using MODIS multi - temporal images acquired before and after the typhoon .

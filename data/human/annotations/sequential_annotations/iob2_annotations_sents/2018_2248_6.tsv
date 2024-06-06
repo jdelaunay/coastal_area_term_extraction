@@ -1,0 +1,16 @@
+Under	O
+current	B-QUALITY
+climate	I-QUALITY
+,	O
+1285	O
+Myrtaceae	B-RESOURCE
+species	I-RESOURCE
+are	O
+at	O
+risk	B-QUALITY
+of	I-QUALITY
+exposure	I-QUALITY
+to	O
+myrtle	B-ACTOR
+rust	I-ACTOR
+.	O

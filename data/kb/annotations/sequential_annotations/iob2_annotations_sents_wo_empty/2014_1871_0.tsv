@@ -1,0 +1,16 @@
+Chromis	B-ACTOR
+chromis	I-ACTOR
+is	O
+one	O
+of	O
+the	O
+most	O
+abundant	O
+fish	B-ACTOR
+species	I-ACTOR
+on	O
+the	O
+Mediterranean	B-LOCATION
+rocky	I-LOCATION
+shores	I-LOCATION
+.	O

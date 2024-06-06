@@ -1,0 +1,1 @@
+The difficulties and future research trends are to construct the nonstationary statistical model of two and more hazards under a changing environment .

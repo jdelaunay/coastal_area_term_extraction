@@ -1,0 +1,1 @@
+Generalized linear modeling and permanova were used to identify the impact of measured parameters on macroinvertebrate communities .

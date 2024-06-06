@@ -1,0 +1,13 @@
+Plaice	B-RESOURCE
+and	O
+whiting	B-RESOURCE
+discard	B-QUALITY
+rates	I-QUALITY
+overlapped	O
+in	O
+space	O
+with	O
+undersized	B-QUALITY
+abundance	B-QUALITY
+indices	O
+.	O

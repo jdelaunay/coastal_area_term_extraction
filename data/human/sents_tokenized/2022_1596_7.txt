@@ -1,0 +1,1 @@
+Estimation results show that model performance is significantly improved for the deep ocean and shallow waters , especially in the European shelf , directly using the CMEMS tide gauge data in the estimation .

@@ -1,0 +1,16 @@
+Intra	B-QUALITY
+-	I-QUALITY
+annual	I-QUALITY
+variability	I-QUALITY
+of	O
+the	O
+nutrients	B-QUALITY
+concentration	I-QUALITY
+in	O
+the	O
+sea	B-RESOURCE
+surface	I-RESOURCE
+layer	I-RESOURCE
+is	O
+observed	O
+.	O

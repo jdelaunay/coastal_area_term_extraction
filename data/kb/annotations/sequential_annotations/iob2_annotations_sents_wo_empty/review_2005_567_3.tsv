@@ -1,0 +1,14 @@
+Some	O
+non	B-ACTOR
+-	I-ACTOR
+native	I-ACTOR
+species	I-ACTOR
+appear	O
+to	O
+have	O
+out	O
+-	O
+competed	O
+native	B-ACTOR
+species	I-ACTOR
+.	O

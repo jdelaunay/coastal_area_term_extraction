@@ -1,0 +1,1 @@
+The transfer functions have relatively low root - mean - square errors of prediction ( expressed as a percentage of the range of the modern environmental gradient sampled ) - for Ts , 3 . 9 % , and for Ss , 9 . 02 % - compared to transfer functions developed for other proxies , which commonly range from 8 % to 20 % .

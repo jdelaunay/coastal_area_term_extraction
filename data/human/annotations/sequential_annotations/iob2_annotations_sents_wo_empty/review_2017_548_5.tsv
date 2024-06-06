@@ -1,0 +1,16 @@
+Shoreline	B-LOCATION
+-	O
+specific	O
+physicochemical	B-QUALITY
+conditions	I-QUALITY
+such	O
+as	O
+littoral	B-QUALITY
+slope	I-QUALITY
+and	O
+shoreline	B-QUALITY
+exposure	I-QUALITY
+further	O
+induce	O
+modifications	B-PROCESS
+.	O

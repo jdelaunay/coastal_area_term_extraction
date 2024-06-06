@@ -1,0 +1,11 @@
+Plastic	B-PROCESS
+weathering	I-PROCESS
+increases	O
+the	O
+bioavailability	B-QUALITY
+of	O
+MPs	B-RESOURCE
+to	O
+marine	B-RESOURCE
+organisms	I-RESOURCE
+.	O

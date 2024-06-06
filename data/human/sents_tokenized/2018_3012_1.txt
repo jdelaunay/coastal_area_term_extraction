@@ -1,0 +1,1 @@
+All rights reserved . Here , we illustrate the use of Defence Meteorological Satellite Program - Operational Linescan System ( DMSP / OLS ) night - time imageries as a dataset to monitor human activities and urban change at regional scale .

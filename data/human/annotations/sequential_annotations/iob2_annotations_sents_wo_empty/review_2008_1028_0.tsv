@@ -1,0 +1,11 @@
+Greece	B-ACTOR
+is	O
+dependent	O
+on	O
+groundwater	B-RESOURCE
+resources	I-RESOURCE
+for	O
+its	B-ACTOR
+water	B-RESOURCE
+supply	I-RESOURCE
+.	O

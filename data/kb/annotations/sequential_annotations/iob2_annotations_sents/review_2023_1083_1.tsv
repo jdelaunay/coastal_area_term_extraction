@@ -1,0 +1,17 @@
+This	O
+study	O
+reviews	O
+the	O
+current	O
+status	O
+of	O
+mangrove	B-RESOURCE
+ecology	B-QUALITY
+,	O
+management	B-PROCESS
+and	O
+conservation	B-PROCESS
+in	O
+Sri	B-LOCATION
+Lanka	I-LOCATION
+.	O

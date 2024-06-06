@@ -1,0 +1,1 @@
+The main advantage of applying such a method is in reducing the number of numerical simulations ( lower computational cost ) at the same time it represents the totality of the atmospheric conditions observed in the study area .

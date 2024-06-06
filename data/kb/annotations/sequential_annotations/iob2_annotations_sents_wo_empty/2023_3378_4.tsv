@@ -1,0 +1,16 @@
+The	O
+switchable	B-RESOURCE
+damper	I-RESOURCE
+achieves	O
+velocity	B-QUALITY
+-	O
+dependent	O
+damping	B-PROCESS
+force	I-PROCESS
+and	O
+displacement	B-PROCESS
+-	O
+dependent	O
+damping	B-PROCESS
+force	I-PROCESS
+.	O

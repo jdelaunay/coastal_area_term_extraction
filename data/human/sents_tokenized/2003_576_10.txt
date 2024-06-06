@@ -1,0 +1,1 @@
+The profiler performs autonomous vertical profiling of CTD within the water column at depths down to 100 m . Recovery of the entire system is accomplished through either radio or acoustic communication with the profiler in order to release a messenger buoy .

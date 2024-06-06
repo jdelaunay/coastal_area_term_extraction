@@ -1,0 +1,12 @@
+Three	O
+species	O
+of	O
+whale	B-ACTOR
+,	O
+beluga	B-ACTOR
+,	O
+narwhal	B-ACTOR
+and	O
+minke	B-ACTOR
+(	O
+?	O

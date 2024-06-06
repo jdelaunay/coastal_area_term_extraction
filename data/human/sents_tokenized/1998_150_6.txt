@@ -1,0 +1,1 @@
+A maximum profile rate of one per second will be reached with 25 discrete spatial points .

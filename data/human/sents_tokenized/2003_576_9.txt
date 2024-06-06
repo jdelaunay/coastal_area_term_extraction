@@ -1,0 +1,1 @@
+SEPTR includes a micro - controller based bottom platform which houses an ADCP , wave / tide gauge , ambient noise sensor array , and water column profiler buoy system .
